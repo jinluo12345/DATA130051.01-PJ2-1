@@ -1,0 +1,555 @@
+no change     /remote-home1/lzjjin/anaconda3/condabin/conda
+no change     /remote-home1/lzjjin/anaconda3/bin/conda
+no change     /remote-home1/lzjjin/anaconda3/bin/conda-env
+no change     /remote-home1/lzjjin/anaconda3/bin/activate
+no change     /remote-home1/lzjjin/anaconda3/bin/deactivate
+no change     /remote-home1/lzjjin/anaconda3/etc/profile.d/conda.sh
+no change     /remote-home1/lzjjin/anaconda3/etc/fish/conf.d/conda.fish
+no change     /remote-home1/lzjjin/anaconda3/shell/condabin/Conda.psm1
+no change     /remote-home1/lzjjin/anaconda3/shell/condabin/conda-hook.ps1
+no change     /remote-home1/lzjjin/anaconda3/lib/python3.12/site-packages/xontrib/conda.xsh
+no change     /remote-home1/lzjjin/anaconda3/etc/profile.d/conda.csh
+no change     /remote-home1/lzjjin/.bashrc
+No action taken.
+/remote-home1/lzjjin/anaconda3/envs/flow/bin/python
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 1 (VA=0.3986)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep1/500 BS=32 TL=4.0027 TA=0.3047 VL=3.4307 VA=0.3986
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 2 (VA=0.4806)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep2/500 BS=32 TL=3.1016 TA=0.4529 VL=2.8706 VA=0.4806
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 3 (VA=0.6031)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep3/500 BS=32 TL=2.6534 TA=0.5452 VL=2.5021 VA=0.6031
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 4 (VA=0.7026)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep4/500 BS=32 TL=2.3003 TA=0.6675 VL=2.1876 VA=0.7026
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 5 (VA=0.7764)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep5/500 BS=32 TL=1.9890 TA=0.7575 VL=1.9038 VA=0.7764
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 6 (VA=0.8136)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep6/500 BS=32 TL=1.7124 TA=0.8154 VL=1.6550 VA=0.8136
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 7 (VA=0.8458)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep7/500 BS=32 TL=1.4675 TA=0.8472 VL=1.4321 VA=0.8458
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 8 (VA=0.8622)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep8/500 BS=32 TL=1.2544 TA=0.8705 VL=1.2433 VA=0.8622
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 9 (VA=0.8808)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep9/500 BS=32 TL=1.0744 TA=0.8867 VL=1.0784 VA=0.8808
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 10 (VA=0.8907)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep10/500 BS=32 TL=0.9226 TA=0.8998 VL=0.9442 VA=0.8907
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 11 (VA=0.9016)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep11/500 BS=32 TL=0.7974 TA=0.9092 VL=0.8311 VA=0.9016
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 12 (VA=0.9185)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep12/500 BS=32 TL=0.6939 TA=0.9200 VL=0.7334 VA=0.9185
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 13 (VA=0.9273)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep13/500 BS=32 TL=0.6091 TA=0.9307 VL=0.6560 VA=0.9273
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 14 (VA=0.9344)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep14/500 BS=32 TL=0.5393 TA=0.9373 VL=0.5891 VA=0.9344
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 15 (VA=0.9415)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep15/500 BS=32 TL=0.4810 TA=0.9455 VL=0.5345 VA=0.9415
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 16 (VA=0.9470)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep16/500 BS=32 TL=0.4326 TA=0.9504 VL=0.4880 VA=0.9470
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 17 (VA=0.9486)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep17/500 BS=32 TL=0.3922 TA=0.9560 VL=0.4505 VA=0.9486
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 18 (VA=0.9513)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep18/500 BS=32 TL=0.3588 TA=0.9582 VL=0.4170 VA=0.9513
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 19 (VA=0.9530)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep19/500 BS=32 TL=0.3294 TA=0.9612 VL=0.3903 VA=0.9530
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 20 (VA=0.9557)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep20/500 BS=32 TL=0.3047 TA=0.9631 VL=0.3640 VA=0.9557
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 21 (VA=0.9568)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep21/500 BS=32 TL=0.2839 TA=0.9660 VL=0.3425 VA=0.9568
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 22 (VA=0.9574)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep22/500 BS=32 TL=0.2656 TA=0.9683 VL=0.3242 VA=0.9574
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 23 (VA=0.9590)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep23/500 BS=32 TL=0.2492 TA=0.9687 VL=0.3051 VA=0.9590
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep24/500 BS=32 TL=0.2353 TA=0.9706 VL=0.2919 VA=0.9590
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 25 (VA=0.9595)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep25/500 BS=32 TL=0.2223 TA=0.9721 VL=0.2804 VA=0.9595
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 26 (VA=0.9606)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep26/500 BS=32 TL=0.2113 TA=0.9746 VL=0.2685 VA=0.9606
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 27 (VA=0.9612)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep27/500 BS=32 TL=0.2010 TA=0.9747 VL=0.2598 VA=0.9612
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 28 (VA=0.9617)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep28/500 BS=32 TL=0.1917 TA=0.9761 VL=0.2493 VA=0.9617
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 29 (VA=0.9628)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep29/500 BS=32 TL=0.1835 TA=0.9772 VL=0.2407 VA=0.9628
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep30/500 BS=32 TL=0.1755 TA=0.9785 VL=0.2353 VA=0.9628
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep31/500 BS=32 TL=0.1687 TA=0.9798 VL=0.2277 VA=0.9623
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 32 (VA=0.9645)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep32/500 BS=32 TL=0.1622 TA=0.9800 VL=0.2202 VA=0.9645
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep33/500 BS=32 TL=0.1559 TA=0.9807 VL=0.2158 VA=0.9645
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 34 (VA=0.9656)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep34/500 BS=32 TL=0.1508 TA=0.9813 VL=0.2104 VA=0.9656
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep35/500 BS=32 TL=0.1451 TA=0.9821 VL=0.2083 VA=0.9645
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep36/500 BS=32 TL=0.1402 TA=0.9825 VL=0.2004 VA=0.9656
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep37/500 BS=32 TL=0.1358 TA=0.9824 VL=0.1984 VA=0.9650
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep38/500 BS=32 TL=0.1315 TA=0.9828 VL=0.1930 VA=0.9656
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 39 (VA=0.9666)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep39/500 BS=32 TL=0.1276 TA=0.9833 VL=0.1885 VA=0.9666
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep40/500 BS=32 TL=0.1234 TA=0.9835 VL=0.1853 VA=0.9656
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep41/500 BS=32 TL=0.1200 TA=0.9840 VL=0.1827 VA=0.9661
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 42 (VA=0.9672)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep42/500 BS=32 TL=0.1163 TA=0.9843 VL=0.1785 VA=0.9672
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep43/500 BS=32 TL=0.1132 TA=0.9847 VL=0.1765 VA=0.9666
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep44/500 BS=32 TL=0.1101 TA=0.9850 VL=0.1749 VA=0.9666
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep45/500 BS=32 TL=0.1072 TA=0.9859 VL=0.1717 VA=0.9672
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 46 (VA=0.9677)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep46/500 BS=32 TL=0.1043 TA=0.9858 VL=0.1707 VA=0.9677
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep47/500 BS=32 TL=0.1016 TA=0.9861 VL=0.1685 VA=0.9666
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep48/500 BS=32 TL=0.0991 TA=0.9865 VL=0.1656 VA=0.9677
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 49 (VA=0.9688)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep49/500 BS=32 TL=0.0968 TA=0.9870 VL=0.1624 VA=0.9688
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep50/500 BS=32 TL=0.0943 TA=0.9871 VL=0.1611 VA=0.9683
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 51 (VA=0.9694)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep51/500 BS=32 TL=0.0919 TA=0.9876 VL=0.1585 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep52/500 BS=32 TL=0.0903 TA=0.9878 VL=0.1569 VA=0.9688
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep53/500 BS=32 TL=0.0877 TA=0.9881 VL=0.1564 VA=0.9683
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep54/500 BS=32 TL=0.0858 TA=0.9881 VL=0.1539 VA=0.9683
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep55/500 BS=32 TL=0.0838 TA=0.9884 VL=0.1532 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep56/500 BS=32 TL=0.0821 TA=0.9889 VL=0.1508 VA=0.9694
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 57 (VA=0.9705)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep57/500 BS=32 TL=0.0800 TA=0.9893 VL=0.1501 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep58/500 BS=32 TL=0.0784 TA=0.9893 VL=0.1485 VA=0.9688
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep59/500 BS=32 TL=0.0769 TA=0.9896 VL=0.1487 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep60/500 BS=32 TL=0.0751 TA=0.9904 VL=0.1454 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep61/500 BS=32 TL=0.0736 TA=0.9908 VL=0.1450 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep62/500 BS=32 TL=0.0719 TA=0.9906 VL=0.1437 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep63/500 BS=32 TL=0.0705 TA=0.9911 VL=0.1421 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep64/500 BS=32 TL=0.0693 TA=0.9913 VL=0.1423 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep65/500 BS=32 TL=0.0679 TA=0.9919 VL=0.1390 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep66/500 BS=32 TL=0.0665 TA=0.9919 VL=0.1398 VA=0.9705
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 67 (VA=0.9710)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep67/500 BS=32 TL=0.0649 TA=0.9926 VL=0.1373 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep68/500 BS=32 TL=0.0642 TA=0.9922 VL=0.1374 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep69/500 BS=32 TL=0.0629 TA=0.9932 VL=0.1375 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep70/500 BS=32 TL=0.0616 TA=0.9930 VL=0.1362 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep71/500 BS=32 TL=0.0604 TA=0.9934 VL=0.1338 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep72/500 BS=32 TL=0.0595 TA=0.9933 VL=0.1337 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep73/500 BS=32 TL=0.0586 TA=0.9936 VL=0.1317 VA=0.9710
+Saved best model for convnext-base-224_bs32_lr0.001_ep500_pre_noaug at epoch 74 (VA=0.9721)
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep74/500 BS=32 TL=0.0573 TA=0.9938 VL=0.1317 VA=0.9721
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep75/500 BS=32 TL=0.0562 TA=0.9941 VL=0.1315 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep76/500 BS=32 TL=0.0555 TA=0.9943 VL=0.1317 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep77/500 BS=32 TL=0.0542 TA=0.9948 VL=0.1295 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep78/500 BS=32 TL=0.0532 TA=0.9948 VL=0.1286 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep79/500 BS=32 TL=0.0526 TA=0.9948 VL=0.1283 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep80/500 BS=32 TL=0.0517 TA=0.9944 VL=0.1282 VA=0.9721
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep81/500 BS=32 TL=0.0507 TA=0.9951 VL=0.1277 VA=0.9721
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep82/500 BS=32 TL=0.0499 TA=0.9952 VL=0.1264 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep83/500 BS=32 TL=0.0490 TA=0.9951 VL=0.1262 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep84/500 BS=32 TL=0.0482 TA=0.9952 VL=0.1257 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep85/500 BS=32 TL=0.0474 TA=0.9952 VL=0.1247 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep86/500 BS=32 TL=0.0467 TA=0.9955 VL=0.1244 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep87/500 BS=32 TL=0.0457 TA=0.9958 VL=0.1252 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep88/500 BS=32 TL=0.0450 TA=0.9959 VL=0.1249 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep89/500 BS=32 TL=0.0445 TA=0.9959 VL=0.1237 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep90/500 BS=32 TL=0.0438 TA=0.9958 VL=0.1225 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep91/500 BS=32 TL=0.0431 TA=0.9955 VL=0.1223 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep92/500 BS=32 TL=0.0423 TA=0.9962 VL=0.1225 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep93/500 BS=32 TL=0.0419 TA=0.9963 VL=0.1220 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep94/500 BS=32 TL=0.0411 TA=0.9960 VL=0.1205 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep95/500 BS=32 TL=0.0407 TA=0.9962 VL=0.1199 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep96/500 BS=32 TL=0.0397 TA=0.9966 VL=0.1221 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep97/500 BS=32 TL=0.0398 TA=0.9963 VL=0.1201 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep98/500 BS=32 TL=0.0387 TA=0.9966 VL=0.1187 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep99/500 BS=32 TL=0.0381 TA=0.9964 VL=0.1199 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep100/500 BS=32 TL=0.0376 TA=0.9967 VL=0.1199 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep101/500 BS=32 TL=0.0371 TA=0.9966 VL=0.1190 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep102/500 BS=32 TL=0.0365 TA=0.9971 VL=0.1187 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep103/500 BS=32 TL=0.0363 TA=0.9967 VL=0.1175 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep104/500 BS=32 TL=0.0357 TA=0.9970 VL=0.1171 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep105/500 BS=32 TL=0.0352 TA=0.9971 VL=0.1168 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep106/500 BS=32 TL=0.0344 TA=0.9974 VL=0.1195 VA=0.9688
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep107/500 BS=32 TL=0.0341 TA=0.9973 VL=0.1163 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep108/500 BS=32 TL=0.0337 TA=0.9969 VL=0.1173 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep109/500 BS=32 TL=0.0331 TA=0.9971 VL=0.1162 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep110/500 BS=32 TL=0.0328 TA=0.9974 VL=0.1156 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep111/500 BS=32 TL=0.0323 TA=0.9974 VL=0.1171 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep112/500 BS=32 TL=0.0319 TA=0.9974 VL=0.1157 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep113/500 BS=32 TL=0.0315 TA=0.9977 VL=0.1158 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep114/500 BS=32 TL=0.0309 TA=0.9977 VL=0.1167 VA=0.9688
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep115/500 BS=32 TL=0.0312 TA=0.9974 VL=0.1156 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep116/500 BS=32 TL=0.0301 TA=0.9973 VL=0.1165 VA=0.9688
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep117/500 BS=32 TL=0.0300 TA=0.9975 VL=0.1158 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep118/500 BS=32 TL=0.0295 TA=0.9978 VL=0.1136 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep119/500 BS=32 TL=0.0291 TA=0.9979 VL=0.1140 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep120/500 BS=32 TL=0.0289 TA=0.9981 VL=0.1132 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep121/500 BS=32 TL=0.0283 TA=0.9977 VL=0.1135 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep122/500 BS=32 TL=0.0281 TA=0.9978 VL=0.1137 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep123/500 BS=32 TL=0.0277 TA=0.9982 VL=0.1131 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep124/500 BS=32 TL=0.0273 TA=0.9982 VL=0.1119 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep125/500 BS=32 TL=0.0270 TA=0.9981 VL=0.1126 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep126/500 BS=32 TL=0.0267 TA=0.9984 VL=0.1122 VA=0.9688
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep127/500 BS=32 TL=0.0264 TA=0.9982 VL=0.1125 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep128/500 BS=32 TL=0.0260 TA=0.9986 VL=0.1125 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep129/500 BS=32 TL=0.0254 TA=0.9988 VL=0.1106 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep130/500 BS=32 TL=0.0254 TA=0.9986 VL=0.1134 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep131/500 BS=32 TL=0.0249 TA=0.9988 VL=0.1099 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep132/500 BS=32 TL=0.0250 TA=0.9988 VL=0.1100 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep133/500 BS=32 TL=0.0246 TA=0.9985 VL=0.1107 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep134/500 BS=32 TL=0.0243 TA=0.9988 VL=0.1113 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep135/500 BS=32 TL=0.0238 TA=0.9988 VL=0.1102 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep136/500 BS=32 TL=0.0236 TA=0.9988 VL=0.1096 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep137/500 BS=32 TL=0.0235 TA=0.9988 VL=0.1102 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep138/500 BS=32 TL=0.0230 TA=0.9988 VL=0.1102 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep139/500 BS=32 TL=0.0227 TA=0.9989 VL=0.1118 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep140/500 BS=32 TL=0.0226 TA=0.9988 VL=0.1098 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep141/500 BS=32 TL=0.0224 TA=0.9989 VL=0.1082 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep142/500 BS=32 TL=0.0222 TA=0.9986 VL=0.1090 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep143/500 BS=32 TL=0.0220 TA=0.9986 VL=0.1100 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep144/500 BS=32 TL=0.0214 TA=0.9989 VL=0.1090 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep145/500 BS=32 TL=0.0212 TA=0.9989 VL=0.1088 VA=0.9688
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep146/500 BS=32 TL=0.0210 TA=0.9989 VL=0.1078 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep147/500 BS=32 TL=0.0210 TA=0.9988 VL=0.1096 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep148/500 BS=32 TL=0.0207 TA=0.9989 VL=0.1084 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep149/500 BS=32 TL=0.0203 TA=0.9990 VL=0.1079 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep150/500 BS=32 TL=0.0202 TA=0.9988 VL=0.1090 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep151/500 BS=32 TL=0.0200 TA=0.9989 VL=0.1098 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep152/500 BS=32 TL=0.0197 TA=0.9990 VL=0.1101 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep153/500 BS=32 TL=0.0197 TA=0.9988 VL=0.1078 VA=0.9688
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep154/500 BS=32 TL=0.0195 TA=0.9988 VL=0.1082 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep155/500 BS=32 TL=0.0191 TA=0.9992 VL=0.1062 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep156/500 BS=32 TL=0.0192 TA=0.9990 VL=0.1073 VA=0.9688
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep157/500 BS=32 TL=0.0188 TA=0.9992 VL=0.1078 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep158/500 BS=32 TL=0.0186 TA=0.9992 VL=0.1079 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep159/500 BS=32 TL=0.0184 TA=0.9992 VL=0.1060 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep160/500 BS=32 TL=0.0183 TA=0.9992 VL=0.1066 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep161/500 BS=32 TL=0.0179 TA=0.9992 VL=0.1095 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep162/500 BS=32 TL=0.0180 TA=0.9992 VL=0.1072 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep163/500 BS=32 TL=0.0180 TA=0.9992 VL=0.1076 VA=0.9688
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep164/500 BS=32 TL=0.0175 TA=0.9992 VL=0.1065 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep165/500 BS=32 TL=0.0172 TA=0.9993 VL=0.1064 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep166/500 BS=32 TL=0.0170 TA=0.9995 VL=0.1059 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep167/500 BS=32 TL=0.0172 TA=0.9992 VL=0.1061 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep168/500 BS=32 TL=0.0167 TA=0.9992 VL=0.1055 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep169/500 BS=32 TL=0.0168 TA=0.9992 VL=0.1068 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep170/500 BS=32 TL=0.0164 TA=0.9993 VL=0.1080 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep171/500 BS=32 TL=0.0166 TA=0.9990 VL=0.1058 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep172/500 BS=32 TL=0.0162 TA=0.9990 VL=0.1059 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep173/500 BS=32 TL=0.0161 TA=0.9992 VL=0.1052 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep174/500 BS=32 TL=0.0159 TA=0.9990 VL=0.1054 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep175/500 BS=32 TL=0.0158 TA=0.9992 VL=0.1059 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep176/500 BS=32 TL=0.0157 TA=0.9993 VL=0.1065 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep177/500 BS=32 TL=0.0156 TA=0.9990 VL=0.1062 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep178/500 BS=32 TL=0.0153 TA=0.9992 VL=0.1065 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep179/500 BS=32 TL=0.0151 TA=0.9995 VL=0.1046 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep180/500 BS=32 TL=0.0151 TA=0.9993 VL=0.1066 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep181/500 BS=32 TL=0.0151 TA=0.9993 VL=0.1051 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep182/500 BS=32 TL=0.0149 TA=0.9995 VL=0.1056 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep183/500 BS=32 TL=0.0146 TA=0.9995 VL=0.1042 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep184/500 BS=32 TL=0.0146 TA=0.9993 VL=0.1054 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep185/500 BS=32 TL=0.0144 TA=0.9993 VL=0.1065 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep186/500 BS=32 TL=0.0143 TA=0.9995 VL=0.1044 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep187/500 BS=32 TL=0.0141 TA=0.9995 VL=0.1069 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep188/500 BS=32 TL=0.0143 TA=0.9995 VL=0.1050 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep189/500 BS=32 TL=0.0139 TA=0.9995 VL=0.1045 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep190/500 BS=32 TL=0.0138 TA=0.9993 VL=0.1054 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep191/500 BS=32 TL=0.0138 TA=0.9995 VL=0.1050 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep192/500 BS=32 TL=0.0137 TA=0.9993 VL=0.1057 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep193/500 BS=32 TL=0.0136 TA=0.9993 VL=0.1045 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep194/500 BS=32 TL=0.0136 TA=0.9992 VL=0.1051 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep195/500 BS=32 TL=0.0134 TA=0.9993 VL=0.1047 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep196/500 BS=32 TL=0.0132 TA=0.9995 VL=0.1049 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep197/500 BS=32 TL=0.0132 TA=0.9992 VL=0.1051 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep198/500 BS=32 TL=0.0129 TA=0.9995 VL=0.1033 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep199/500 BS=32 TL=0.0130 TA=0.9993 VL=0.1044 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep200/500 BS=32 TL=0.0128 TA=0.9995 VL=0.1031 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep201/500 BS=32 TL=0.0127 TA=0.9993 VL=0.1040 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep202/500 BS=32 TL=0.0127 TA=0.9993 VL=0.1052 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep203/500 BS=32 TL=0.0128 TA=0.9993 VL=0.1040 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep204/500 BS=32 TL=0.0125 TA=0.9993 VL=0.1045 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep205/500 BS=32 TL=0.0122 TA=0.9993 VL=0.1045 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep206/500 BS=32 TL=0.0122 TA=0.9995 VL=0.1040 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep207/500 BS=32 TL=0.0121 TA=0.9993 VL=0.1052 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep208/500 BS=32 TL=0.0120 TA=0.9995 VL=0.1051 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep209/500 BS=32 TL=0.0121 TA=0.9995 VL=0.1033 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep210/500 BS=32 TL=0.0119 TA=0.9996 VL=0.1030 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep211/500 BS=32 TL=0.0117 TA=0.9995 VL=0.1047 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep212/500 BS=32 TL=0.0116 TA=0.9999 VL=0.1031 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep213/500 BS=32 TL=0.0116 TA=0.9993 VL=0.1032 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep214/500 BS=32 TL=0.0116 TA=0.9996 VL=0.1045 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep215/500 BS=32 TL=0.0115 TA=0.9996 VL=0.1032 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep216/500 BS=32 TL=0.0114 TA=0.9996 VL=0.1036 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep217/500 BS=32 TL=0.0113 TA=0.9999 VL=0.1041 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep218/500 BS=32 TL=0.0114 TA=0.9995 VL=0.1048 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep219/500 BS=32 TL=0.0111 TA=0.9996 VL=0.1045 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep220/500 BS=32 TL=0.0109 TA=0.9997 VL=0.1026 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep221/500 BS=32 TL=0.0110 TA=0.9996 VL=0.1022 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep222/500 BS=32 TL=0.0110 TA=0.9997 VL=0.1034 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep223/500 BS=32 TL=0.0113 TA=0.9996 VL=0.1033 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep224/500 BS=32 TL=0.0107 TA=0.9996 VL=0.1041 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep225/500 BS=32 TL=0.0107 TA=0.9996 VL=0.1035 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep226/500 BS=32 TL=0.0107 TA=0.9995 VL=0.1027 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep227/500 BS=32 TL=0.0107 TA=0.9996 VL=0.1024 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep228/500 BS=32 TL=0.0104 TA=0.9996 VL=0.1041 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep229/500 BS=32 TL=0.0103 TA=0.9996 VL=0.1025 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep230/500 BS=32 TL=0.0104 TA=0.9996 VL=0.1032 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep231/500 BS=32 TL=0.0102 TA=0.9997 VL=0.1029 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep232/500 BS=32 TL=0.0102 TA=0.9996 VL=0.1030 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep233/500 BS=32 TL=0.0102 TA=0.9996 VL=0.1027 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep234/500 BS=32 TL=0.0101 TA=0.9996 VL=0.1029 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep235/500 BS=32 TL=0.0101 TA=0.9996 VL=0.1028 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep236/500 BS=32 TL=0.0100 TA=0.9995 VL=0.1025 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep237/500 BS=32 TL=0.0099 TA=0.9996 VL=0.1038 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep238/500 BS=32 TL=0.0098 TA=0.9996 VL=0.1045 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep239/500 BS=32 TL=0.0097 TA=0.9997 VL=0.1030 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep240/500 BS=32 TL=0.0097 TA=0.9996 VL=0.1024 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep241/500 BS=32 TL=0.0095 TA=0.9999 VL=0.1044 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep242/500 BS=32 TL=0.0096 TA=0.9996 VL=0.1044 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep243/500 BS=32 TL=0.0094 TA=0.9997 VL=0.1023 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep244/500 BS=32 TL=0.0094 TA=0.9997 VL=0.1035 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep245/500 BS=32 TL=0.0093 TA=0.9997 VL=0.1024 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep246/500 BS=32 TL=0.0093 TA=0.9999 VL=0.1041 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep247/500 BS=32 TL=0.0092 TA=0.9997 VL=0.1024 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep248/500 BS=32 TL=0.0092 TA=0.9997 VL=0.1035 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep249/500 BS=32 TL=0.0092 TA=0.9996 VL=0.1032 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep250/500 BS=32 TL=0.0091 TA=0.9997 VL=0.1022 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep251/500 BS=32 TL=0.0091 TA=0.9996 VL=0.1040 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep252/500 BS=32 TL=0.0090 TA=0.9997 VL=0.1027 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep253/500 BS=32 TL=0.0090 TA=0.9996 VL=0.1038 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep254/500 BS=32 TL=0.0089 TA=0.9996 VL=0.1030 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep255/500 BS=32 TL=0.0088 TA=0.9996 VL=0.1020 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep256/500 BS=32 TL=0.0087 TA=0.9997 VL=0.1032 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep257/500 BS=32 TL=0.0087 TA=0.9997 VL=0.1018 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep258/500 BS=32 TL=0.0087 TA=0.9996 VL=0.1021 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep259/500 BS=32 TL=0.0087 TA=0.9996 VL=0.1027 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep260/500 BS=32 TL=0.0085 TA=0.9997 VL=0.1037 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep261/500 BS=32 TL=0.0086 TA=0.9996 VL=0.1027 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep262/500 BS=32 TL=0.0085 TA=0.9996 VL=0.1016 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep263/500 BS=32 TL=0.0085 TA=0.9996 VL=0.1033 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep264/500 BS=32 TL=0.0083 TA=0.9997 VL=0.1019 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep265/500 BS=32 TL=0.0084 TA=0.9996 VL=0.1023 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep266/500 BS=32 TL=0.0084 TA=0.9996 VL=0.1030 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep267/500 BS=32 TL=0.0083 TA=0.9996 VL=0.1032 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep268/500 BS=32 TL=0.0082 TA=0.9996 VL=0.1023 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep269/500 BS=32 TL=0.0082 TA=0.9996 VL=0.1024 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep270/500 BS=32 TL=0.0081 TA=0.9996 VL=0.1019 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep271/500 BS=32 TL=0.0082 TA=0.9996 VL=0.1017 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep272/500 BS=32 TL=0.0082 TA=0.9996 VL=0.1030 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep273/500 BS=32 TL=0.0080 TA=0.9997 VL=0.1030 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep274/500 BS=32 TL=0.0080 TA=0.9997 VL=0.1022 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep275/500 BS=32 TL=0.0079 TA=0.9997 VL=0.1020 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep276/500 BS=32 TL=0.0080 TA=0.9996 VL=0.1022 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep277/500 BS=32 TL=0.0079 TA=0.9996 VL=0.1014 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep278/500 BS=32 TL=0.0078 TA=0.9996 VL=0.1035 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep279/500 BS=32 TL=0.0077 TA=0.9996 VL=0.1043 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep280/500 BS=32 TL=0.0078 TA=0.9996 VL=0.1021 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep281/500 BS=32 TL=0.0077 TA=0.9995 VL=0.1033 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep282/500 BS=32 TL=0.0076 TA=0.9995 VL=0.1027 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep283/500 BS=32 TL=0.0076 TA=0.9996 VL=0.1038 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep284/500 BS=32 TL=0.0075 TA=0.9997 VL=0.1022 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep285/500 BS=32 TL=0.0076 TA=0.9995 VL=0.1023 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep286/500 BS=32 TL=0.0075 TA=0.9995 VL=0.1033 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep287/500 BS=32 TL=0.0074 TA=0.9996 VL=0.1016 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep288/500 BS=32 TL=0.0074 TA=0.9995 VL=0.1018 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep289/500 BS=32 TL=0.0074 TA=0.9996 VL=0.1031 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep290/500 BS=32 TL=0.0073 TA=0.9997 VL=0.1014 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep291/500 BS=32 TL=0.0072 TA=0.9997 VL=0.1035 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep292/500 BS=32 TL=0.0074 TA=0.9995 VL=0.1030 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep293/500 BS=32 TL=0.0071 TA=0.9997 VL=0.1016 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep294/500 BS=32 TL=0.0073 TA=0.9996 VL=0.1027 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep295/500 BS=32 TL=0.0072 TA=0.9996 VL=0.1029 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep296/500 BS=32 TL=0.0071 TA=0.9996 VL=0.1032 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep297/500 BS=32 TL=0.0071 TA=0.9996 VL=0.1038 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep298/500 BS=32 TL=0.0071 TA=0.9997 VL=0.1016 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep299/500 BS=32 TL=0.0071 TA=0.9995 VL=0.1020 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep300/500 BS=32 TL=0.0070 TA=0.9996 VL=0.1020 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep301/500 BS=32 TL=0.0069 TA=0.9997 VL=0.1019 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep302/500 BS=32 TL=0.0069 TA=0.9997 VL=0.1032 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep303/500 BS=32 TL=0.0070 TA=0.9996 VL=0.1023 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep304/500 BS=32 TL=0.0069 TA=0.9996 VL=0.1031 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep305/500 BS=32 TL=0.0068 TA=0.9996 VL=0.1034 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep306/500 BS=32 TL=0.0069 TA=0.9995 VL=0.1028 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep307/500 BS=32 TL=0.0069 TA=0.9995 VL=0.1024 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep308/500 BS=32 TL=0.0066 TA=0.9996 VL=0.1020 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep309/500 BS=32 TL=0.0067 TA=0.9997 VL=0.1019 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep310/500 BS=32 TL=0.0067 TA=0.9996 VL=0.1030 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep311/500 BS=32 TL=0.0066 TA=0.9997 VL=0.1020 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep312/500 BS=32 TL=0.0066 TA=0.9996 VL=0.1030 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep313/500 BS=32 TL=0.0065 TA=0.9997 VL=0.1019 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep314/500 BS=32 TL=0.0066 TA=0.9996 VL=0.1023 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep315/500 BS=32 TL=0.0066 TA=0.9996 VL=0.1025 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep316/500 BS=32 TL=0.0065 TA=0.9996 VL=0.1024 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep317/500 BS=32 TL=0.0065 TA=0.9996 VL=0.1019 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep318/500 BS=32 TL=0.0064 TA=0.9996 VL=0.1035 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep319/500 BS=32 TL=0.0064 TA=0.9996 VL=0.1023 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep320/500 BS=32 TL=0.0064 TA=0.9996 VL=0.1021 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep321/500 BS=32 TL=0.0064 TA=0.9995 VL=0.1022 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep322/500 BS=32 TL=0.0064 TA=0.9996 VL=0.1021 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep323/500 BS=32 TL=0.0063 TA=0.9997 VL=0.1020 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep324/500 BS=32 TL=0.0063 TA=0.9996 VL=0.1015 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep325/500 BS=32 TL=0.0063 TA=0.9996 VL=0.1013 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep326/500 BS=32 TL=0.0063 TA=0.9995 VL=0.1016 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep327/500 BS=32 TL=0.0062 TA=0.9996 VL=0.1012 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep328/500 BS=32 TL=0.0063 TA=0.9995 VL=0.1016 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep329/500 BS=32 TL=0.0062 TA=0.9996 VL=0.1025 VA=0.9694
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep330/500 BS=32 TL=0.0061 TA=0.9996 VL=0.1012 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep331/500 BS=32 TL=0.0062 TA=0.9996 VL=0.1024 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep332/500 BS=32 TL=0.0061 TA=0.9995 VL=0.1025 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep333/500 BS=32 TL=0.0061 TA=0.9995 VL=0.1026 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep334/500 BS=32 TL=0.0060 TA=0.9997 VL=0.1028 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep335/500 BS=32 TL=0.0060 TA=0.9996 VL=0.1028 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep336/500 BS=32 TL=0.0060 TA=0.9996 VL=0.1024 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep337/500 BS=32 TL=0.0060 TA=0.9997 VL=0.1019 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep338/500 BS=32 TL=0.0060 TA=0.9995 VL=0.1026 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep339/500 BS=32 TL=0.0059 TA=0.9995 VL=0.1018 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep340/500 BS=32 TL=0.0059 TA=0.9997 VL=0.1026 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep341/500 BS=32 TL=0.0059 TA=0.9996 VL=0.1027 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep342/500 BS=32 TL=0.0058 TA=0.9996 VL=0.1030 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep343/500 BS=32 TL=0.0058 TA=0.9997 VL=0.1013 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep344/500 BS=32 TL=0.0058 TA=0.9997 VL=0.1030 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep345/500 BS=32 TL=0.0058 TA=0.9996 VL=0.1026 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep346/500 BS=32 TL=0.0058 TA=0.9995 VL=0.1030 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep347/500 BS=32 TL=0.0057 TA=0.9996 VL=0.1018 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep348/500 BS=32 TL=0.0057 TA=0.9995 VL=0.1020 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep349/500 BS=32 TL=0.0057 TA=0.9996 VL=0.1027 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep350/500 BS=32 TL=0.0057 TA=0.9997 VL=0.1033 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep351/500 BS=32 TL=0.0056 TA=0.9997 VL=0.1015 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep352/500 BS=32 TL=0.0057 TA=0.9995 VL=0.1019 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep353/500 BS=32 TL=0.0056 TA=0.9996 VL=0.1023 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep354/500 BS=32 TL=0.0056 TA=0.9996 VL=0.1026 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep355/500 BS=32 TL=0.0055 TA=0.9996 VL=0.1028 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep356/500 BS=32 TL=0.0055 TA=0.9996 VL=0.1026 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep357/500 BS=32 TL=0.0055 TA=0.9995 VL=0.1026 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep358/500 BS=32 TL=0.0054 TA=0.9997 VL=0.1015 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep359/500 BS=32 TL=0.0055 TA=0.9996 VL=0.1013 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep360/500 BS=32 TL=0.0055 TA=0.9995 VL=0.1017 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep361/500 BS=32 TL=0.0055 TA=0.9995 VL=0.1024 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep362/500 BS=32 TL=0.0054 TA=0.9996 VL=0.1025 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep363/500 BS=32 TL=0.0055 TA=0.9996 VL=0.1024 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep364/500 BS=32 TL=0.0053 TA=0.9997 VL=0.1030 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep365/500 BS=32 TL=0.0054 TA=0.9996 VL=0.1023 VA=0.9699
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep366/500 BS=32 TL=0.0053 TA=0.9997 VL=0.1036 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep367/500 BS=32 TL=0.0054 TA=0.9995 VL=0.1028 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep368/500 BS=32 TL=0.0055 TA=0.9996 VL=0.1016 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep369/500 BS=32 TL=0.0054 TA=0.9995 VL=0.1026 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep370/500 BS=32 TL=0.0053 TA=0.9996 VL=0.1027 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep371/500 BS=32 TL=0.0052 TA=0.9997 VL=0.1031 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep372/500 BS=32 TL=0.0052 TA=0.9997 VL=0.1016 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep373/500 BS=32 TL=0.0052 TA=0.9996 VL=0.1023 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep374/500 BS=32 TL=0.0052 TA=0.9996 VL=0.1017 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep375/500 BS=32 TL=0.0051 TA=0.9997 VL=0.1019 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep376/500 BS=32 TL=0.0051 TA=0.9997 VL=0.1029 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep377/500 BS=32 TL=0.0052 TA=0.9996 VL=0.1025 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep378/500 BS=32 TL=0.0051 TA=0.9997 VL=0.1018 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep379/500 BS=32 TL=0.0053 TA=0.9995 VL=0.1026 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep380/500 BS=32 TL=0.0051 TA=0.9996 VL=0.1015 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep381/500 BS=32 TL=0.0051 TA=0.9997 VL=0.1030 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep382/500 BS=32 TL=0.0051 TA=0.9996 VL=0.1018 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep383/500 BS=32 TL=0.0050 TA=0.9997 VL=0.1025 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep384/500 BS=32 TL=0.0050 TA=0.9997 VL=0.1027 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep385/500 BS=32 TL=0.0050 TA=0.9996 VL=0.1028 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep386/500 BS=32 TL=0.0050 TA=0.9997 VL=0.1024 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep387/500 BS=32 TL=0.0050 TA=0.9995 VL=0.1021 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep388/500 BS=32 TL=0.0049 TA=0.9997 VL=0.1031 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep389/500 BS=32 TL=0.0049 TA=0.9997 VL=0.1016 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep390/500 BS=32 TL=0.0050 TA=0.9995 VL=0.1016 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep391/500 BS=32 TL=0.0049 TA=0.9996 VL=0.1029 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep392/500 BS=32 TL=0.0049 TA=0.9996 VL=0.1032 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep393/500 BS=32 TL=0.0049 TA=0.9997 VL=0.1020 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep394/500 BS=32 TL=0.0048 TA=0.9997 VL=0.1032 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep395/500 BS=32 TL=0.0048 TA=0.9996 VL=0.1019 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep396/500 BS=32 TL=0.0048 TA=0.9997 VL=0.1035 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep397/500 BS=32 TL=0.0048 TA=0.9996 VL=0.1030 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep398/500 BS=32 TL=0.0047 TA=0.9997 VL=0.1021 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep399/500 BS=32 TL=0.0048 TA=0.9996 VL=0.1027 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep400/500 BS=32 TL=0.0048 TA=0.9996 VL=0.1032 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep401/500 BS=32 TL=0.0047 TA=0.9997 VL=0.1017 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep402/500 BS=32 TL=0.0047 TA=0.9995 VL=0.1019 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep403/500 BS=32 TL=0.0047 TA=0.9997 VL=0.1026 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep404/500 BS=32 TL=0.0047 TA=0.9996 VL=0.1020 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep405/500 BS=32 TL=0.0046 TA=0.9997 VL=0.1019 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep406/500 BS=32 TL=0.0047 TA=0.9997 VL=0.1026 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep407/500 BS=32 TL=0.0047 TA=0.9996 VL=0.1029 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep408/500 BS=32 TL=0.0046 TA=0.9997 VL=0.1016 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep409/500 BS=32 TL=0.0046 TA=0.9996 VL=0.1017 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep410/500 BS=32 TL=0.0046 TA=0.9995 VL=0.1018 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep411/500 BS=32 TL=0.0046 TA=0.9996 VL=0.1021 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep412/500 BS=32 TL=0.0046 TA=0.9997 VL=0.1026 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep413/500 BS=32 TL=0.0046 TA=0.9996 VL=0.1023 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep414/500 BS=32 TL=0.0045 TA=0.9996 VL=0.1027 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep415/500 BS=32 TL=0.0045 TA=0.9997 VL=0.1017 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep416/500 BS=32 TL=0.0045 TA=0.9996 VL=0.1025 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep417/500 BS=32 TL=0.0045 TA=0.9996 VL=0.1026 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep418/500 BS=32 TL=0.0045 TA=0.9996 VL=0.1031 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep419/500 BS=32 TL=0.0045 TA=0.9996 VL=0.1025 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep420/500 BS=32 TL=0.0045 TA=0.9995 VL=0.1024 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep421/500 BS=32 TL=0.0044 TA=0.9997 VL=0.1017 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep422/500 BS=32 TL=0.0044 TA=0.9997 VL=0.1033 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep423/500 BS=32 TL=0.0045 TA=0.9996 VL=0.1031 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep424/500 BS=32 TL=0.0045 TA=0.9995 VL=0.1029 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep425/500 BS=32 TL=0.0044 TA=0.9997 VL=0.1023 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep426/500 BS=32 TL=0.0044 TA=0.9996 VL=0.1030 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep427/500 BS=32 TL=0.0043 TA=0.9997 VL=0.1017 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep428/500 BS=32 TL=0.0044 TA=0.9996 VL=0.1029 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep429/500 BS=32 TL=0.0043 TA=0.9997 VL=0.1032 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep430/500 BS=32 TL=0.0043 TA=0.9997 VL=0.1020 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep431/500 BS=32 TL=0.0043 TA=0.9996 VL=0.1027 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep432/500 BS=32 TL=0.0043 TA=0.9997 VL=0.1030 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep433/500 BS=32 TL=0.0043 TA=0.9996 VL=0.1028 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep434/500 BS=32 TL=0.0043 TA=0.9997 VL=0.1021 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep435/500 BS=32 TL=0.0043 TA=0.9996 VL=0.1029 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep436/500 BS=32 TL=0.0043 TA=0.9996 VL=0.1023 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep437/500 BS=32 TL=0.0042 TA=0.9996 VL=0.1020 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep438/500 BS=32 TL=0.0043 TA=0.9996 VL=0.1032 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep439/500 BS=32 TL=0.0042 TA=0.9996 VL=0.1023 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep440/500 BS=32 TL=0.0042 TA=0.9996 VL=0.1024 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep441/500 BS=32 TL=0.0042 TA=0.9996 VL=0.1029 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep442/500 BS=32 TL=0.0042 TA=0.9996 VL=0.1022 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep443/500 BS=32 TL=0.0042 TA=0.9996 VL=0.1026 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep444/500 BS=32 TL=0.0041 TA=0.9997 VL=0.1017 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep445/500 BS=32 TL=0.0042 TA=0.9996 VL=0.1023 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep446/500 BS=32 TL=0.0042 TA=0.9996 VL=0.1025 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep447/500 BS=32 TL=0.0041 TA=0.9997 VL=0.1026 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep448/500 BS=32 TL=0.0041 TA=0.9996 VL=0.1035 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep449/500 BS=32 TL=0.0040 TA=0.9997 VL=0.1022 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep450/500 BS=32 TL=0.0041 TA=0.9997 VL=0.1032 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep451/500 BS=32 TL=0.0041 TA=0.9995 VL=0.1035 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep452/500 BS=32 TL=0.0041 TA=0.9996 VL=0.1024 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep453/500 BS=32 TL=0.0040 TA=0.9997 VL=0.1032 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep454/500 BS=32 TL=0.0040 TA=0.9997 VL=0.1027 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep455/500 BS=32 TL=0.0040 TA=0.9995 VL=0.1022 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep456/500 BS=32 TL=0.0040 TA=0.9997 VL=0.1031 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep457/500 BS=32 TL=0.0040 TA=0.9996 VL=0.1030 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep458/500 BS=32 TL=0.0040 TA=0.9997 VL=0.1022 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep459/500 BS=32 TL=0.0040 TA=0.9996 VL=0.1022 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep460/500 BS=32 TL=0.0040 TA=0.9996 VL=0.1030 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep461/500 BS=32 TL=0.0040 TA=0.9997 VL=0.1027 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep462/500 BS=32 TL=0.0040 TA=0.9995 VL=0.1029 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep463/500 BS=32 TL=0.0039 TA=0.9997 VL=0.1019 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep464/500 BS=32 TL=0.0039 TA=0.9996 VL=0.1026 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep465/500 BS=32 TL=0.0039 TA=0.9996 VL=0.1020 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep466/500 BS=32 TL=0.0041 TA=0.9995 VL=0.1028 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep467/500 BS=32 TL=0.0039 TA=0.9997 VL=0.1030 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep468/500 BS=32 TL=0.0039 TA=0.9996 VL=0.1027 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep469/500 BS=32 TL=0.0039 TA=0.9995 VL=0.1026 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep470/500 BS=32 TL=0.0039 TA=0.9996 VL=0.1022 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep471/500 BS=32 TL=0.0038 TA=0.9996 VL=0.1030 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep472/500 BS=32 TL=0.0039 TA=0.9995 VL=0.1033 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep473/500 BS=32 TL=0.0038 TA=0.9995 VL=0.1036 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep474/500 BS=32 TL=0.0039 TA=0.9996 VL=0.1026 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep475/500 BS=32 TL=0.0038 TA=0.9996 VL=0.1031 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep476/500 BS=32 TL=0.0038 TA=0.9997 VL=0.1023 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep477/500 BS=32 TL=0.0039 TA=0.9996 VL=0.1027 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep478/500 BS=32 TL=0.0038 TA=0.9996 VL=0.1024 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep479/500 BS=32 TL=0.0038 TA=0.9996 VL=0.1021 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep480/500 BS=32 TL=0.0038 TA=0.9996 VL=0.1022 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep481/500 BS=32 TL=0.0038 TA=0.9995 VL=0.1023 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep482/500 BS=32 TL=0.0038 TA=0.9995 VL=0.1022 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep483/500 BS=32 TL=0.0038 TA=0.9995 VL=0.1025 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep484/500 BS=32 TL=0.0038 TA=0.9995 VL=0.1021 VA=0.9716
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep485/500 BS=32 TL=0.0038 TA=0.9997 VL=0.1032 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep486/500 BS=32 TL=0.0037 TA=0.9997 VL=0.1029 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep487/500 BS=32 TL=0.0037 TA=0.9996 VL=0.1031 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep488/500 BS=32 TL=0.0037 TA=0.9996 VL=0.1024 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep489/500 BS=32 TL=0.0037 TA=0.9996 VL=0.1031 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep490/500 BS=32 TL=0.0037 TA=0.9997 VL=0.1025 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep491/500 BS=32 TL=0.0036 TA=0.9996 VL=0.1029 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep492/500 BS=32 TL=0.0036 TA=0.9997 VL=0.1036 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep493/500 BS=32 TL=0.0037 TA=0.9996 VL=0.1031 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep494/500 BS=32 TL=0.0037 TA=0.9995 VL=0.1031 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep495/500 BS=32 TL=0.0036 TA=0.9996 VL=0.1034 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep496/500 BS=32 TL=0.0037 TA=0.9997 VL=0.1032 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep497/500 BS=32 TL=0.0036 TA=0.9995 VL=0.1032 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep498/500 BS=32 TL=0.0036 TA=0.9996 VL=0.1031 VA=0.9710
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep499/500 BS=32 TL=0.0036 TA=0.9996 VL=0.1034 VA=0.9705
+[convnext-base-224_bs32_lr0.001_ep500_pre_noaug] Ep500/500 BS=32 TL=0.0036 TA=0.9995 VL=0.1028 VA=0.9710
+Saved plot: plot/best/convnext-base-224_bs32_lr0.001_ep500_pre_noaug.png
+Saved plot: plot/best/all_loss.png
+Saved plot: plot/best/all_acc.png

@@ -1,0 +1,4 @@
+
+CondaError: Run 'conda init' before 'conda activate'
+
+slurmstepd: error: *** JOB 29799 ON fnlp-4090-59103 CANCELLED AT 2025-05-20T07:28:27 ***

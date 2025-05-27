@@ -1,0 +1,1177 @@
+no change     /remote-home1/lzjjin/anaconda3/condabin/conda
+no change     /remote-home1/lzjjin/anaconda3/bin/conda
+no change     /remote-home1/lzjjin/anaconda3/bin/conda-env
+no change     /remote-home1/lzjjin/anaconda3/bin/activate
+no change     /remote-home1/lzjjin/anaconda3/bin/deactivate
+no change     /remote-home1/lzjjin/anaconda3/etc/profile.d/conda.sh
+no change     /remote-home1/lzjjin/anaconda3/etc/fish/conf.d/conda.fish
+no change     /remote-home1/lzjjin/anaconda3/shell/condabin/Conda.psm1
+no change     /remote-home1/lzjjin/anaconda3/shell/condabin/conda-hook.ps1
+no change     /remote-home1/lzjjin/anaconda3/lib/python3.12/site-packages/xontrib/conda.xsh
+no change     /remote-home1/lzjjin/anaconda3/etc/profile.d/conda.csh
+no change     /remote-home1/lzjjin/.bashrc
+No action taken.
+/remote-home1/lzjjin/anaconda3/bin/python
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 1 (VA=0.2706)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep1/300 BS=128 TL=4.5028 TA=0.1285 VL=4.2921 VA=0.2706
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 2 (VA=0.3319)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep2/300 BS=128 TL=4.0645 TA=0.3064 VL=3.8465 VA=0.3319
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 3 (VA=0.3477)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep3/300 BS=128 TL=3.6526 TA=0.3308 VL=3.4865 VA=0.3477
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 4 (VA=0.3707)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep4/300 BS=128 TL=3.3526 TA=0.3578 VL=3.2544 VA=0.3707
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 5 (VA=0.3958)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep5/300 BS=128 TL=3.1577 TA=0.3871 VL=3.0930 VA=0.3958
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 6 (VA=0.4292)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep6/300 BS=128 TL=3.0060 TA=0.4179 VL=2.9634 VA=0.4292
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 7 (VA=0.4582)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep7/300 BS=128 TL=2.8940 TA=0.4474 VL=2.8466 VA=0.4582
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 8 (VA=0.4943)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep8/300 BS=128 TL=2.7585 TA=0.4830 VL=2.7351 VA=0.4943
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 9 (VA=0.5282)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep9/300 BS=128 TL=2.6579 TA=0.5176 VL=2.6312 VA=0.5282
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 10 (VA=0.5588)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep10/300 BS=128 TL=2.5471 TA=0.5487 VL=2.5305 VA=0.5588
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 11 (VA=0.5916)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep11/300 BS=128 TL=2.4373 TA=0.5874 VL=2.4342 VA=0.5916
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 12 (VA=0.6189)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep12/300 BS=128 TL=2.3484 TA=0.6209 VL=2.3418 VA=0.6189
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 13 (VA=0.6446)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep13/300 BS=128 TL=2.2373 TA=0.6525 VL=2.2521 VA=0.6446
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 14 (VA=0.6665)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep14/300 BS=128 TL=2.1686 TA=0.6820 VL=2.1669 VA=0.6665
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 15 (VA=0.6938)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep15/300 BS=128 TL=2.0658 TA=0.7040 VL=2.0834 VA=0.6938
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 16 (VA=0.7212)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep16/300 BS=128 TL=1.9860 TA=0.7282 VL=2.0015 VA=0.7212
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 17 (VA=0.7403)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep17/300 BS=128 TL=1.9030 TA=0.7502 VL=1.9233 VA=0.7403
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 18 (VA=0.7567)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep18/300 BS=128 TL=1.8218 TA=0.7662 VL=1.8470 VA=0.7567
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 19 (VA=0.7693)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep19/300 BS=128 TL=1.7364 TA=0.7839 VL=1.7723 VA=0.7693
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 20 (VA=0.7857)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep20/300 BS=128 TL=1.6711 TA=0.7979 VL=1.7005 VA=0.7857
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 21 (VA=0.7977)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep21/300 BS=128 TL=1.5928 TA=0.8113 VL=1.6312 VA=0.7977
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 22 (VA=0.8103)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep22/300 BS=128 TL=1.5240 TA=0.8197 VL=1.5640 VA=0.8103
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 23 (VA=0.8201)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep23/300 BS=128 TL=1.4555 TA=0.8313 VL=1.4997 VA=0.8201
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 24 (VA=0.8305)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep24/300 BS=128 TL=1.3955 TA=0.8377 VL=1.4376 VA=0.8305
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 25 (VA=0.8393)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep25/300 BS=128 TL=1.3227 TA=0.8451 VL=1.3781 VA=0.8393
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 26 (VA=0.8469)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep26/300 BS=128 TL=1.2683 TA=0.8539 VL=1.3216 VA=0.8469
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 27 (VA=0.8518)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep27/300 BS=128 TL=1.2146 TA=0.8589 VL=1.2668 VA=0.8518
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 28 (VA=0.8584)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep28/300 BS=128 TL=1.1536 TA=0.8670 VL=1.2144 VA=0.8584
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 29 (VA=0.8611)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep29/300 BS=128 TL=1.1076 TA=0.8727 VL=1.1655 VA=0.8611
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 30 (VA=0.8682)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep30/300 BS=128 TL=1.0546 TA=0.8781 VL=1.1183 VA=0.8682
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 31 (VA=0.8748)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep31/300 BS=128 TL=1.0008 TA=0.8856 VL=1.0730 VA=0.8748
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 32 (VA=0.8803)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep32/300 BS=128 TL=0.9692 TA=0.8882 VL=1.0307 VA=0.8803
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 33 (VA=0.8841)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep33/300 BS=128 TL=0.9164 TA=0.8925 VL=0.9901 VA=0.8841
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep34/300 BS=128 TL=0.8779 TA=0.8977 VL=0.9528 VA=0.8830
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 35 (VA=0.8896)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep35/300 BS=128 TL=0.8437 TA=0.9006 VL=0.9156 VA=0.8896
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 36 (VA=0.8907)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep36/300 BS=128 TL=0.8072 TA=0.9043 VL=0.8814 VA=0.8907
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 37 (VA=0.8939)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep37/300 BS=128 TL=0.7759 TA=0.9088 VL=0.8491 VA=0.8939
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 38 (VA=0.8994)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep38/300 BS=128 TL=0.7410 TA=0.9110 VL=0.8181 VA=0.8994
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 39 (VA=0.9071)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep39/300 BS=128 TL=0.7120 TA=0.9137 VL=0.7890 VA=0.9071
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 40 (VA=0.9081)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep40/300 BS=128 TL=0.6871 TA=0.9170 VL=0.7616 VA=0.9081
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 41 (VA=0.9103)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep41/300 BS=128 TL=0.6573 TA=0.9195 VL=0.7355 VA=0.9103
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 42 (VA=0.9136)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep42/300 BS=128 TL=0.6362 TA=0.9222 VL=0.7106 VA=0.9136
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep43/300 BS=128 TL=0.6114 TA=0.9281 VL=0.6871 VA=0.9136
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 44 (VA=0.9196)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep44/300 BS=128 TL=0.5853 TA=0.9307 VL=0.6647 VA=0.9196
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 45 (VA=0.9229)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep45/300 BS=128 TL=0.5658 TA=0.9334 VL=0.6436 VA=0.9229
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 46 (VA=0.9245)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep46/300 BS=128 TL=0.5458 TA=0.9355 VL=0.6240 VA=0.9245
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 47 (VA=0.9273)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep47/300 BS=128 TL=0.5291 TA=0.9374 VL=0.6053 VA=0.9273
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 48 (VA=0.9328)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep48/300 BS=128 TL=0.5071 TA=0.9405 VL=0.5875 VA=0.9328
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep49/300 BS=128 TL=0.4924 TA=0.9429 VL=0.5706 VA=0.9322
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 50 (VA=0.9349)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep50/300 BS=128 TL=0.4721 TA=0.9440 VL=0.5537 VA=0.9349
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 51 (VA=0.9360)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep51/300 BS=128 TL=0.4598 TA=0.9464 VL=0.5388 VA=0.9360
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 52 (VA=0.9377)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep52/300 BS=128 TL=0.4467 TA=0.9478 VL=0.5252 VA=0.9377
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 53 (VA=0.9393)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep53/300 BS=128 TL=0.4310 TA=0.9501 VL=0.5110 VA=0.9393
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 54 (VA=0.9399)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep54/300 BS=128 TL=0.4201 TA=0.9515 VL=0.4981 VA=0.9399
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 55 (VA=0.9431)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep55/300 BS=128 TL=0.4060 TA=0.9527 VL=0.4847 VA=0.9431
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep56/300 BS=128 TL=0.3941 TA=0.9541 VL=0.4729 VA=0.9431
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 57 (VA=0.9442)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep57/300 BS=128 TL=0.3871 TA=0.9550 VL=0.4621 VA=0.9442
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 58 (VA=0.9453)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep58/300 BS=128 TL=0.3781 TA=0.9563 VL=0.4519 VA=0.9453
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep59/300 BS=128 TL=0.3630 TA=0.9579 VL=0.4423 VA=0.9448
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep60/300 BS=128 TL=0.3559 TA=0.9584 VL=0.4321 VA=0.9448
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep61/300 BS=128 TL=0.3454 TA=0.9587 VL=0.4227 VA=0.9453
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 62 (VA=0.9464)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep62/300 BS=128 TL=0.3374 TA=0.9597 VL=0.4142 VA=0.9464
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 63 (VA=0.9470)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep63/300 BS=128 TL=0.3310 TA=0.9604 VL=0.4058 VA=0.9470
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep64/300 BS=128 TL=0.3207 TA=0.9614 VL=0.3978 VA=0.9470
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 65 (VA=0.9481)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep65/300 BS=128 TL=0.3166 TA=0.9623 VL=0.3903 VA=0.9481
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 66 (VA=0.9486)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep66/300 BS=128 TL=0.3035 TA=0.9625 VL=0.3824 VA=0.9486
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 67 (VA=0.9492)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep67/300 BS=128 TL=0.3008 TA=0.9639 VL=0.3758 VA=0.9492
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 68 (VA=0.9497)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep68/300 BS=128 TL=0.2977 TA=0.9647 VL=0.3687 VA=0.9497
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 69 (VA=0.9502)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep69/300 BS=128 TL=0.2880 TA=0.9656 VL=0.3634 VA=0.9502
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep70/300 BS=128 TL=0.2805 TA=0.9658 VL=0.3572 VA=0.9502
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep71/300 BS=128 TL=0.2782 TA=0.9664 VL=0.3510 VA=0.9497
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 72 (VA=0.9508)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep72/300 BS=128 TL=0.2704 TA=0.9669 VL=0.3452 VA=0.9508
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep73/300 BS=128 TL=0.2674 TA=0.9675 VL=0.3403 VA=0.9497
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 74 (VA=0.9519)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep74/300 BS=128 TL=0.2588 TA=0.9681 VL=0.3345 VA=0.9519
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep75/300 BS=128 TL=0.2541 TA=0.9684 VL=0.3301 VA=0.9508
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 76 (VA=0.9524)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep76/300 BS=128 TL=0.2510 TA=0.9688 VL=0.3246 VA=0.9524
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep77/300 BS=128 TL=0.2446 TA=0.9698 VL=0.3202 VA=0.9519
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 78 (VA=0.9530)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep78/300 BS=128 TL=0.2425 TA=0.9701 VL=0.3162 VA=0.9530
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 79 (VA=0.9535)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep79/300 BS=128 TL=0.2367 TA=0.9705 VL=0.3108 VA=0.9535
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep80/300 BS=128 TL=0.2319 TA=0.9713 VL=0.3070 VA=0.9535
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep81/300 BS=128 TL=0.2314 TA=0.9714 VL=0.3029 VA=0.9524
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep82/300 BS=128 TL=0.2272 TA=0.9716 VL=0.2997 VA=0.9530
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep83/300 BS=128 TL=0.2266 TA=0.9725 VL=0.2961 VA=0.9535
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep84/300 BS=128 TL=0.2177 TA=0.9725 VL=0.2931 VA=0.9535
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 85 (VA=0.9541)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep85/300 BS=128 TL=0.2176 TA=0.9721 VL=0.2891 VA=0.9541
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 86 (VA=0.9552)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep86/300 BS=128 TL=0.2125 TA=0.9738 VL=0.2853 VA=0.9552
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep87/300 BS=128 TL=0.2076 TA=0.9738 VL=0.2823 VA=0.9552
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 88 (VA=0.9557)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep88/300 BS=128 TL=0.2075 TA=0.9740 VL=0.2787 VA=0.9557
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep89/300 BS=128 TL=0.2035 TA=0.9744 VL=0.2763 VA=0.9552
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep90/300 BS=128 TL=0.1990 TA=0.9746 VL=0.2735 VA=0.9557
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep91/300 BS=128 TL=0.1953 TA=0.9747 VL=0.2705 VA=0.9557
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep92/300 BS=128 TL=0.1921 TA=0.9746 VL=0.2677 VA=0.9557
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 93 (VA=0.9563)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep93/300 BS=128 TL=0.1905 TA=0.9758 VL=0.2651 VA=0.9563
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep94/300 BS=128 TL=0.1870 TA=0.9755 VL=0.2629 VA=0.9563
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 95 (VA=0.9579)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep95/300 BS=128 TL=0.1839 TA=0.9758 VL=0.2599 VA=0.9579
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep96/300 BS=128 TL=0.1849 TA=0.9762 VL=0.2574 VA=0.9579
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep97/300 BS=128 TL=0.1797 TA=0.9765 VL=0.2554 VA=0.9557
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep98/300 BS=128 TL=0.1806 TA=0.9769 VL=0.2523 VA=0.9579
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 99 (VA=0.9590)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep99/300 BS=128 TL=0.1758 TA=0.9777 VL=0.2499 VA=0.9590
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep100/300 BS=128 TL=0.1726 TA=0.9776 VL=0.2482 VA=0.9568
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep101/300 BS=128 TL=0.1714 TA=0.9776 VL=0.2463 VA=0.9568
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep102/300 BS=128 TL=0.1683 TA=0.9784 VL=0.2446 VA=0.9568
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep103/300 BS=128 TL=0.1678 TA=0.9785 VL=0.2430 VA=0.9574
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep104/300 BS=128 TL=0.1659 TA=0.9789 VL=0.2398 VA=0.9590
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep105/300 BS=128 TL=0.1629 TA=0.9794 VL=0.2382 VA=0.9579
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep106/300 BS=128 TL=0.1607 TA=0.9799 VL=0.2365 VA=0.9579
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 107 (VA=0.9595)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep107/300 BS=128 TL=0.1583 TA=0.9802 VL=0.2352 VA=0.9595
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 108 (VA=0.9606)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep108/300 BS=128 TL=0.1566 TA=0.9809 VL=0.2325 VA=0.9606
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep109/300 BS=128 TL=0.1561 TA=0.9809 VL=0.2319 VA=0.9584
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep110/300 BS=128 TL=0.1560 TA=0.9809 VL=0.2303 VA=0.9584
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep111/300 BS=128 TL=0.1520 TA=0.9815 VL=0.2277 VA=0.9601
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep112/300 BS=128 TL=0.1498 TA=0.9815 VL=0.2258 VA=0.9601
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep113/300 BS=128 TL=0.1475 TA=0.9818 VL=0.2243 VA=0.9606
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep114/300 BS=128 TL=0.1463 TA=0.9822 VL=0.2234 VA=0.9601
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 115 (VA=0.9612)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep115/300 BS=128 TL=0.1440 TA=0.9826 VL=0.2214 VA=0.9612
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep116/300 BS=128 TL=0.1450 TA=0.9830 VL=0.2206 VA=0.9601
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep117/300 BS=128 TL=0.1416 TA=0.9826 VL=0.2186 VA=0.9606
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep118/300 BS=128 TL=0.1394 TA=0.9833 VL=0.2176 VA=0.9590
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep119/300 BS=128 TL=0.1387 TA=0.9835 VL=0.2158 VA=0.9606
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep120/300 BS=128 TL=0.1368 TA=0.9839 VL=0.2149 VA=0.9590
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep121/300 BS=128 TL=0.1355 TA=0.9836 VL=0.2141 VA=0.9595
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep122/300 BS=128 TL=0.1347 TA=0.9837 VL=0.2116 VA=0.9606
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep123/300 BS=128 TL=0.1324 TA=0.9839 VL=0.2107 VA=0.9612
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep124/300 BS=128 TL=0.1306 TA=0.9843 VL=0.2091 VA=0.9612
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep125/300 BS=128 TL=0.1304 TA=0.9840 VL=0.2083 VA=0.9612
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 126 (VA=0.9617)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep126/300 BS=128 TL=0.1289 TA=0.9841 VL=0.2076 VA=0.9617
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep127/300 BS=128 TL=0.1272 TA=0.9843 VL=0.2061 VA=0.9617
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep128/300 BS=128 TL=0.1268 TA=0.9850 VL=0.2048 VA=0.9617
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep129/300 BS=128 TL=0.1251 TA=0.9846 VL=0.2032 VA=0.9617
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep130/300 BS=128 TL=0.1246 TA=0.9846 VL=0.2027 VA=0.9612
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 131 (VA=0.9623)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep131/300 BS=128 TL=0.1225 TA=0.9848 VL=0.2022 VA=0.9623
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep132/300 BS=128 TL=0.1244 TA=0.9850 VL=0.2008 VA=0.9617
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep133/300 BS=128 TL=0.1205 TA=0.9851 VL=0.2003 VA=0.9617
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep134/300 BS=128 TL=0.1192 TA=0.9854 VL=0.1983 VA=0.9623
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep135/300 BS=128 TL=0.1195 TA=0.9852 VL=0.1977 VA=0.9617
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep136/300 BS=128 TL=0.1168 TA=0.9858 VL=0.1968 VA=0.9617
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep137/300 BS=128 TL=0.1183 TA=0.9855 VL=0.1962 VA=0.9612
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep138/300 BS=128 TL=0.1168 TA=0.9859 VL=0.1949 VA=0.9617
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep139/300 BS=128 TL=0.1140 TA=0.9855 VL=0.1944 VA=0.9617
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep140/300 BS=128 TL=0.1153 TA=0.9862 VL=0.1931 VA=0.9612
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep141/300 BS=128 TL=0.1127 TA=0.9862 VL=0.1921 VA=0.9623
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep142/300 BS=128 TL=0.1129 TA=0.9866 VL=0.1913 VA=0.9623
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 143 (VA=0.9628)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep143/300 BS=128 TL=0.1101 TA=0.9869 VL=0.1902 VA=0.9628
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep144/300 BS=128 TL=0.1091 TA=0.9867 VL=0.1893 VA=0.9628
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep145/300 BS=128 TL=0.1081 TA=0.9871 VL=0.1887 VA=0.9628
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep146/300 BS=128 TL=0.1066 TA=0.9874 VL=0.1884 VA=0.9628
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 147 (VA=0.9634)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep147/300 BS=128 TL=0.1074 TA=0.9874 VL=0.1872 VA=0.9634
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep148/300 BS=128 TL=0.1074 TA=0.9873 VL=0.1859 VA=0.9634
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep149/300 BS=128 TL=0.1046 TA=0.9877 VL=0.1865 VA=0.9634
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep150/300 BS=128 TL=0.1031 TA=0.9877 VL=0.1853 VA=0.9628
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep151/300 BS=128 TL=0.1024 TA=0.9881 VL=0.1844 VA=0.9634
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep152/300 BS=128 TL=0.1020 TA=0.9884 VL=0.1834 VA=0.9634
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep153/300 BS=128 TL=0.1016 TA=0.9882 VL=0.1828 VA=0.9634
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep154/300 BS=128 TL=0.1001 TA=0.9884 VL=0.1825 VA=0.9628
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep155/300 BS=128 TL=0.0998 TA=0.9882 VL=0.1808 VA=0.9634
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep156/300 BS=128 TL=0.0995 TA=0.9887 VL=0.1812 VA=0.9634
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep157/300 BS=128 TL=0.0977 TA=0.9889 VL=0.1807 VA=0.9628
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep158/300 BS=128 TL=0.0966 TA=0.9888 VL=0.1791 VA=0.9634
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep159/300 BS=128 TL=0.0967 TA=0.9891 VL=0.1784 VA=0.9634
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 160 (VA=0.9639)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep160/300 BS=128 TL=0.0951 TA=0.9889 VL=0.1776 VA=0.9639
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep161/300 BS=128 TL=0.0966 TA=0.9891 VL=0.1772 VA=0.9639
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 162 (VA=0.9645)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep162/300 BS=128 TL=0.0964 TA=0.9892 VL=0.1765 VA=0.9645
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep163/300 BS=128 TL=0.0930 TA=0.9891 VL=0.1759 VA=0.9639
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep164/300 BS=128 TL=0.0937 TA=0.9896 VL=0.1752 VA=0.9634
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep165/300 BS=128 TL=0.0915 TA=0.9897 VL=0.1752 VA=0.9628
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep166/300 BS=128 TL=0.0918 TA=0.9897 VL=0.1746 VA=0.9628
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep167/300 BS=128 TL=0.0910 TA=0.9897 VL=0.1735 VA=0.9645
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep168/300 BS=128 TL=0.0896 TA=0.9897 VL=0.1731 VA=0.9645
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep169/300 BS=128 TL=0.0887 TA=0.9900 VL=0.1723 VA=0.9645
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep170/300 BS=128 TL=0.0884 TA=0.9897 VL=0.1718 VA=0.9645
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep171/300 BS=128 TL=0.0877 TA=0.9900 VL=0.1710 VA=0.9645
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep172/300 BS=128 TL=0.0867 TA=0.9900 VL=0.1706 VA=0.9639
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep173/300 BS=128 TL=0.0859 TA=0.9902 VL=0.1708 VA=0.9634
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep174/300 BS=128 TL=0.0872 TA=0.9903 VL=0.1697 VA=0.9639
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep175/300 BS=128 TL=0.0851 TA=0.9902 VL=0.1695 VA=0.9639
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep176/300 BS=128 TL=0.0847 TA=0.9903 VL=0.1687 VA=0.9634
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep177/300 BS=128 TL=0.0838 TA=0.9903 VL=0.1692 VA=0.9639
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep178/300 BS=128 TL=0.0850 TA=0.9904 VL=0.1677 VA=0.9645
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep179/300 BS=128 TL=0.0829 TA=0.9904 VL=0.1672 VA=0.9634
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep180/300 BS=128 TL=0.0823 TA=0.9906 VL=0.1674 VA=0.9639
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 181 (VA=0.9656)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep181/300 BS=128 TL=0.0816 TA=0.9906 VL=0.1661 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep182/300 BS=128 TL=0.0806 TA=0.9907 VL=0.1661 VA=0.9634
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep183/300 BS=128 TL=0.0803 TA=0.9908 VL=0.1651 VA=0.9645
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep184/300 BS=128 TL=0.0798 TA=0.9908 VL=0.1649 VA=0.9645
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep185/300 BS=128 TL=0.0788 TA=0.9911 VL=0.1650 VA=0.9628
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep186/300 BS=128 TL=0.0787 TA=0.9910 VL=0.1639 VA=0.9639
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep187/300 BS=128 TL=0.0786 TA=0.9914 VL=0.1635 VA=0.9645
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep188/300 BS=128 TL=0.0778 TA=0.9913 VL=0.1638 VA=0.9639
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep189/300 BS=128 TL=0.0780 TA=0.9917 VL=0.1626 VA=0.9650
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep190/300 BS=128 TL=0.0765 TA=0.9915 VL=0.1623 VA=0.9639
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep191/300 BS=128 TL=0.0761 TA=0.9915 VL=0.1618 VA=0.9634
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep192/300 BS=128 TL=0.0758 TA=0.9914 VL=0.1613 VA=0.9634
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep193/300 BS=128 TL=0.0750 TA=0.9921 VL=0.1614 VA=0.9645
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep194/300 BS=128 TL=0.0742 TA=0.9919 VL=0.1611 VA=0.9634
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep195/300 BS=128 TL=0.0755 TA=0.9922 VL=0.1603 VA=0.9634
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep196/300 BS=128 TL=0.0744 TA=0.9925 VL=0.1605 VA=0.9634
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep197/300 BS=128 TL=0.0738 TA=0.9921 VL=0.1595 VA=0.9650
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep198/300 BS=128 TL=0.0727 TA=0.9921 VL=0.1593 VA=0.9645
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep199/300 BS=128 TL=0.0719 TA=0.9925 VL=0.1593 VA=0.9639
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep200/300 BS=128 TL=0.0716 TA=0.9922 VL=0.1582 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep201/300 BS=128 TL=0.0712 TA=0.9926 VL=0.1584 VA=0.9645
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep202/300 BS=128 TL=0.0707 TA=0.9923 VL=0.1577 VA=0.9639
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep203/300 BS=128 TL=0.0701 TA=0.9926 VL=0.1572 VA=0.9645
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep204/300 BS=128 TL=0.0696 TA=0.9930 VL=0.1573 VA=0.9639
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep205/300 BS=128 TL=0.0702 TA=0.9928 VL=0.1568 VA=0.9645
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep206/300 BS=128 TL=0.0694 TA=0.9926 VL=0.1559 VA=0.9650
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep207/300 BS=128 TL=0.0682 TA=0.9929 VL=0.1562 VA=0.9645
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep208/300 BS=128 TL=0.0681 TA=0.9929 VL=0.1560 VA=0.9650
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep209/300 BS=128 TL=0.0675 TA=0.9930 VL=0.1558 VA=0.9650
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep210/300 BS=128 TL=0.0674 TA=0.9930 VL=0.1552 VA=0.9639
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep211/300 BS=128 TL=0.0668 TA=0.9936 VL=0.1554 VA=0.9645
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep212/300 BS=128 TL=0.0665 TA=0.9932 VL=0.1546 VA=0.9650
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep213/300 BS=128 TL=0.0668 TA=0.9932 VL=0.1540 VA=0.9650
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep214/300 BS=128 TL=0.0656 TA=0.9934 VL=0.1542 VA=0.9650
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep215/300 BS=128 TL=0.0650 TA=0.9934 VL=0.1535 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep216/300 BS=128 TL=0.0651 TA=0.9934 VL=0.1537 VA=0.9645
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep217/300 BS=128 TL=0.0643 TA=0.9937 VL=0.1532 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep218/300 BS=128 TL=0.0659 TA=0.9938 VL=0.1529 VA=0.9650
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep219/300 BS=128 TL=0.0632 TA=0.9937 VL=0.1525 VA=0.9650
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep220/300 BS=128 TL=0.0631 TA=0.9937 VL=0.1526 VA=0.9650
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep221/300 BS=128 TL=0.0657 TA=0.9938 VL=0.1522 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep222/300 BS=128 TL=0.0625 TA=0.9938 VL=0.1518 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep223/300 BS=128 TL=0.0622 TA=0.9941 VL=0.1519 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep224/300 BS=128 TL=0.0631 TA=0.9940 VL=0.1509 VA=0.9645
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep225/300 BS=128 TL=0.0614 TA=0.9941 VL=0.1508 VA=0.9650
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep226/300 BS=128 TL=0.0608 TA=0.9941 VL=0.1505 VA=0.9650
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep227/300 BS=128 TL=0.0602 TA=0.9943 VL=0.1503 VA=0.9650
+Saved best model for convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug at epoch 228 (VA=0.9666)
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep228/300 BS=128 TL=0.0603 TA=0.9944 VL=0.1499 VA=0.9666
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep229/300 BS=128 TL=0.0594 TA=0.9944 VL=0.1496 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep230/300 BS=128 TL=0.0597 TA=0.9943 VL=0.1495 VA=0.9666
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep231/300 BS=128 TL=0.0587 TA=0.9944 VL=0.1496 VA=0.9650
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep232/300 BS=128 TL=0.0588 TA=0.9943 VL=0.1487 VA=0.9661
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep233/300 BS=128 TL=0.0585 TA=0.9944 VL=0.1488 VA=0.9661
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep234/300 BS=128 TL=0.0609 TA=0.9945 VL=0.1491 VA=0.9645
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep235/300 BS=128 TL=0.0577 TA=0.9945 VL=0.1478 VA=0.9661
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep236/300 BS=128 TL=0.0574 TA=0.9944 VL=0.1480 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep237/300 BS=128 TL=0.0567 TA=0.9943 VL=0.1478 VA=0.9661
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep238/300 BS=128 TL=0.0565 TA=0.9947 VL=0.1472 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep239/300 BS=128 TL=0.0563 TA=0.9947 VL=0.1472 VA=0.9661
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep240/300 BS=128 TL=0.0561 TA=0.9947 VL=0.1477 VA=0.9650
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep241/300 BS=128 TL=0.0561 TA=0.9947 VL=0.1469 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep242/300 BS=128 TL=0.0557 TA=0.9945 VL=0.1467 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep243/300 BS=128 TL=0.0553 TA=0.9947 VL=0.1466 VA=0.9661
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep244/300 BS=128 TL=0.0547 TA=0.9948 VL=0.1464 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep245/300 BS=128 TL=0.0548 TA=0.9947 VL=0.1462 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep246/300 BS=128 TL=0.0540 TA=0.9948 VL=0.1463 VA=0.9661
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep247/300 BS=128 TL=0.0536 TA=0.9947 VL=0.1456 VA=0.9661
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep248/300 BS=128 TL=0.0547 TA=0.9947 VL=0.1461 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep249/300 BS=128 TL=0.0529 TA=0.9948 VL=0.1454 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep250/300 BS=128 TL=0.0529 TA=0.9949 VL=0.1447 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep251/300 BS=128 TL=0.0528 TA=0.9954 VL=0.1450 VA=0.9661
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep252/300 BS=128 TL=0.0524 TA=0.9949 VL=0.1452 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep253/300 BS=128 TL=0.0524 TA=0.9947 VL=0.1446 VA=0.9661
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep254/300 BS=128 TL=0.0516 TA=0.9954 VL=0.1441 VA=0.9661
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep255/300 BS=128 TL=0.0514 TA=0.9952 VL=0.1443 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep256/300 BS=128 TL=0.0514 TA=0.9952 VL=0.1438 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep257/300 BS=128 TL=0.0517 TA=0.9954 VL=0.1438 VA=0.9661
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep258/300 BS=128 TL=0.0507 TA=0.9952 VL=0.1441 VA=0.9661
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep259/300 BS=128 TL=0.0503 TA=0.9954 VL=0.1426 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep260/300 BS=128 TL=0.0513 TA=0.9954 VL=0.1436 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep261/300 BS=128 TL=0.0497 TA=0.9952 VL=0.1437 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep262/300 BS=128 TL=0.0494 TA=0.9952 VL=0.1423 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep263/300 BS=128 TL=0.0507 TA=0.9954 VL=0.1426 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep264/300 BS=128 TL=0.0491 TA=0.9949 VL=0.1427 VA=0.9661
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep265/300 BS=128 TL=0.0492 TA=0.9952 VL=0.1422 VA=0.9661
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep266/300 BS=128 TL=0.0490 TA=0.9952 VL=0.1421 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep267/300 BS=128 TL=0.0484 TA=0.9952 VL=0.1416 VA=0.9661
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep268/300 BS=128 TL=0.0482 TA=0.9952 VL=0.1416 VA=0.9661
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep269/300 BS=128 TL=0.0482 TA=0.9956 VL=0.1411 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep270/300 BS=128 TL=0.0474 TA=0.9955 VL=0.1408 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep271/300 BS=128 TL=0.0472 TA=0.9955 VL=0.1408 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep272/300 BS=128 TL=0.0471 TA=0.9956 VL=0.1404 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep273/300 BS=128 TL=0.0466 TA=0.9955 VL=0.1407 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep274/300 BS=128 TL=0.0463 TA=0.9956 VL=0.1405 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep275/300 BS=128 TL=0.0461 TA=0.9956 VL=0.1403 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep276/300 BS=128 TL=0.0463 TA=0.9956 VL=0.1401 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep277/300 BS=128 TL=0.0460 TA=0.9956 VL=0.1398 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep278/300 BS=128 TL=0.0454 TA=0.9958 VL=0.1400 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep279/300 BS=128 TL=0.0462 TA=0.9956 VL=0.1397 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep280/300 BS=128 TL=0.0449 TA=0.9958 VL=0.1393 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep281/300 BS=128 TL=0.0453 TA=0.9956 VL=0.1397 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep282/300 BS=128 TL=0.0450 TA=0.9955 VL=0.1387 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep283/300 BS=128 TL=0.0448 TA=0.9956 VL=0.1390 VA=0.9661
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep284/300 BS=128 TL=0.0442 TA=0.9956 VL=0.1393 VA=0.9650
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep285/300 BS=128 TL=0.0448 TA=0.9959 VL=0.1389 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep286/300 BS=128 TL=0.0441 TA=0.9956 VL=0.1384 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep287/300 BS=128 TL=0.0448 TA=0.9956 VL=0.1387 VA=0.9650
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep288/300 BS=128 TL=0.0433 TA=0.9959 VL=0.1382 VA=0.9661
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep289/300 BS=128 TL=0.0430 TA=0.9959 VL=0.1379 VA=0.9661
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep290/300 BS=128 TL=0.0431 TA=0.9959 VL=0.1377 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep291/300 BS=128 TL=0.0426 TA=0.9959 VL=0.1379 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep292/300 BS=128 TL=0.0427 TA=0.9958 VL=0.1378 VA=0.9661
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep293/300 BS=128 TL=0.0423 TA=0.9958 VL=0.1370 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep294/300 BS=128 TL=0.0422 TA=0.9959 VL=0.1377 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep295/300 BS=128 TL=0.0419 TA=0.9959 VL=0.1374 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep296/300 BS=128 TL=0.0424 TA=0.9959 VL=0.1371 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep297/300 BS=128 TL=0.0423 TA=0.9958 VL=0.1370 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep298/300 BS=128 TL=0.0414 TA=0.9959 VL=0.1371 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep299/300 BS=128 TL=0.0409 TA=0.9959 VL=0.1367 VA=0.9656
+[convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug] Ep300/300 BS=128 TL=0.0408 TA=0.9959 VL=0.1364 VA=0.9661
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 1 (VA=0.3286)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep1/300 BS=128 TL=3.8907 TA=0.2153 VL=3.2068 VA=0.3286
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 2 (VA=0.4527)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep2/300 BS=128 TL=2.8906 TA=0.4026 VL=2.6450 VA=0.4527
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 3 (VA=0.5446)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep3/300 BS=128 TL=2.4248 TA=0.5088 VL=2.2681 VA=0.5446
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 4 (VA=0.6331)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep4/300 BS=128 TL=2.0894 TA=0.5966 VL=1.9777 VA=0.6331
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 5 (VA=0.6960)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep5/300 BS=128 TL=1.8003 TA=0.6793 VL=1.7227 VA=0.6960
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 6 (VA=0.7397)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep6/300 BS=128 TL=1.5606 TA=0.7286 VL=1.5194 VA=0.7397
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 7 (VA=0.7791)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep7/300 BS=128 TL=1.3673 TA=0.7687 VL=1.3425 VA=0.7791
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 8 (VA=0.8048)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep8/300 BS=128 TL=1.2022 TA=0.8063 VL=1.1981 VA=0.8048
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 9 (VA=0.8223)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep9/300 BS=128 TL=1.0646 TA=0.8267 VL=1.0805 VA=0.8223
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 10 (VA=0.8321)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep10/300 BS=128 TL=0.9608 TA=0.8494 VL=0.9923 VA=0.8321
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 11 (VA=0.8480)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep11/300 BS=128 TL=0.8642 TA=0.8685 VL=0.9027 VA=0.8480
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 12 (VA=0.8650)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep12/300 BS=128 TL=0.7861 TA=0.8838 VL=0.8304 VA=0.8650
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 13 (VA=0.8704)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep13/300 BS=128 TL=0.7160 TA=0.8956 VL=0.7642 VA=0.8704
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 14 (VA=0.8721)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep14/300 BS=128 TL=0.6600 TA=0.9054 VL=0.7206 VA=0.8721
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 15 (VA=0.8846)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep15/300 BS=128 TL=0.6112 TA=0.9107 VL=0.6726 VA=0.8846
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 16 (VA=0.8896)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep16/300 BS=128 TL=0.5683 TA=0.9198 VL=0.6323 VA=0.8896
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 17 (VA=0.8923)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep17/300 BS=128 TL=0.5286 TA=0.9239 VL=0.5990 VA=0.8923
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 18 (VA=0.8983)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep18/300 BS=128 TL=0.4933 TA=0.9314 VL=0.5731 VA=0.8983
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 19 (VA=0.9021)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep19/300 BS=128 TL=0.4635 TA=0.9368 VL=0.5420 VA=0.9021
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 20 (VA=0.9043)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep20/300 BS=128 TL=0.4383 TA=0.9403 VL=0.5203 VA=0.9043
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 21 (VA=0.9076)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep21/300 BS=128 TL=0.4154 TA=0.9442 VL=0.5009 VA=0.9076
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep22/300 BS=128 TL=0.3910 TA=0.9476 VL=0.4748 VA=0.9076
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 23 (VA=0.9098)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep23/300 BS=128 TL=0.3736 TA=0.9515 VL=0.4661 VA=0.9098
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 24 (VA=0.9125)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep24/300 BS=128 TL=0.3515 TA=0.9523 VL=0.4435 VA=0.9125
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 25 (VA=0.9153)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep25/300 BS=128 TL=0.3379 TA=0.9541 VL=0.4372 VA=0.9153
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 26 (VA=0.9180)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep26/300 BS=128 TL=0.3268 TA=0.9568 VL=0.4249 VA=0.9180
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 27 (VA=0.9185)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep27/300 BS=128 TL=0.3079 TA=0.9593 VL=0.4143 VA=0.9185
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 28 (VA=0.9218)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep28/300 BS=128 TL=0.2932 TA=0.9602 VL=0.3934 VA=0.9218
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 29 (VA=0.9224)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep29/300 BS=128 TL=0.2802 TA=0.9632 VL=0.3871 VA=0.9224
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep30/300 BS=128 TL=0.2766 TA=0.9624 VL=0.3834 VA=0.9202
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 31 (VA=0.9245)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep31/300 BS=128 TL=0.2588 TA=0.9668 VL=0.3679 VA=0.9245
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep32/300 BS=128 TL=0.2515 TA=0.9675 VL=0.3636 VA=0.9240
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 33 (VA=0.9267)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep33/300 BS=128 TL=0.2430 TA=0.9692 VL=0.3565 VA=0.9267
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 34 (VA=0.9284)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep34/300 BS=128 TL=0.2326 TA=0.9713 VL=0.3506 VA=0.9284
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep35/300 BS=128 TL=0.2265 TA=0.9705 VL=0.3432 VA=0.9267
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep36/300 BS=128 TL=0.2246 TA=0.9725 VL=0.3402 VA=0.9262
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 37 (VA=0.9300)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep37/300 BS=128 TL=0.2104 TA=0.9738 VL=0.3308 VA=0.9300
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 38 (VA=0.9322)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep38/300 BS=128 TL=0.2084 TA=0.9759 VL=0.3217 VA=0.9322
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 39 (VA=0.9355)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep39/300 BS=128 TL=0.1962 TA=0.9757 VL=0.3192 VA=0.9355
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep40/300 BS=128 TL=0.1901 TA=0.9774 VL=0.3168 VA=0.9311
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 41 (VA=0.9382)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep41/300 BS=128 TL=0.1875 TA=0.9792 VL=0.3086 VA=0.9382
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep42/300 BS=128 TL=0.1813 TA=0.9779 VL=0.3076 VA=0.9377
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep43/300 BS=128 TL=0.1769 TA=0.9796 VL=0.3038 VA=0.9366
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep44/300 BS=128 TL=0.1746 TA=0.9805 VL=0.2984 VA=0.9360
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep45/300 BS=128 TL=0.1648 TA=0.9806 VL=0.2933 VA=0.9377
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep46/300 BS=128 TL=0.1596 TA=0.9811 VL=0.2912 VA=0.9371
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep47/300 BS=128 TL=0.1534 TA=0.9826 VL=0.2893 VA=0.9366
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep48/300 BS=128 TL=0.1509 TA=0.9836 VL=0.2840 VA=0.9371
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 49 (VA=0.9388)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep49/300 BS=128 TL=0.1474 TA=0.9832 VL=0.2816 VA=0.9388
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep50/300 BS=128 TL=0.1422 TA=0.9851 VL=0.2813 VA=0.9382
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 51 (VA=0.9404)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep51/300 BS=128 TL=0.1404 TA=0.9837 VL=0.2780 VA=0.9404
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 52 (VA=0.9410)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep52/300 BS=128 TL=0.1362 TA=0.9844 VL=0.2767 VA=0.9410
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep53/300 BS=128 TL=0.1312 TA=0.9865 VL=0.2715 VA=0.9360
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep54/300 BS=128 TL=0.1315 TA=0.9869 VL=0.2764 VA=0.9393
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep55/300 BS=128 TL=0.1272 TA=0.9878 VL=0.2653 VA=0.9382
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep56/300 BS=128 TL=0.1239 TA=0.9871 VL=0.2646 VA=0.9404
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep57/300 BS=128 TL=0.1180 TA=0.9889 VL=0.2598 VA=0.9388
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 58 (VA=0.9442)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep58/300 BS=128 TL=0.1167 TA=0.9899 VL=0.2599 VA=0.9442
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep59/300 BS=128 TL=0.1160 TA=0.9887 VL=0.2632 VA=0.9410
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep60/300 BS=128 TL=0.1103 TA=0.9903 VL=0.2556 VA=0.9415
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep61/300 BS=128 TL=0.1085 TA=0.9893 VL=0.2577 VA=0.9404
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep62/300 BS=128 TL=0.1063 TA=0.9914 VL=0.2542 VA=0.9393
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep63/300 BS=128 TL=0.1031 TA=0.9900 VL=0.2526 VA=0.9426
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep64/300 BS=128 TL=0.1015 TA=0.9918 VL=0.2512 VA=0.9426
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep65/300 BS=128 TL=0.0984 TA=0.9925 VL=0.2487 VA=0.9410
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep66/300 BS=128 TL=0.0993 TA=0.9911 VL=0.2445 VA=0.9431
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep67/300 BS=128 TL=0.0943 TA=0.9929 VL=0.2461 VA=0.9437
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep68/300 BS=128 TL=0.0920 TA=0.9928 VL=0.2443 VA=0.9415
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep69/300 BS=128 TL=0.0909 TA=0.9938 VL=0.2429 VA=0.9426
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep70/300 BS=128 TL=0.0894 TA=0.9940 VL=0.2404 VA=0.9415
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep71/300 BS=128 TL=0.0871 TA=0.9936 VL=0.2388 VA=0.9431
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep72/300 BS=128 TL=0.0855 TA=0.9951 VL=0.2422 VA=0.9437
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep73/300 BS=128 TL=0.0844 TA=0.9945 VL=0.2404 VA=0.9437
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep74/300 BS=128 TL=0.0812 TA=0.9949 VL=0.2362 VA=0.9437
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep75/300 BS=128 TL=0.0816 TA=0.9952 VL=0.2380 VA=0.9437
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep76/300 BS=128 TL=0.0770 TA=0.9949 VL=0.2322 VA=0.9431
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep77/300 BS=128 TL=0.0802 TA=0.9949 VL=0.2356 VA=0.9426
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep78/300 BS=128 TL=0.0752 TA=0.9956 VL=0.2331 VA=0.9431
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep79/300 BS=128 TL=0.0739 TA=0.9956 VL=0.2310 VA=0.9420
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 80 (VA=0.9448)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep80/300 BS=128 TL=0.0720 TA=0.9967 VL=0.2332 VA=0.9448
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep81/300 BS=128 TL=0.0732 TA=0.9962 VL=0.2293 VA=0.9426
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep82/300 BS=128 TL=0.0704 TA=0.9967 VL=0.2295 VA=0.9415
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep83/300 BS=128 TL=0.0731 TA=0.9966 VL=0.2287 VA=0.9442
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep84/300 BS=128 TL=0.0665 TA=0.9964 VL=0.2269 VA=0.9426
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep85/300 BS=128 TL=0.0666 TA=0.9966 VL=0.2286 VA=0.9442
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep86/300 BS=128 TL=0.0657 TA=0.9969 VL=0.2275 VA=0.9410
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep87/300 BS=128 TL=0.0630 TA=0.9973 VL=0.2243 VA=0.9437
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep88/300 BS=128 TL=0.0628 TA=0.9974 VL=0.2237 VA=0.9448
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 89 (VA=0.9464)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep89/300 BS=128 TL=0.0613 TA=0.9978 VL=0.2245 VA=0.9464
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep90/300 BS=128 TL=0.0600 TA=0.9977 VL=0.2220 VA=0.9426
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep91/300 BS=128 TL=0.0590 TA=0.9970 VL=0.2220 VA=0.9448
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep92/300 BS=128 TL=0.0617 TA=0.9977 VL=0.2238 VA=0.9442
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep93/300 BS=128 TL=0.0583 TA=0.9979 VL=0.2229 VA=0.9415
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep94/300 BS=128 TL=0.0568 TA=0.9973 VL=0.2193 VA=0.9442
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep95/300 BS=128 TL=0.0566 TA=0.9984 VL=0.2216 VA=0.9420
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 96 (VA=0.9486)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep96/300 BS=128 TL=0.0531 TA=0.9979 VL=0.2174 VA=0.9486
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep97/300 BS=128 TL=0.0533 TA=0.9979 VL=0.2177 VA=0.9431
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep98/300 BS=128 TL=0.0518 TA=0.9977 VL=0.2193 VA=0.9464
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep99/300 BS=128 TL=0.0513 TA=0.9985 VL=0.2145 VA=0.9442
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep100/300 BS=128 TL=0.0508 TA=0.9984 VL=0.2147 VA=0.9442
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep101/300 BS=128 TL=0.0525 TA=0.9990 VL=0.2150 VA=0.9442
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep102/300 BS=128 TL=0.0511 TA=0.9978 VL=0.2138 VA=0.9448
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep103/300 BS=128 TL=0.0468 TA=0.9989 VL=0.2122 VA=0.9426
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep104/300 BS=128 TL=0.0479 TA=0.9990 VL=0.2142 VA=0.9459
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep105/300 BS=128 TL=0.0471 TA=0.9988 VL=0.2123 VA=0.9437
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep106/300 BS=128 TL=0.0457 TA=0.9986 VL=0.2133 VA=0.9475
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep107/300 BS=128 TL=0.0493 TA=0.9986 VL=0.2150 VA=0.9437
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep108/300 BS=128 TL=0.0456 TA=0.9986 VL=0.2117 VA=0.9442
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep109/300 BS=128 TL=0.0441 TA=0.9986 VL=0.2115 VA=0.9431
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep110/300 BS=128 TL=0.0438 TA=0.9988 VL=0.2152 VA=0.9420
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep111/300 BS=128 TL=0.0432 TA=0.9988 VL=0.2113 VA=0.9410
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep112/300 BS=128 TL=0.0443 TA=0.9992 VL=0.2090 VA=0.9442
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep113/300 BS=128 TL=0.0424 TA=0.9990 VL=0.2107 VA=0.9426
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep114/300 BS=128 TL=0.0423 TA=0.9986 VL=0.2101 VA=0.9470
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep115/300 BS=128 TL=0.0417 TA=0.9993 VL=0.2075 VA=0.9453
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep116/300 BS=128 TL=0.0399 TA=0.9989 VL=0.2099 VA=0.9431
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep117/300 BS=128 TL=0.0388 TA=0.9992 VL=0.2055 VA=0.9431
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep118/300 BS=128 TL=0.0390 TA=0.9995 VL=0.2071 VA=0.9453
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep119/300 BS=128 TL=0.0403 TA=0.9990 VL=0.2067 VA=0.9459
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep120/300 BS=128 TL=0.0411 TA=0.9992 VL=0.2079 VA=0.9448
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep121/300 BS=128 TL=0.0377 TA=0.9992 VL=0.2038 VA=0.9481
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep122/300 BS=128 TL=0.0381 TA=0.9992 VL=0.2064 VA=0.9448
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep123/300 BS=128 TL=0.0376 TA=0.9989 VL=0.2066 VA=0.9437
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep124/300 BS=128 TL=0.0361 TA=0.9993 VL=0.2073 VA=0.9431
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep125/300 BS=128 TL=0.0360 TA=0.9992 VL=0.2031 VA=0.9464
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep126/300 BS=128 TL=0.0361 TA=0.9996 VL=0.2019 VA=0.9442
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep127/300 BS=128 TL=0.0346 TA=0.9996 VL=0.2041 VA=0.9453
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep128/300 BS=128 TL=0.0345 TA=0.9990 VL=0.2045 VA=0.9453
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep129/300 BS=128 TL=0.0347 TA=0.9995 VL=0.2023 VA=0.9448
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep130/300 BS=128 TL=0.0344 TA=0.9996 VL=0.2026 VA=0.9453
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep131/300 BS=128 TL=0.0333 TA=0.9996 VL=0.2026 VA=0.9459
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep132/300 BS=128 TL=0.0328 TA=0.9993 VL=0.2034 VA=0.9453
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep133/300 BS=128 TL=0.0326 TA=0.9996 VL=0.2024 VA=0.9464
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep134/300 BS=128 TL=0.0313 TA=0.9997 VL=0.2010 VA=0.9442
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep135/300 BS=128 TL=0.0323 TA=0.9995 VL=0.2023 VA=0.9442
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep136/300 BS=128 TL=0.0316 TA=0.9995 VL=0.2011 VA=0.9453
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep137/300 BS=128 TL=0.0315 TA=0.9996 VL=0.2003 VA=0.9464
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep138/300 BS=128 TL=0.0310 TA=0.9997 VL=0.2012 VA=0.9464
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep139/300 BS=128 TL=0.0308 TA=0.9995 VL=0.2004 VA=0.9475
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep140/300 BS=128 TL=0.0303 TA=0.9996 VL=0.1988 VA=0.9486
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep141/300 BS=128 TL=0.0306 TA=0.9992 VL=0.1982 VA=0.9481
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep142/300 BS=128 TL=0.0308 TA=0.9995 VL=0.1988 VA=0.9470
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep143/300 BS=128 TL=0.0307 TA=0.9996 VL=0.2005 VA=0.9453
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep144/300 BS=128 TL=0.0296 TA=0.9996 VL=0.1984 VA=0.9453
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep145/300 BS=128 TL=0.0301 TA=0.9995 VL=0.1979 VA=0.9459
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep146/300 BS=128 TL=0.0283 TA=0.9996 VL=0.1982 VA=0.9453
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep147/300 BS=128 TL=0.0283 TA=0.9997 VL=0.1972 VA=0.9464
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep148/300 BS=128 TL=0.0282 TA=0.9997 VL=0.1983 VA=0.9475
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep149/300 BS=128 TL=0.0283 TA=0.9997 VL=0.1973 VA=0.9475
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep150/300 BS=128 TL=0.0273 TA=0.9996 VL=0.1985 VA=0.9431
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep151/300 BS=128 TL=0.0276 TA=0.9999 VL=0.1950 VA=0.9475
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 152 (VA=0.9492)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep152/300 BS=128 TL=0.0270 TA=0.9995 VL=0.1975 VA=0.9492
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep153/300 BS=128 TL=0.0260 TA=0.9996 VL=0.1959 VA=0.9475
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep154/300 BS=128 TL=0.0257 TA=0.9995 VL=0.1969 VA=0.9453
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep155/300 BS=128 TL=0.0261 TA=0.9997 VL=0.1960 VA=0.9453
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep156/300 BS=128 TL=0.0254 TA=0.9996 VL=0.1968 VA=0.9448
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep157/300 BS=128 TL=0.0251 TA=0.9997 VL=0.1958 VA=0.9459
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep158/300 BS=128 TL=0.0255 TA=0.9997 VL=0.1938 VA=0.9453
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep159/300 BS=128 TL=0.0263 TA=0.9995 VL=0.1964 VA=0.9481
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep160/300 BS=128 TL=0.0246 TA=0.9996 VL=0.1965 VA=0.9448
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep161/300 BS=128 TL=0.0241 TA=0.9996 VL=0.1943 VA=0.9464
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep162/300 BS=128 TL=0.0247 TA=0.9995 VL=0.1959 VA=0.9475
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep163/300 BS=128 TL=0.0247 TA=0.9997 VL=0.1961 VA=0.9475
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep164/300 BS=128 TL=0.0240 TA=0.9997 VL=0.1911 VA=0.9475
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep165/300 BS=128 TL=0.0237 TA=0.9996 VL=0.1932 VA=0.9453
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep166/300 BS=128 TL=0.0230 TA=0.9997 VL=0.1923 VA=0.9481
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep167/300 BS=128 TL=0.0226 TA=0.9999 VL=0.1918 VA=0.9475
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep168/300 BS=128 TL=0.0232 TA=0.9996 VL=0.1920 VA=0.9475
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep169/300 BS=128 TL=0.0221 TA=0.9997 VL=0.1933 VA=0.9459
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep170/300 BS=128 TL=0.0221 TA=0.9997 VL=0.1933 VA=0.9448
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep171/300 BS=128 TL=0.0223 TA=0.9996 VL=0.1929 VA=0.9481
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep172/300 BS=128 TL=0.0219 TA=0.9997 VL=0.1944 VA=0.9470
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep173/300 BS=128 TL=0.0225 TA=0.9995 VL=0.1924 VA=0.9448
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep174/300 BS=128 TL=0.0230 TA=0.9996 VL=0.1920 VA=0.9459
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep175/300 BS=128 TL=0.0216 TA=0.9999 VL=0.1922 VA=0.9464
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep176/300 BS=128 TL=0.0207 TA=0.9996 VL=0.1926 VA=0.9475
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep177/300 BS=128 TL=0.0212 TA=0.9996 VL=0.1902 VA=0.9481
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep178/300 BS=128 TL=0.0208 TA=0.9996 VL=0.1922 VA=0.9470
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep179/300 BS=128 TL=0.0210 TA=0.9999 VL=0.1915 VA=0.9475
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep180/300 BS=128 TL=0.0217 TA=0.9997 VL=0.1915 VA=0.9475
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep181/300 BS=128 TL=0.0211 TA=0.9997 VL=0.1926 VA=0.9475
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep182/300 BS=128 TL=0.0201 TA=0.9999 VL=0.1904 VA=0.9486
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep183/300 BS=128 TL=0.0214 TA=0.9996 VL=0.1911 VA=0.9464
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep184/300 BS=128 TL=0.0203 TA=0.9997 VL=0.1888 VA=0.9492
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep185/300 BS=128 TL=0.0210 TA=0.9997 VL=0.1921 VA=0.9464
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep186/300 BS=128 TL=0.0205 TA=0.9999 VL=0.1909 VA=0.9475
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep187/300 BS=128 TL=0.0190 TA=0.9999 VL=0.1885 VA=0.9486
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep188/300 BS=128 TL=0.0196 TA=0.9997 VL=0.1899 VA=0.9475
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep189/300 BS=128 TL=0.0188 TA=0.9996 VL=0.1902 VA=0.9481
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep190/300 BS=128 TL=0.0193 TA=0.9999 VL=0.1922 VA=0.9475
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep191/300 BS=128 TL=0.0186 TA=0.9996 VL=0.1880 VA=0.9486
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep192/300 BS=128 TL=0.0202 TA=0.9996 VL=0.1921 VA=0.9464
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep193/300 BS=128 TL=0.0188 TA=0.9996 VL=0.1893 VA=0.9481
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep194/300 BS=128 TL=0.0193 TA=0.9997 VL=0.1889 VA=0.9470
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep195/300 BS=128 TL=0.0190 TA=0.9996 VL=0.1894 VA=0.9481
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep196/300 BS=128 TL=0.0188 TA=0.9997 VL=0.1911 VA=0.9431
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep197/300 BS=128 TL=0.0194 TA=0.9997 VL=0.1897 VA=0.9470
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep198/300 BS=128 TL=0.0188 TA=0.9996 VL=0.1892 VA=0.9475
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep199/300 BS=128 TL=0.0181 TA=0.9999 VL=0.1882 VA=0.9475
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep200/300 BS=128 TL=0.0189 TA=0.9997 VL=0.1884 VA=0.9470
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep201/300 BS=128 TL=0.0173 TA=0.9997 VL=0.1886 VA=0.9431
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep202/300 BS=128 TL=0.0169 TA=0.9996 VL=0.1882 VA=0.9448
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep203/300 BS=128 TL=0.0172 TA=0.9996 VL=0.1881 VA=0.9481
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep204/300 BS=128 TL=0.0170 TA=0.9999 VL=0.1882 VA=0.9481
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep205/300 BS=128 TL=0.0169 TA=0.9999 VL=0.1895 VA=0.9470
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep206/300 BS=128 TL=0.0172 TA=0.9999 VL=0.1894 VA=0.9453
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep207/300 BS=128 TL=0.0173 TA=0.9996 VL=0.1901 VA=0.9442
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep208/300 BS=128 TL=0.0163 TA=0.9996 VL=0.1867 VA=0.9470
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep209/300 BS=128 TL=0.0176 TA=0.9996 VL=0.1881 VA=0.9486
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep210/300 BS=128 TL=0.0166 TA=0.9999 VL=0.1849 VA=0.9486
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep211/300 BS=128 TL=0.0163 TA=0.9995 VL=0.1864 VA=0.9486
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep212/300 BS=128 TL=0.0169 TA=0.9996 VL=0.1854 VA=0.9486
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep213/300 BS=128 TL=0.0156 TA=0.9999 VL=0.1868 VA=0.9486
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep214/300 BS=128 TL=0.0166 TA=0.9997 VL=0.1874 VA=0.9464
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep215/300 BS=128 TL=0.0170 TA=0.9997 VL=0.1871 VA=0.9470
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep216/300 BS=128 TL=0.0157 TA=1.0000 VL=0.1865 VA=0.9464
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep217/300 BS=128 TL=0.0156 TA=0.9997 VL=0.1873 VA=0.9442
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep218/300 BS=128 TL=0.0156 TA=1.0000 VL=0.1854 VA=0.9448
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep219/300 BS=128 TL=0.0150 TA=0.9999 VL=0.1855 VA=0.9486
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep220/300 BS=128 TL=0.0152 TA=0.9997 VL=0.1879 VA=0.9459
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep221/300 BS=128 TL=0.0154 TA=0.9997 VL=0.1849 VA=0.9459
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep222/300 BS=128 TL=0.0152 TA=0.9999 VL=0.1852 VA=0.9486
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep223/300 BS=128 TL=0.0154 TA=0.9997 VL=0.1855 VA=0.9464
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep224/300 BS=128 TL=0.0150 TA=0.9999 VL=0.1842 VA=0.9464
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep225/300 BS=128 TL=0.0157 TA=0.9996 VL=0.1859 VA=0.9475
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep226/300 BS=128 TL=0.0148 TA=0.9997 VL=0.1850 VA=0.9475
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 227 (VA=0.9497)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep227/300 BS=128 TL=0.0150 TA=0.9996 VL=0.1872 VA=0.9497
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep228/300 BS=128 TL=0.0143 TA=0.9997 VL=0.1838 VA=0.9492
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep229/300 BS=128 TL=0.0142 TA=0.9999 VL=0.1844 VA=0.9486
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep230/300 BS=128 TL=0.0153 TA=0.9995 VL=0.1869 VA=0.9481
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep231/300 BS=128 TL=0.0149 TA=0.9996 VL=0.1873 VA=0.9470
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep232/300 BS=128 TL=0.0143 TA=0.9997 VL=0.1881 VA=0.9459
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep233/300 BS=128 TL=0.0141 TA=0.9997 VL=0.1850 VA=0.9486
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep234/300 BS=128 TL=0.0145 TA=0.9996 VL=0.1852 VA=0.9464
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep235/300 BS=128 TL=0.0142 TA=0.9995 VL=0.1853 VA=0.9475
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep236/300 BS=128 TL=0.0142 TA=0.9997 VL=0.1860 VA=0.9464
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep237/300 BS=128 TL=0.0138 TA=0.9997 VL=0.1835 VA=0.9492
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep238/300 BS=128 TL=0.0138 TA=0.9999 VL=0.1838 VA=0.9475
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep239/300 BS=128 TL=0.0142 TA=0.9997 VL=0.1855 VA=0.9470
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep240/300 BS=128 TL=0.0134 TA=0.9997 VL=0.1855 VA=0.9453
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep241/300 BS=128 TL=0.0139 TA=0.9996 VL=0.1866 VA=0.9481
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep242/300 BS=128 TL=0.0135 TA=0.9997 VL=0.1831 VA=0.9497
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 243 (VA=0.9508)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep243/300 BS=128 TL=0.0134 TA=0.9999 VL=0.1847 VA=0.9508
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep244/300 BS=128 TL=0.0129 TA=0.9997 VL=0.1835 VA=0.9481
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep245/300 BS=128 TL=0.0131 TA=0.9997 VL=0.1852 VA=0.9470
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep246/300 BS=128 TL=0.0135 TA=0.9997 VL=0.1838 VA=0.9492
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep247/300 BS=128 TL=0.0140 TA=0.9996 VL=0.1833 VA=0.9492
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep248/300 BS=128 TL=0.0130 TA=1.0000 VL=0.1843 VA=0.9464
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep249/300 BS=128 TL=0.0126 TA=0.9997 VL=0.1839 VA=0.9486
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep250/300 BS=128 TL=0.0128 TA=0.9997 VL=0.1812 VA=0.9486
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep251/300 BS=128 TL=0.0126 TA=0.9997 VL=0.1813 VA=0.9497
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep252/300 BS=128 TL=0.0123 TA=0.9999 VL=0.1832 VA=0.9497
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep253/300 BS=128 TL=0.0128 TA=0.9997 VL=0.1830 VA=0.9502
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep254/300 BS=128 TL=0.0127 TA=0.9997 VL=0.1846 VA=0.9475
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep255/300 BS=128 TL=0.0129 TA=0.9995 VL=0.1848 VA=0.9492
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep256/300 BS=128 TL=0.0119 TA=0.9996 VL=0.1827 VA=0.9497
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep257/300 BS=128 TL=0.0126 TA=0.9997 VL=0.1827 VA=0.9502
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep258/300 BS=128 TL=0.0124 TA=0.9996 VL=0.1835 VA=0.9508
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep259/300 BS=128 TL=0.0130 TA=0.9999 VL=0.1823 VA=0.9475
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep260/300 BS=128 TL=0.0120 TA=0.9999 VL=0.1831 VA=0.9492
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep261/300 BS=128 TL=0.0123 TA=0.9997 VL=0.1818 VA=0.9475
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep262/300 BS=128 TL=0.0116 TA=0.9997 VL=0.1825 VA=0.9464
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep263/300 BS=128 TL=0.0122 TA=0.9995 VL=0.1833 VA=0.9475
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep264/300 BS=128 TL=0.0123 TA=0.9997 VL=0.1828 VA=0.9486
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep265/300 BS=128 TL=0.0116 TA=0.9996 VL=0.1815 VA=0.9492
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep266/300 BS=128 TL=0.0116 TA=0.9996 VL=0.1808 VA=0.9502
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep267/300 BS=128 TL=0.0114 TA=0.9999 VL=0.1834 VA=0.9486
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep268/300 BS=128 TL=0.0114 TA=0.9997 VL=0.1816 VA=0.9497
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep269/300 BS=128 TL=0.0117 TA=0.9996 VL=0.1822 VA=0.9492
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep270/300 BS=128 TL=0.0120 TA=0.9997 VL=0.1837 VA=0.9486
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep271/300 BS=128 TL=0.0113 TA=0.9996 VL=0.1834 VA=0.9502
+Saved best model for resnet-18_bs128_lr0.001_ep300_pre_noaug at epoch 272 (VA=0.9530)
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep272/300 BS=128 TL=0.0115 TA=0.9997 VL=0.1800 VA=0.9530
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep273/300 BS=128 TL=0.0117 TA=0.9997 VL=0.1821 VA=0.9464
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep274/300 BS=128 TL=0.0109 TA=0.9997 VL=0.1809 VA=0.9497
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep275/300 BS=128 TL=0.0147 TA=0.9996 VL=0.1837 VA=0.9475
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep276/300 BS=128 TL=0.0115 TA=0.9996 VL=0.1816 VA=0.9502
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep277/300 BS=128 TL=0.0116 TA=0.9997 VL=0.1808 VA=0.9508
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep278/300 BS=128 TL=0.0114 TA=0.9997 VL=0.1820 VA=0.9481
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep279/300 BS=128 TL=0.0111 TA=0.9997 VL=0.1821 VA=0.9470
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep280/300 BS=128 TL=0.0109 TA=0.9997 VL=0.1825 VA=0.9470
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep281/300 BS=128 TL=0.0106 TA=0.9997 VL=0.1819 VA=0.9481
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep282/300 BS=128 TL=0.0113 TA=0.9996 VL=0.1823 VA=0.9481
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep283/300 BS=128 TL=0.0115 TA=0.9996 VL=0.1829 VA=0.9486
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep284/300 BS=128 TL=0.0111 TA=0.9995 VL=0.1795 VA=0.9497
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep285/300 BS=128 TL=0.0107 TA=0.9997 VL=0.1807 VA=0.9508
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep286/300 BS=128 TL=0.0112 TA=0.9997 VL=0.1803 VA=0.9502
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep287/300 BS=128 TL=0.0107 TA=0.9997 VL=0.1814 VA=0.9486
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep288/300 BS=128 TL=0.0104 TA=0.9999 VL=0.1828 VA=0.9492
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep289/300 BS=128 TL=0.0113 TA=0.9999 VL=0.1814 VA=0.9497
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep290/300 BS=128 TL=0.0108 TA=0.9997 VL=0.1824 VA=0.9486
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep291/300 BS=128 TL=0.0104 TA=0.9999 VL=0.1803 VA=0.9502
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep292/300 BS=128 TL=0.0101 TA=0.9999 VL=0.1809 VA=0.9492
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep293/300 BS=128 TL=0.0099 TA=0.9996 VL=0.1783 VA=0.9519
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep294/300 BS=128 TL=0.0127 TA=0.9997 VL=0.1816 VA=0.9497
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep295/300 BS=128 TL=0.0118 TA=0.9997 VL=0.1797 VA=0.9481
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep296/300 BS=128 TL=0.0104 TA=0.9999 VL=0.1805 VA=0.9492
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep297/300 BS=128 TL=0.0100 TA=0.9997 VL=0.1795 VA=0.9524
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep298/300 BS=128 TL=0.0098 TA=0.9997 VL=0.1808 VA=0.9492
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep299/300 BS=128 TL=0.0099 TA=0.9997 VL=0.1793 VA=0.9492
+[resnet-18_bs128_lr0.001_ep300_pre_noaug] Ep300/300 BS=128 TL=0.0102 TA=0.9996 VL=0.1819 VA=0.9508
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 1 (VA=0.2028)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep1/300 BS=128 TL=4.6065 TA=0.0764 VL=4.5808 VA=0.2028
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 2 (VA=0.2116)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep2/300 BS=128 TL=4.5552 TA=0.2195 VL=4.5269 VA=0.2116
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 3 (VA=0.2198)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep3/300 BS=128 TL=4.5019 TA=0.2260 VL=4.4757 VA=0.2198
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 4 (VA=0.2247)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep4/300 BS=128 TL=4.4513 TA=0.2250 VL=4.4294 VA=0.2247
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 5 (VA=0.2269)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep5/300 BS=128 TL=4.4027 TA=0.2290 VL=4.3736 VA=0.2269
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep6/300 BS=128 TL=4.3396 TA=0.2278 VL=4.3054 VA=0.2247
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep7/300 BS=128 TL=4.2882 TA=0.2273 VL=4.2640 VA=0.2236
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep8/300 BS=128 TL=4.2428 TA=0.2313 VL=4.2148 VA=0.2264
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep9/300 BS=128 TL=4.1716 TA=0.2286 VL=4.1416 VA=0.2269
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep10/300 BS=128 TL=4.1447 TA=0.2329 VL=4.0941 VA=0.2247
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 11 (VA=0.2291)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep11/300 BS=128 TL=4.0939 TA=0.2297 VL=4.0574 VA=0.2291
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 12 (VA=0.2307)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep12/300 BS=128 TL=4.0389 TA=0.2329 VL=4.0122 VA=0.2307
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep13/300 BS=128 TL=3.9765 TA=0.2325 VL=3.9614 VA=0.2302
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 14 (VA=0.2313)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep14/300 BS=128 TL=3.9398 TA=0.2331 VL=3.9199 VA=0.2313
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 15 (VA=0.2340)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep15/300 BS=128 TL=3.8731 TA=0.2336 VL=3.8325 VA=0.2340
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep16/300 BS=128 TL=3.8211 TA=0.2358 VL=3.8008 VA=0.2324
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep17/300 BS=128 TL=3.7713 TA=0.2355 VL=3.7287 VA=0.2307
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 18 (VA=0.2356)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep18/300 BS=128 TL=3.7267 TA=0.2372 VL=3.7112 VA=0.2356
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep19/300 BS=128 TL=3.6833 TA=0.2377 VL=3.6577 VA=0.2351
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 20 (VA=0.2400)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep20/300 BS=128 TL=3.6216 TA=0.2403 VL=3.6206 VA=0.2400
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 21 (VA=0.2433)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep21/300 BS=128 TL=3.5963 TA=0.2452 VL=3.5838 VA=0.2433
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 22 (VA=0.2521)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep22/300 BS=128 TL=3.5475 TA=0.2503 VL=3.5262 VA=0.2521
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 23 (VA=0.2608)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep23/300 BS=128 TL=3.4970 TA=0.2602 VL=3.4881 VA=0.2608
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 24 (VA=0.2690)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep24/300 BS=128 TL=3.4877 TA=0.2716 VL=3.4319 VA=0.2690
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 25 (VA=0.2799)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep25/300 BS=128 TL=3.5005 TA=0.2764 VL=3.4840 VA=0.2799
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 26 (VA=0.2838)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep26/300 BS=128 TL=3.4644 TA=0.2846 VL=3.4596 VA=0.2838
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 27 (VA=0.2898)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep27/300 BS=128 TL=3.4230 TA=0.2935 VL=3.4118 VA=0.2898
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 28 (VA=0.2969)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep28/300 BS=128 TL=3.3943 TA=0.3001 VL=3.3924 VA=0.2969
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 29 (VA=0.3051)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep29/300 BS=128 TL=3.3526 TA=0.3084 VL=3.3616 VA=0.3051
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 30 (VA=0.3133)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep30/300 BS=128 TL=3.3135 TA=0.3155 VL=3.3282 VA=0.3133
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 31 (VA=0.3177)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep31/300 BS=128 TL=3.2964 TA=0.3206 VL=3.2932 VA=0.3177
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 32 (VA=0.3188)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep32/300 BS=128 TL=3.2580 TA=0.3251 VL=3.2585 VA=0.3188
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 33 (VA=0.3275)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep33/300 BS=128 TL=3.2227 TA=0.3315 VL=3.2351 VA=0.3275
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 34 (VA=0.3297)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep34/300 BS=128 TL=3.1865 TA=0.3322 VL=3.2039 VA=0.3297
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 35 (VA=0.3335)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep35/300 BS=128 TL=3.1574 TA=0.3373 VL=3.1483 VA=0.3335
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 36 (VA=0.3390)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep36/300 BS=128 TL=3.1225 TA=0.3379 VL=3.1264 VA=0.3390
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 37 (VA=0.3483)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep37/300 BS=128 TL=3.1198 TA=0.3449 VL=3.0785 VA=0.3483
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 38 (VA=0.3537)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep38/300 BS=128 TL=3.0541 TA=0.3522 VL=3.0743 VA=0.3537
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 39 (VA=0.3592)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep39/300 BS=128 TL=3.0260 TA=0.3591 VL=3.0209 VA=0.3592
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 40 (VA=0.3729)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep40/300 BS=128 TL=2.9855 TA=0.3724 VL=3.0221 VA=0.3729
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep41/300 BS=128 TL=2.9957 TA=0.3728 VL=3.0434 VA=0.3647
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 42 (VA=0.3805)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep42/300 BS=128 TL=2.9782 TA=0.3746 VL=2.9909 VA=0.3805
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 43 (VA=0.4035)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep43/300 BS=128 TL=2.9367 TA=0.3903 VL=2.9649 VA=0.4035
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 44 (VA=0.4051)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep44/300 BS=128 TL=2.9047 TA=0.3973 VL=2.9263 VA=0.4051
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 45 (VA=0.4232)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep45/300 BS=128 TL=2.8537 TA=0.4107 VL=2.8736 VA=0.4232
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 46 (VA=0.4352)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep46/300 BS=128 TL=2.8313 TA=0.4208 VL=2.8669 VA=0.4352
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 47 (VA=0.4472)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep47/300 BS=128 TL=2.7835 TA=0.4343 VL=2.8154 VA=0.4472
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 48 (VA=0.4576)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep48/300 BS=128 TL=2.7456 TA=0.4461 VL=2.7822 VA=0.4576
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 49 (VA=0.4653)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep49/300 BS=128 TL=2.7215 TA=0.4563 VL=2.7384 VA=0.4653
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 50 (VA=0.4740)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep50/300 BS=128 TL=2.6641 TA=0.4697 VL=2.7028 VA=0.4740
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 51 (VA=0.4882)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep51/300 BS=128 TL=2.6306 TA=0.4802 VL=2.6683 VA=0.4882
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 52 (VA=0.4981)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep52/300 BS=128 TL=2.5924 TA=0.4960 VL=2.6310 VA=0.4981
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 53 (VA=0.5085)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep53/300 BS=128 TL=2.5593 TA=0.5076 VL=2.6475 VA=0.5085
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 54 (VA=0.5216)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep54/300 BS=128 TL=2.5170 TA=0.5203 VL=2.5716 VA=0.5216
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 55 (VA=0.5391)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep55/300 BS=128 TL=2.4820 TA=0.5359 VL=2.5141 VA=0.5391
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 56 (VA=0.5446)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep56/300 BS=128 TL=2.4448 TA=0.5491 VL=2.4853 VA=0.5446
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 57 (VA=0.5599)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep57/300 BS=128 TL=2.4023 TA=0.5630 VL=2.4527 VA=0.5599
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 58 (VA=0.5730)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep58/300 BS=128 TL=2.3685 TA=0.5758 VL=2.4217 VA=0.5730
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 59 (VA=0.5867)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep59/300 BS=128 TL=2.3308 TA=0.5866 VL=2.3908 VA=0.5867
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 60 (VA=0.6042)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep60/300 BS=128 TL=2.3005 TA=0.6016 VL=2.3664 VA=0.6042
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 61 (VA=0.6085)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep61/300 BS=128 TL=2.2757 TA=0.6094 VL=2.2820 VA=0.6085
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 62 (VA=0.6233)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep62/300 BS=128 TL=2.2318 TA=0.6245 VL=2.2608 VA=0.6233
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 63 (VA=0.6266)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep63/300 BS=128 TL=2.1907 TA=0.6334 VL=2.2543 VA=0.6266
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 64 (VA=0.6342)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep64/300 BS=128 TL=2.1593 TA=0.6366 VL=2.2034 VA=0.6342
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 65 (VA=0.6452)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep65/300 BS=128 TL=2.1051 TA=0.6481 VL=2.1520 VA=0.6452
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 66 (VA=0.6506)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep66/300 BS=128 TL=2.0761 TA=0.6552 VL=2.1219 VA=0.6506
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 67 (VA=0.6638)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep67/300 BS=128 TL=2.0376 TA=0.6652 VL=2.1292 VA=0.6638
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 68 (VA=0.6747)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep68/300 BS=128 TL=2.0042 TA=0.6731 VL=2.0885 VA=0.6747
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 69 (VA=0.6774)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep69/300 BS=128 TL=1.9749 TA=0.6798 VL=2.0079 VA=0.6774
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 70 (VA=0.6922)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep70/300 BS=128 TL=1.9365 TA=0.6906 VL=2.0125 VA=0.6922
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep71/300 BS=128 TL=1.8918 TA=0.6923 VL=1.9630 VA=0.6905
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 72 (VA=0.7053)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep72/300 BS=128 TL=1.8617 TA=0.7028 VL=1.9330 VA=0.7053
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 73 (VA=0.7113)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep73/300 BS=128 TL=1.8295 TA=0.7043 VL=1.9072 VA=0.7113
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 74 (VA=0.7124)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep74/300 BS=128 TL=1.8147 TA=0.7120 VL=1.9282 VA=0.7124
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 75 (VA=0.7179)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep75/300 BS=128 TL=1.7795 TA=0.7132 VL=1.8458 VA=0.7179
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 76 (VA=0.7201)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep76/300 BS=128 TL=1.7471 TA=0.7240 VL=1.7932 VA=0.7201
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 77 (VA=0.7381)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep77/300 BS=128 TL=1.7005 TA=0.7315 VL=1.7946 VA=0.7381
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep78/300 BS=128 TL=1.6726 TA=0.7364 VL=1.7919 VA=0.7381
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 79 (VA=0.7408)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep79/300 BS=128 TL=1.6474 TA=0.7370 VL=1.7202 VA=0.7408
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 80 (VA=0.7425)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep80/300 BS=128 TL=1.6169 TA=0.7429 VL=1.6953 VA=0.7425
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 81 (VA=0.7490)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep81/300 BS=128 TL=1.5879 TA=0.7465 VL=1.6583 VA=0.7490
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 82 (VA=0.7501)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep82/300 BS=128 TL=1.5534 TA=0.7509 VL=1.6445 VA=0.7501
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 83 (VA=0.7562)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep83/300 BS=128 TL=1.5193 TA=0.7554 VL=1.6071 VA=0.7562
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 84 (VA=0.7633)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep84/300 BS=128 TL=1.5048 TA=0.7578 VL=1.6091 VA=0.7633
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep85/300 BS=128 TL=1.4732 TA=0.7640 VL=1.5469 VA=0.7594
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 86 (VA=0.7660)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep86/300 BS=128 TL=1.4430 TA=0.7675 VL=1.5363 VA=0.7660
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 87 (VA=0.7693)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep87/300 BS=128 TL=1.4138 TA=0.7699 VL=1.5200 VA=0.7693
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep88/300 BS=128 TL=1.3885 TA=0.7761 VL=1.4824 VA=0.7671
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 89 (VA=0.7736)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep89/300 BS=128 TL=1.3778 TA=0.7754 VL=1.4816 VA=0.7736
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 90 (VA=0.7747)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep90/300 BS=128 TL=1.3400 TA=0.7837 VL=1.4239 VA=0.7747
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 91 (VA=0.7797)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep91/300 BS=128 TL=1.3155 TA=0.7837 VL=1.4184 VA=0.7797
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 92 (VA=0.7808)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep92/300 BS=128 TL=1.3058 TA=0.7885 VL=1.4220 VA=0.7808
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 93 (VA=0.7873)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep93/300 BS=128 TL=1.2719 TA=0.7914 VL=1.4016 VA=0.7873
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 94 (VA=0.7900)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep94/300 BS=128 TL=1.2521 TA=0.7962 VL=1.3457 VA=0.7900
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 95 (VA=0.7939)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep95/300 BS=128 TL=1.2175 TA=0.7979 VL=1.3318 VA=0.7939
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep96/300 BS=128 TL=1.2599 TA=0.7944 VL=1.3826 VA=0.7747
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep97/300 BS=128 TL=1.2429 TA=0.7917 VL=1.3207 VA=0.7758
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep98/300 BS=128 TL=1.2252 TA=0.7966 VL=1.3539 VA=0.7786
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep99/300 BS=128 TL=1.1885 TA=0.8059 VL=1.2613 VA=0.7818
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep100/300 BS=128 TL=1.1555 TA=0.8085 VL=1.2852 VA=0.7824
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep101/300 BS=128 TL=1.1386 TA=0.8126 VL=1.2578 VA=0.7884
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 102 (VA=0.7944)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep102/300 BS=128 TL=1.1163 TA=0.8124 VL=1.2060 VA=0.7944
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep103/300 BS=128 TL=1.0889 TA=0.8221 VL=1.1828 VA=0.7933
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 104 (VA=0.7983)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep104/300 BS=128 TL=1.0733 TA=0.8206 VL=1.1916 VA=0.7983
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 105 (VA=0.8010)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep105/300 BS=128 TL=1.0817 TA=0.8206 VL=1.1546 VA=0.8010
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 106 (VA=0.8037)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep106/300 BS=128 TL=1.0494 TA=0.8213 VL=1.1393 VA=0.8037
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep107/300 BS=128 TL=1.0305 TA=0.8253 VL=1.1931 VA=0.8026
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 108 (VA=0.8054)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep108/300 BS=128 TL=1.0187 TA=0.8308 VL=1.1321 VA=0.8054
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 109 (VA=0.8103)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep109/300 BS=128 TL=0.9793 TA=0.8328 VL=1.0774 VA=0.8103
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 110 (VA=0.8108)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep110/300 BS=128 TL=0.9638 TA=0.8394 VL=1.0524 VA=0.8108
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 111 (VA=0.8168)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep111/300 BS=128 TL=0.9657 TA=0.8361 VL=1.0759 VA=0.8168
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 112 (VA=0.8174)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep112/300 BS=128 TL=0.9539 TA=0.8429 VL=1.0800 VA=0.8174
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 113 (VA=0.8212)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep113/300 BS=128 TL=0.9203 TA=0.8461 VL=1.0182 VA=0.8212
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep114/300 BS=128 TL=0.9064 TA=0.8496 VL=0.9989 VA=0.8196
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 115 (VA=0.8239)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep115/300 BS=128 TL=0.8844 TA=0.8503 VL=0.9996 VA=0.8239
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 116 (VA=0.8300)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep116/300 BS=128 TL=0.8864 TA=0.8499 VL=0.9977 VA=0.8300
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep117/300 BS=128 TL=0.9032 TA=0.8457 VL=1.0290 VA=0.8223
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 118 (VA=0.8316)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep118/300 BS=128 TL=0.9036 TA=0.8410 VL=0.9587 VA=0.8316
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep119/300 BS=128 TL=0.8733 TA=0.8457 VL=0.9559 VA=0.8311
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep120/300 BS=128 TL=0.8549 TA=0.8530 VL=0.9198 VA=0.8311
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep121/300 BS=128 TL=0.8503 TA=0.8550 VL=0.9288 VA=0.8305
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 122 (VA=0.8403)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep122/300 BS=128 TL=0.8288 TA=0.8567 VL=0.9055 VA=0.8403
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep123/300 BS=128 TL=0.8204 TA=0.8641 VL=0.9437 VA=0.8278
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep124/300 BS=128 TL=0.8112 TA=0.8584 VL=0.8925 VA=0.8354
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep125/300 BS=128 TL=0.8204 TA=0.8600 VL=0.9568 VA=0.8354
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep126/300 BS=128 TL=0.7847 TA=0.8658 VL=0.8769 VA=0.8398
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep127/300 BS=128 TL=0.7827 TA=0.8622 VL=0.8790 VA=0.8382
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 128 (VA=0.8431)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep128/300 BS=128 TL=0.7724 TA=0.8629 VL=0.8586 VA=0.8431
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 129 (VA=0.8464)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep129/300 BS=128 TL=0.7552 TA=0.8677 VL=0.8430 VA=0.8464
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep130/300 BS=128 TL=0.7507 TA=0.8692 VL=0.8995 VA=0.8393
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 131 (VA=0.8480)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep131/300 BS=128 TL=0.7374 TA=0.8731 VL=0.8326 VA=0.8480
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep132/300 BS=128 TL=0.7448 TA=0.8731 VL=0.8712 VA=0.8447
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 133 (VA=0.8507)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep133/300 BS=128 TL=0.7094 TA=0.8763 VL=0.7896 VA=0.8507
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep134/300 BS=128 TL=0.6987 TA=0.8776 VL=0.7810 VA=0.8486
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep135/300 BS=128 TL=0.6947 TA=0.8776 VL=0.8266 VA=0.8480
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep136/300 BS=128 TL=0.6830 TA=0.8824 VL=0.7865 VA=0.8447
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 137 (VA=0.8518)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep137/300 BS=128 TL=0.6838 TA=0.8833 VL=0.8194 VA=0.8518
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 138 (VA=0.8562)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep138/300 BS=128 TL=0.6666 TA=0.8826 VL=0.7565 VA=0.8562
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep139/300 BS=128 TL=0.6573 TA=0.8856 VL=0.7683 VA=0.8535
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 140 (VA=0.8573)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep140/300 BS=128 TL=0.6501 TA=0.8859 VL=0.7406 VA=0.8573
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 141 (VA=0.8595)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep141/300 BS=128 TL=0.6412 TA=0.8874 VL=0.7817 VA=0.8595
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep142/300 BS=128 TL=0.6249 TA=0.8919 VL=0.7216 VA=0.8524
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep143/300 BS=128 TL=0.6246 TA=0.8910 VL=0.7344 VA=0.8557
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep144/300 BS=128 TL=0.6222 TA=0.8867 VL=0.7201 VA=0.8589
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep145/300 BS=128 TL=0.6116 TA=0.8901 VL=0.7058 VA=0.8573
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 146 (VA=0.8606)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep146/300 BS=128 TL=0.6041 TA=0.8902 VL=0.6805 VA=0.8606
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 147 (VA=0.8704)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep147/300 BS=128 TL=0.6022 TA=0.8910 VL=0.6816 VA=0.8704
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep148/300 BS=128 TL=0.5920 TA=0.8917 VL=0.6784 VA=0.8666
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep149/300 BS=128 TL=0.5811 TA=0.8975 VL=0.6645 VA=0.8655
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep150/300 BS=128 TL=0.5698 TA=0.8992 VL=0.6550 VA=0.8660
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 151 (VA=0.8710)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep151/300 BS=128 TL=0.5676 TA=0.8962 VL=0.6532 VA=0.8710
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep152/300 BS=128 TL=0.5625 TA=0.8987 VL=0.6597 VA=0.8693
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep153/300 BS=128 TL=0.5596 TA=0.8968 VL=0.7208 VA=0.8710
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep154/300 BS=128 TL=0.5555 TA=0.8990 VL=0.6664 VA=0.8704
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep155/300 BS=128 TL=0.5523 TA=0.8991 VL=0.6706 VA=0.8710
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep156/300 BS=128 TL=0.5423 TA=0.8982 VL=0.6320 VA=0.8704
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 157 (VA=0.8721)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep157/300 BS=128 TL=0.5349 TA=0.8990 VL=0.6260 VA=0.8721
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 158 (VA=0.8764)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep158/300 BS=128 TL=0.5393 TA=0.9003 VL=0.6195 VA=0.8764
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep159/300 BS=128 TL=0.5297 TA=0.9024 VL=0.6183 VA=0.8715
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep160/300 BS=128 TL=0.5340 TA=0.9035 VL=0.6099 VA=0.8732
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep161/300 BS=128 TL=0.5167 TA=0.9040 VL=0.6081 VA=0.8726
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 162 (VA=0.8803)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep162/300 BS=128 TL=0.5092 TA=0.9070 VL=0.6030 VA=0.8803
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep163/300 BS=128 TL=0.5017 TA=0.9068 VL=0.5977 VA=0.8781
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep164/300 BS=128 TL=0.5109 TA=0.9085 VL=0.6343 VA=0.8759
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep165/300 BS=128 TL=0.5008 TA=0.9043 VL=0.6069 VA=0.8797
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep166/300 BS=128 TL=0.4924 TA=0.9107 VL=0.5804 VA=0.8781
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep167/300 BS=128 TL=0.4868 TA=0.9070 VL=0.5748 VA=0.8781
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep168/300 BS=128 TL=0.4890 TA=0.9065 VL=0.5790 VA=0.8797
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep169/300 BS=128 TL=0.4717 TA=0.9080 VL=0.5640 VA=0.8775
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep170/300 BS=128 TL=0.4775 TA=0.9095 VL=0.5672 VA=0.8797
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep171/300 BS=128 TL=0.4754 TA=0.9109 VL=0.6223 VA=0.8770
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep172/300 BS=128 TL=0.4686 TA=0.9114 VL=0.5630 VA=0.8797
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 173 (VA=0.8808)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep173/300 BS=128 TL=0.4640 TA=0.9114 VL=0.5678 VA=0.8808
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 174 (VA=0.8824)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep174/300 BS=128 TL=0.4583 TA=0.9110 VL=0.5523 VA=0.8824
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 175 (VA=0.8846)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep175/300 BS=128 TL=0.4546 TA=0.9125 VL=0.5560 VA=0.8846
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep176/300 BS=128 TL=0.4489 TA=0.9141 VL=0.5484 VA=0.8803
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep177/300 BS=128 TL=0.4515 TA=0.9150 VL=0.5396 VA=0.8803
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep178/300 BS=128 TL=0.4567 TA=0.9133 VL=0.5502 VA=0.8830
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep179/300 BS=128 TL=0.4363 TA=0.9144 VL=0.5395 VA=0.8841
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep180/300 BS=128 TL=0.4390 TA=0.9176 VL=0.5353 VA=0.8841
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 181 (VA=0.8852)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep181/300 BS=128 TL=0.4424 TA=0.9162 VL=0.5808 VA=0.8852
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep182/300 BS=128 TL=0.4308 TA=0.9163 VL=0.5720 VA=0.8819
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep183/300 BS=128 TL=0.4290 TA=0.9132 VL=0.5229 VA=0.8846
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep184/300 BS=128 TL=0.4228 TA=0.9184 VL=0.5189 VA=0.8846
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep185/300 BS=128 TL=0.4233 TA=0.9178 VL=0.5149 VA=0.8835
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 186 (VA=0.8868)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep186/300 BS=128 TL=0.4243 TA=0.9183 VL=0.5598 VA=0.8868
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep187/300 BS=128 TL=0.4111 TA=0.9181 VL=0.5136 VA=0.8824
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 188 (VA=0.8923)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep188/300 BS=128 TL=0.4232 TA=0.9198 VL=0.5611 VA=0.8923
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep189/300 BS=128 TL=0.4078 TA=0.9219 VL=0.5055 VA=0.8879
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep190/300 BS=128 TL=0.4139 TA=0.9225 VL=0.5019 VA=0.8841
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep191/300 BS=128 TL=0.4007 TA=0.9226 VL=0.5022 VA=0.8912
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep192/300 BS=128 TL=0.3977 TA=0.9193 VL=0.5029 VA=0.8852
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep193/300 BS=128 TL=0.4001 TA=0.9211 VL=0.5080 VA=0.8879
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep194/300 BS=128 TL=0.4043 TA=0.9181 VL=0.5034 VA=0.8863
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep195/300 BS=128 TL=0.4005 TA=0.9193 VL=0.4943 VA=0.8890
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep196/300 BS=128 TL=0.3982 TA=0.9181 VL=0.5071 VA=0.8890
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep197/300 BS=128 TL=0.3865 TA=0.9225 VL=0.4870 VA=0.8857
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep198/300 BS=128 TL=0.3947 TA=0.9221 VL=0.5390 VA=0.8917
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep199/300 BS=128 TL=0.3952 TA=0.9217 VL=0.4934 VA=0.8907
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 200 (VA=0.8939)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep200/300 BS=128 TL=0.3835 TA=0.9229 VL=0.4899 VA=0.8939
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep201/300 BS=128 TL=0.3794 TA=0.9243 VL=0.4835 VA=0.8912
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep202/300 BS=128 TL=0.3792 TA=0.9234 VL=0.4845 VA=0.8917
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep203/300 BS=128 TL=0.3723 TA=0.9247 VL=0.4938 VA=0.8896
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep204/300 BS=128 TL=0.3662 TA=0.9251 VL=0.4831 VA=0.8890
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep205/300 BS=128 TL=0.3713 TA=0.9240 VL=0.5214 VA=0.8868
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep206/300 BS=128 TL=0.3693 TA=0.9249 VL=0.4712 VA=0.8928
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep207/300 BS=128 TL=0.3694 TA=0.9230 VL=0.4696 VA=0.8885
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep208/300 BS=128 TL=0.3577 TA=0.9262 VL=0.4663 VA=0.8912
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep209/300 BS=128 TL=0.3565 TA=0.9282 VL=0.4671 VA=0.8917
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep210/300 BS=128 TL=0.3639 TA=0.9288 VL=0.4933 VA=0.8923
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep211/300 BS=128 TL=0.3653 TA=0.9249 VL=0.4676 VA=0.8885
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep212/300 BS=128 TL=0.3737 TA=0.9218 VL=0.5155 VA=0.8863
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep213/300 BS=128 TL=0.3609 TA=0.9247 VL=0.4626 VA=0.8928
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep214/300 BS=128 TL=0.3589 TA=0.9236 VL=0.4906 VA=0.8907
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep215/300 BS=128 TL=0.3517 TA=0.9296 VL=0.4574 VA=0.8912
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep216/300 BS=128 TL=0.3482 TA=0.9288 VL=0.4581 VA=0.8901
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep217/300 BS=128 TL=0.3436 TA=0.9316 VL=0.4534 VA=0.8907
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 218 (VA=0.8950)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep218/300 BS=128 TL=0.3489 TA=0.9300 VL=0.4490 VA=0.8950
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep219/300 BS=128 TL=0.3386 TA=0.9340 VL=0.4580 VA=0.8939
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep220/300 BS=128 TL=0.3386 TA=0.9314 VL=0.4410 VA=0.8917
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep221/300 BS=128 TL=0.3416 TA=0.9342 VL=0.4583 VA=0.8950
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep222/300 BS=128 TL=0.3412 TA=0.9323 VL=0.4437 VA=0.8950
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep223/300 BS=128 TL=0.3273 TA=0.9310 VL=0.4427 VA=0.8939
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep224/300 BS=128 TL=0.3402 TA=0.9322 VL=0.4864 VA=0.8934
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep225/300 BS=128 TL=0.3280 TA=0.9330 VL=0.4360 VA=0.8950
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 226 (VA=0.8994)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep226/300 BS=128 TL=0.3242 TA=0.9375 VL=0.4328 VA=0.8994
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep227/300 BS=128 TL=0.3228 TA=0.9351 VL=0.4239 VA=0.8923
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep228/300 BS=128 TL=0.3190 TA=0.9341 VL=0.4249 VA=0.8989
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep229/300 BS=128 TL=0.3239 TA=0.9357 VL=0.4422 VA=0.8967
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 230 (VA=0.8999)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep230/300 BS=128 TL=0.3239 TA=0.9347 VL=0.4279 VA=0.8999
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep231/300 BS=128 TL=0.3159 TA=0.9344 VL=0.4218 VA=0.8978
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep232/300 BS=128 TL=0.3147 TA=0.9360 VL=0.4212 VA=0.8978
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 233 (VA=0.9021)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep233/300 BS=128 TL=0.3093 TA=0.9375 VL=0.4205 VA=0.9021
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep234/300 BS=128 TL=0.3081 TA=0.9386 VL=0.4208 VA=0.8999
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep235/300 BS=128 TL=0.3031 TA=0.9408 VL=0.4185 VA=0.8994
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep236/300 BS=128 TL=0.3013 TA=0.9385 VL=0.4149 VA=0.9016
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep237/300 BS=128 TL=0.3049 TA=0.9389 VL=0.4198 VA=0.9010
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep238/300 BS=128 TL=0.2991 TA=0.9392 VL=0.4190 VA=0.8994
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep239/300 BS=128 TL=0.3110 TA=0.9383 VL=0.4511 VA=0.8994
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep240/300 BS=128 TL=0.3166 TA=0.9388 VL=0.4440 VA=0.9016
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep241/300 BS=128 TL=0.2945 TA=0.9385 VL=0.4091 VA=0.9016
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep242/300 BS=128 TL=0.3074 TA=0.9392 VL=0.4087 VA=0.8983
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep243/300 BS=128 TL=0.2900 TA=0.9418 VL=0.4132 VA=0.8994
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 244 (VA=0.9043)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep244/300 BS=128 TL=0.3037 TA=0.9379 VL=0.4125 VA=0.9043
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep245/300 BS=128 TL=0.2926 TA=0.9392 VL=0.4062 VA=0.8999
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep246/300 BS=128 TL=0.2918 TA=0.9409 VL=0.4092 VA=0.9021
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep247/300 BS=128 TL=0.2949 TA=0.9420 VL=0.4034 VA=0.9021
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep248/300 BS=128 TL=0.2977 TA=0.9404 VL=0.4592 VA=0.9021
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 249 (VA=0.9060)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep249/300 BS=128 TL=0.2892 TA=0.9407 VL=0.4010 VA=0.9060
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep250/300 BS=128 TL=0.2893 TA=0.9411 VL=0.4023 VA=0.9027
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep251/300 BS=128 TL=0.2953 TA=0.9401 VL=0.3980 VA=0.9043
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep252/300 BS=128 TL=0.2819 TA=0.9446 VL=0.4116 VA=0.9021
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep253/300 BS=128 TL=0.3212 TA=0.9300 VL=0.4158 VA=0.9005
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep254/300 BS=128 TL=0.3272 TA=0.9322 VL=0.4169 VA=0.9043
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep255/300 BS=128 TL=0.3200 TA=0.9315 VL=0.4180 VA=0.9005
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep256/300 BS=128 TL=0.3144 TA=0.9304 VL=0.4092 VA=0.9021
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep257/300 BS=128 TL=0.3156 TA=0.9326 VL=0.4098 VA=0.9016
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep258/300 BS=128 TL=0.3035 TA=0.9355 VL=0.4049 VA=0.9027
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep259/300 BS=128 TL=0.3082 TA=0.9345 VL=0.3981 VA=0.9054
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep260/300 BS=128 TL=0.2966 TA=0.9390 VL=0.4051 VA=0.9049
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep261/300 BS=128 TL=0.2941 TA=0.9408 VL=0.4108 VA=0.9021
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep262/300 BS=128 TL=0.2903 TA=0.9394 VL=0.3906 VA=0.9049
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 263 (VA=0.9081)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep263/300 BS=128 TL=0.2860 TA=0.9396 VL=0.3864 VA=0.9081
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep264/300 BS=128 TL=0.2818 TA=0.9420 VL=0.3887 VA=0.9065
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep265/300 BS=128 TL=0.2847 TA=0.9427 VL=0.3887 VA=0.9054
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep266/300 BS=128 TL=0.2818 TA=0.9422 VL=0.3888 VA=0.9076
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep267/300 BS=128 TL=0.2738 TA=0.9423 VL=0.3866 VA=0.9054
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep268/300 BS=128 TL=0.2782 TA=0.9419 VL=0.3854 VA=0.9076
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep269/300 BS=128 TL=0.2764 TA=0.9431 VL=0.3838 VA=0.9076
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep270/300 BS=128 TL=0.2805 TA=0.9438 VL=0.4170 VA=0.9010
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep271/300 BS=128 TL=0.2711 TA=0.9418 VL=0.3799 VA=0.9054
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 272 (VA=0.9087)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep272/300 BS=128 TL=0.2842 TA=0.9400 VL=0.4140 VA=0.9087
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep273/300 BS=128 TL=0.2758 TA=0.9452 VL=0.3805 VA=0.9081
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep274/300 BS=128 TL=0.2693 TA=0.9424 VL=0.3711 VA=0.9065
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 275 (VA=0.9092)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep275/300 BS=128 TL=0.2689 TA=0.9437 VL=0.3774 VA=0.9092
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep276/300 BS=128 TL=0.2646 TA=0.9459 VL=0.4062 VA=0.9054
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 277 (VA=0.9103)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep277/300 BS=128 TL=0.2625 TA=0.9453 VL=0.3717 VA=0.9103
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 278 (VA=0.9109)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep278/300 BS=128 TL=0.2615 TA=0.9450 VL=0.3731 VA=0.9109
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep279/300 BS=128 TL=0.2733 TA=0.9446 VL=0.3957 VA=0.9049
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 280 (VA=0.9131)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep280/300 BS=128 TL=0.2602 TA=0.9463 VL=0.3734 VA=0.9131
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep281/300 BS=128 TL=0.2586 TA=0.9478 VL=0.3662 VA=0.9114
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep282/300 BS=128 TL=0.2622 TA=0.9457 VL=0.3629 VA=0.9071
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep283/300 BS=128 TL=0.2524 TA=0.9479 VL=0.3680 VA=0.9125
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep284/300 BS=128 TL=0.2500 TA=0.9483 VL=0.3627 VA=0.9092
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep285/300 BS=128 TL=0.2455 TA=0.9465 VL=0.3630 VA=0.9098
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep286/300 BS=128 TL=0.2472 TA=0.9489 VL=0.3611 VA=0.9125
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep287/300 BS=128 TL=0.2564 TA=0.9485 VL=0.4142 VA=0.9087
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep288/300 BS=128 TL=0.2460 TA=0.9496 VL=0.3598 VA=0.9076
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep289/300 BS=128 TL=0.2444 TA=0.9496 VL=0.3599 VA=0.9060
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep290/300 BS=128 TL=0.2579 TA=0.9522 VL=0.3855 VA=0.9076
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep291/300 BS=128 TL=0.2482 TA=0.9497 VL=0.3598 VA=0.9125
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep292/300 BS=128 TL=0.2498 TA=0.9502 VL=0.3553 VA=0.9103
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep293/300 BS=128 TL=0.2410 TA=0.9506 VL=0.3543 VA=0.9103
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep294/300 BS=128 TL=0.2412 TA=0.9513 VL=0.3552 VA=0.9131
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep295/300 BS=128 TL=0.2386 TA=0.9508 VL=0.3642 VA=0.9087
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep296/300 BS=128 TL=0.2375 TA=0.9512 VL=0.3538 VA=0.9114
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep297/300 BS=128 TL=0.2308 TA=0.9527 VL=0.3536 VA=0.9109
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep298/300 BS=128 TL=0.2383 TA=0.9528 VL=0.3566 VA=0.9103
+Saved best model for resnet-101_bs128_lr0.001_ep300_pre_noaug at epoch 299 (VA=0.9142)
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep299/300 BS=128 TL=0.2425 TA=0.9505 VL=0.3805 VA=0.9142
+[resnet-101_bs128_lr0.001_ep300_pre_noaug] Ep300/300 BS=128 TL=0.2419 TA=0.9508 VL=0.3860 VA=0.9114
+Saved plot: plot/arch/convnext-tiny-224_bs128_lr0.001_ep300_pre_noaug.png
+Saved plot: plot/arch/resnet-18_bs128_lr0.001_ep300_pre_noaug.png
+Saved plot: plot/arch/resnet-101_bs128_lr0.001_ep300_pre_noaug.png
+Saved plot: plot/arch/all_loss.png
+Saved plot: plot/arch/all_acc.png

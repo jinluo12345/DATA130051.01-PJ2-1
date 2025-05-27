@@ -1,0 +1,766 @@
+no change     /remote-home1/lzjjin/anaconda3/condabin/conda
+no change     /remote-home1/lzjjin/anaconda3/bin/conda
+no change     /remote-home1/lzjjin/anaconda3/bin/conda-env
+no change     /remote-home1/lzjjin/anaconda3/bin/activate
+no change     /remote-home1/lzjjin/anaconda3/bin/deactivate
+no change     /remote-home1/lzjjin/anaconda3/etc/profile.d/conda.sh
+no change     /remote-home1/lzjjin/anaconda3/etc/fish/conf.d/conda.fish
+no change     /remote-home1/lzjjin/anaconda3/shell/condabin/Conda.psm1
+no change     /remote-home1/lzjjin/anaconda3/shell/condabin/conda-hook.ps1
+no change     /remote-home1/lzjjin/anaconda3/lib/python3.12/site-packages/xontrib/conda.xsh
+no change     /remote-home1/lzjjin/anaconda3/etc/profile.d/conda.csh
+no change     /remote-home1/lzjjin/.bashrc
+No action taken.
+/remote-home1/lzjjin/anaconda3/envs/flow/bin/python
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 1 (VA=0.1203)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep1/300 BS=128 TL=4.3352 TA=0.1010 VL=4.1913 VA=0.1203
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 2 (VA=0.1285)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep2/300 BS=128 TL=4.1511 TA=0.1189 VL=4.1316 VA=0.1285
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep3/300 BS=128 TL=4.1203 TA=0.1226 VL=4.1018 VA=0.1236
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 4 (VA=0.1394)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep4/300 BS=128 TL=4.0881 TA=0.1290 VL=4.0779 VA=0.1394
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 5 (VA=0.1416)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep5/300 BS=128 TL=4.0699 TA=0.1356 VL=4.0462 VA=0.1416
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 6 (VA=0.1514)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep6/300 BS=128 TL=4.0552 TA=0.1448 VL=4.0264 VA=0.1514
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 7 (VA=0.1689)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep7/300 BS=128 TL=4.0310 TA=0.1505 VL=3.9993 VA=0.1689
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 8 (VA=0.1771)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep8/300 BS=128 TL=3.9895 TA=0.1605 VL=3.9765 VA=0.1771
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep9/300 BS=128 TL=3.9590 TA=0.1686 VL=3.9505 VA=0.1733
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep10/300 BS=128 TL=3.9585 TA=0.1712 VL=3.9434 VA=0.1733
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 11 (VA=0.1935)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep11/300 BS=128 TL=3.9301 TA=0.1799 VL=3.9196 VA=0.1935
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 12 (VA=0.1990)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep12/300 BS=128 TL=3.9160 TA=0.1807 VL=3.8935 VA=0.1990
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep13/300 BS=128 TL=3.8676 TA=0.1910 VL=3.8620 VA=0.1957
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 14 (VA=0.2083)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep14/300 BS=128 TL=3.8534 TA=0.1973 VL=3.8426 VA=0.2083
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep15/300 BS=128 TL=3.8103 TA=0.2036 VL=3.8160 VA=0.2072
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 16 (VA=0.2105)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep16/300 BS=128 TL=3.7877 TA=0.2098 VL=3.8001 VA=0.2105
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 17 (VA=0.2121)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep17/300 BS=128 TL=3.7696 TA=0.2171 VL=3.7581 VA=0.2121
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 18 (VA=0.2198)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep18/300 BS=128 TL=3.7347 TA=0.2215 VL=3.7267 VA=0.2198
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep19/300 BS=128 TL=3.7093 TA=0.2262 VL=3.6938 VA=0.2198
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 20 (VA=0.2285)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep20/300 BS=128 TL=3.6726 TA=0.2309 VL=3.6737 VA=0.2285
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep21/300 BS=128 TL=3.6600 TA=0.2316 VL=3.6230 VA=0.2264
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 22 (VA=0.2335)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep22/300 BS=128 TL=3.6242 TA=0.2373 VL=3.6113 VA=0.2335
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 23 (VA=0.2428)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep23/300 BS=128 TL=3.5988 TA=0.2394 VL=3.5966 VA=0.2428
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 24 (VA=0.2570)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep24/300 BS=128 TL=3.5846 TA=0.2442 VL=3.5498 VA=0.2570
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep25/300 BS=128 TL=3.5466 TA=0.2481 VL=3.5420 VA=0.2477
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep26/300 BS=128 TL=3.5243 TA=0.2507 VL=3.5299 VA=0.2449
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep27/300 BS=128 TL=3.5178 TA=0.2522 VL=3.5236 VA=0.2488
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep28/300 BS=128 TL=3.4995 TA=0.2537 VL=3.5472 VA=0.2471
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 29 (VA=0.2575)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep29/300 BS=128 TL=3.5009 TA=0.2532 VL=3.4804 VA=0.2575
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep30/300 BS=128 TL=3.4664 TA=0.2578 VL=3.5099 VA=0.2537
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep31/300 BS=128 TL=3.4555 TA=0.2626 VL=3.5246 VA=0.2378
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep32/300 BS=128 TL=3.4594 TA=0.2569 VL=3.4574 VA=0.2575
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 33 (VA=0.2619)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep33/300 BS=128 TL=3.4386 TA=0.2617 VL=3.4515 VA=0.2619
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep34/300 BS=128 TL=3.4368 TA=0.2625 VL=3.4501 VA=0.2608
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 35 (VA=0.2657)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep35/300 BS=128 TL=3.3940 TA=0.2708 VL=3.4273 VA=0.2657
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep36/300 BS=128 TL=3.3976 TA=0.2689 VL=3.4261 VA=0.2641
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep37/300 BS=128 TL=3.3747 TA=0.2714 VL=3.3797 VA=0.2586
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 38 (VA=0.2695)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep38/300 BS=128 TL=3.3598 TA=0.2722 VL=3.3850 VA=0.2695
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep39/300 BS=128 TL=3.3390 TA=0.2710 VL=3.4154 VA=0.2570
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 40 (VA=0.2767)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep40/300 BS=128 TL=3.3437 TA=0.2740 VL=3.3241 VA=0.2767
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep41/300 BS=128 TL=3.3288 TA=0.2746 VL=3.3618 VA=0.2603
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 42 (VA=0.2788)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep42/300 BS=128 TL=3.3119 TA=0.2820 VL=3.3330 VA=0.2788
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep43/300 BS=128 TL=3.2865 TA=0.2787 VL=3.3006 VA=0.2761
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep44/300 BS=128 TL=3.2976 TA=0.2813 VL=3.3425 VA=0.2750
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep45/300 BS=128 TL=3.2819 TA=0.2790 VL=3.3329 VA=0.2734
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep46/300 BS=128 TL=3.2822 TA=0.2813 VL=3.3278 VA=0.2723
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep47/300 BS=128 TL=3.2747 TA=0.2843 VL=3.3511 VA=0.2761
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 48 (VA=0.2854)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep48/300 BS=128 TL=3.2638 TA=0.2845 VL=3.2797 VA=0.2854
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep49/300 BS=128 TL=3.2409 TA=0.2878 VL=3.2547 VA=0.2827
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 50 (VA=0.2859)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep50/300 BS=128 TL=3.2427 TA=0.2878 VL=3.2617 VA=0.2859
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep51/300 BS=128 TL=3.2296 TA=0.2887 VL=3.2701 VA=0.2712
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep52/300 BS=128 TL=3.2073 TA=0.2894 VL=3.2592 VA=0.2750
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep53/300 BS=128 TL=3.2248 TA=0.2875 VL=3.3671 VA=0.2537
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep54/300 BS=128 TL=3.2103 TA=0.2931 VL=3.2798 VA=0.2859
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep55/300 BS=128 TL=3.1770 TA=0.2935 VL=3.2321 VA=0.2717
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep56/300 BS=128 TL=3.1780 TA=0.2928 VL=3.2339 VA=0.2832
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 57 (VA=0.2892)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep57/300 BS=128 TL=3.1847 TA=0.2891 VL=3.2072 VA=0.2892
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep58/300 BS=128 TL=3.1709 TA=0.2883 VL=3.2359 VA=0.2870
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep59/300 BS=128 TL=3.1492 TA=0.2975 VL=3.2254 VA=0.2827
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep60/300 BS=128 TL=3.1510 TA=0.3017 VL=3.2543 VA=0.2854
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 61 (VA=0.3067)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep61/300 BS=128 TL=3.1285 TA=0.3016 VL=3.1811 VA=0.3067
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep62/300 BS=128 TL=3.1215 TA=0.3013 VL=3.1474 VA=0.2969
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep63/300 BS=128 TL=3.1194 TA=0.2995 VL=3.1680 VA=0.2903
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep64/300 BS=128 TL=3.1243 TA=0.3012 VL=3.2012 VA=0.2881
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep65/300 BS=128 TL=3.1063 TA=0.3073 VL=3.2185 VA=0.2969
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep66/300 BS=128 TL=3.1099 TA=0.3079 VL=3.1656 VA=0.2865
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep67/300 BS=128 TL=3.0862 TA=0.3090 VL=3.1979 VA=0.2920
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep68/300 BS=128 TL=3.0783 TA=0.3090 VL=3.1803 VA=0.2947
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 69 (VA=0.3100)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep69/300 BS=128 TL=3.0896 TA=0.3046 VL=3.1535 VA=0.3100
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep70/300 BS=128 TL=3.0547 TA=0.3150 VL=3.1303 VA=0.3034
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 71 (VA=0.3171)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep71/300 BS=128 TL=3.0558 TA=0.3133 VL=3.1198 VA=0.3171
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep72/300 BS=128 TL=3.0502 TA=0.3084 VL=3.0854 VA=0.3171
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep73/300 BS=128 TL=3.0502 TA=0.3129 VL=3.1165 VA=0.3062
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep74/300 BS=128 TL=3.0565 TA=0.3085 VL=3.0889 VA=0.3100
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep75/300 BS=128 TL=3.0385 TA=0.3191 VL=3.1168 VA=0.3111
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep76/300 BS=128 TL=3.0186 TA=0.3174 VL=3.0749 VA=0.3133
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep77/300 BS=128 TL=2.9848 TA=0.3193 VL=3.0621 VA=0.3034
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep78/300 BS=128 TL=3.0163 TA=0.3166 VL=3.1552 VA=0.2974
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 79 (VA=0.3188)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep79/300 BS=128 TL=3.0045 TA=0.3170 VL=3.0288 VA=0.3188
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep80/300 BS=128 TL=2.9880 TA=0.3255 VL=3.0853 VA=0.3155
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep81/300 BS=128 TL=2.9854 TA=0.3241 VL=3.1737 VA=0.2914
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep82/300 BS=128 TL=2.9612 TA=0.3262 VL=3.0530 VA=0.3160
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep83/300 BS=128 TL=2.9937 TA=0.3204 VL=3.0887 VA=0.3133
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 84 (VA=0.3220)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep84/300 BS=128 TL=2.9810 TA=0.3256 VL=3.0236 VA=0.3220
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep85/300 BS=128 TL=2.9779 TA=0.3255 VL=3.1337 VA=0.3144
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep86/300 BS=128 TL=2.9671 TA=0.3256 VL=3.0164 VA=0.3111
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep87/300 BS=128 TL=2.9551 TA=0.3323 VL=3.0815 VA=0.3188
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep88/300 BS=128 TL=2.9367 TA=0.3296 VL=3.0318 VA=0.3171
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep89/300 BS=128 TL=2.9383 TA=0.3337 VL=3.0072 VA=0.3220
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep90/300 BS=128 TL=2.9198 TA=0.3349 VL=3.0176 VA=0.3215
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 91 (VA=0.3401)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep91/300 BS=128 TL=2.9381 TA=0.3321 VL=2.9703 VA=0.3401
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep92/300 BS=128 TL=2.9195 TA=0.3326 VL=2.9775 VA=0.3171
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep93/300 BS=128 TL=2.9029 TA=0.3329 VL=3.0053 VA=0.3166
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep94/300 BS=128 TL=2.9154 TA=0.3394 VL=2.9933 VA=0.3357
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep95/300 BS=128 TL=2.9223 TA=0.3338 VL=3.0103 VA=0.3155
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep96/300 BS=128 TL=2.9082 TA=0.3337 VL=2.9779 VA=0.3166
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep97/300 BS=128 TL=2.9036 TA=0.3455 VL=2.9961 VA=0.3215
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep98/300 BS=128 TL=2.8724 TA=0.3435 VL=2.9858 VA=0.3248
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep99/300 BS=128 TL=2.8868 TA=0.3442 VL=2.9382 VA=0.3341
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep100/300 BS=128 TL=2.8673 TA=0.3426 VL=2.9680 VA=0.3335
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep101/300 BS=128 TL=2.8620 TA=0.3416 VL=2.9666 VA=0.3280
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep102/300 BS=128 TL=2.8679 TA=0.3412 VL=2.9520 VA=0.3297
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep103/300 BS=128 TL=2.8530 TA=0.3467 VL=2.9046 VA=0.3368
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 104 (VA=0.3477)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep104/300 BS=128 TL=2.8498 TA=0.3506 VL=2.9416 VA=0.3477
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep105/300 BS=128 TL=2.8449 TA=0.3460 VL=2.9522 VA=0.3384
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep106/300 BS=128 TL=2.8602 TA=0.3471 VL=2.9178 VA=0.3390
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep107/300 BS=128 TL=2.8362 TA=0.3500 VL=2.9218 VA=0.3368
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep108/300 BS=128 TL=2.8310 TA=0.3440 VL=2.9744 VA=0.3417
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep109/300 BS=128 TL=2.8245 TA=0.3539 VL=2.9362 VA=0.3417
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep110/300 BS=128 TL=2.8075 TA=0.3530 VL=2.9302 VA=0.3330
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep111/300 BS=128 TL=2.8150 TA=0.3470 VL=2.8810 VA=0.3390
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep112/300 BS=128 TL=2.8066 TA=0.3545 VL=2.9081 VA=0.3226
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep113/300 BS=128 TL=2.8280 TA=0.3567 VL=2.9287 VA=0.3352
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep114/300 BS=128 TL=2.7718 TA=0.3573 VL=2.9429 VA=0.3368
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 115 (VA=0.3537)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep115/300 BS=128 TL=2.8092 TA=0.3543 VL=2.8522 VA=0.3537
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep116/300 BS=128 TL=2.7812 TA=0.3522 VL=2.8682 VA=0.3417
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep117/300 BS=128 TL=2.7686 TA=0.3597 VL=2.8966 VA=0.3466
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep118/300 BS=128 TL=2.7992 TA=0.3550 VL=2.8783 VA=0.3521
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep119/300 BS=128 TL=2.7789 TA=0.3558 VL=2.9006 VA=0.3373
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep120/300 BS=128 TL=2.7843 TA=0.3580 VL=2.9095 VA=0.3477
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep121/300 BS=128 TL=2.7643 TA=0.3610 VL=2.8746 VA=0.3477
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep122/300 BS=128 TL=2.7763 TA=0.3597 VL=2.8405 VA=0.3488
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep123/300 BS=128 TL=2.7569 TA=0.3628 VL=3.0282 VA=0.3297
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep124/300 BS=128 TL=2.7749 TA=0.3595 VL=2.8772 VA=0.3434
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep125/300 BS=128 TL=2.7524 TA=0.3625 VL=2.8629 VA=0.3494
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep126/300 BS=128 TL=2.7445 TA=0.3669 VL=2.8638 VA=0.3472
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep127/300 BS=128 TL=2.7366 TA=0.3612 VL=2.8618 VA=0.3494
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 128 (VA=0.3598)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep128/300 BS=128 TL=2.7392 TA=0.3647 VL=2.8350 VA=0.3598
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep129/300 BS=128 TL=2.7429 TA=0.3620 VL=2.7996 VA=0.3592
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep130/300 BS=128 TL=2.7179 TA=0.3666 VL=2.8644 VA=0.3494
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 131 (VA=0.3609)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep131/300 BS=128 TL=2.7146 TA=0.3649 VL=2.8077 VA=0.3609
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep132/300 BS=128 TL=2.7130 TA=0.3780 VL=2.8232 VA=0.3532
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep133/300 BS=128 TL=2.7132 TA=0.3697 VL=2.8162 VA=0.3488
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep134/300 BS=128 TL=2.6986 TA=0.3725 VL=2.8426 VA=0.3565
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep135/300 BS=128 TL=2.7026 TA=0.3701 VL=2.8714 VA=0.3565
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep136/300 BS=128 TL=2.7062 TA=0.3746 VL=2.8607 VA=0.3401
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep137/300 BS=128 TL=2.6925 TA=0.3661 VL=2.8323 VA=0.3445
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 138 (VA=0.3625)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep138/300 BS=128 TL=2.6847 TA=0.3768 VL=2.7916 VA=0.3625
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 139 (VA=0.3669)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep139/300 BS=128 TL=2.6840 TA=0.3681 VL=2.7692 VA=0.3669
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep140/300 BS=128 TL=2.6713 TA=0.3750 VL=2.8082 VA=0.3548
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep141/300 BS=128 TL=2.6851 TA=0.3732 VL=2.7828 VA=0.3510
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep142/300 BS=128 TL=2.6705 TA=0.3762 VL=2.7864 VA=0.3592
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep143/300 BS=128 TL=2.6785 TA=0.3721 VL=2.7953 VA=0.3603
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep144/300 BS=128 TL=2.6650 TA=0.3770 VL=2.8380 VA=0.3516
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 145 (VA=0.3696)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep145/300 BS=128 TL=2.6523 TA=0.3762 VL=2.7591 VA=0.3696
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep146/300 BS=128 TL=2.6600 TA=0.3798 VL=2.7519 VA=0.3614
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 147 (VA=0.3723)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep147/300 BS=128 TL=2.6548 TA=0.3766 VL=2.7474 VA=0.3723
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep148/300 BS=128 TL=2.6404 TA=0.3847 VL=2.8214 VA=0.3609
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 149 (VA=0.3734)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep149/300 BS=128 TL=2.6267 TA=0.3826 VL=2.7432 VA=0.3734
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep150/300 BS=128 TL=2.6280 TA=0.3817 VL=2.7329 VA=0.3647
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep151/300 BS=128 TL=2.6370 TA=0.3803 VL=2.7570 VA=0.3647
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep152/300 BS=128 TL=2.6406 TA=0.3806 VL=2.7141 VA=0.3718
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep153/300 BS=128 TL=2.6403 TA=0.3802 VL=2.7545 VA=0.3680
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep154/300 BS=128 TL=2.6407 TA=0.3820 VL=2.7983 VA=0.3537
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 155 (VA=0.3800)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep155/300 BS=128 TL=2.6254 TA=0.3795 VL=2.7516 VA=0.3800
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep156/300 BS=128 TL=2.6210 TA=0.3877 VL=2.7781 VA=0.3625
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep157/300 BS=128 TL=2.6225 TA=0.3885 VL=2.7427 VA=0.3685
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep158/300 BS=128 TL=2.6104 TA=0.3893 VL=2.7529 VA=0.3756
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep159/300 BS=128 TL=2.6107 TA=0.3855 VL=2.7580 VA=0.3762
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep160/300 BS=128 TL=2.6168 TA=0.3911 VL=2.7302 VA=0.3658
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep161/300 BS=128 TL=2.6003 TA=0.3930 VL=2.7243 VA=0.3751
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep162/300 BS=128 TL=2.6043 TA=0.3871 VL=2.7328 VA=0.3669
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep163/300 BS=128 TL=2.5960 TA=0.3915 VL=2.7396 VA=0.3729
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep164/300 BS=128 TL=2.5768 TA=0.3940 VL=2.6849 VA=0.3745
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep165/300 BS=128 TL=2.5822 TA=0.3911 VL=2.7136 VA=0.3767
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 166 (VA=0.3822)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep166/300 BS=128 TL=2.5704 TA=0.3914 VL=2.6493 VA=0.3822
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep167/300 BS=128 TL=2.5811 TA=0.3966 VL=2.7744 VA=0.3674
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep168/300 BS=128 TL=2.5785 TA=0.3918 VL=2.7195 VA=0.3680
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep169/300 BS=128 TL=2.5717 TA=0.3940 VL=2.7181 VA=0.3619
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep170/300 BS=128 TL=2.5602 TA=0.3932 VL=2.7031 VA=0.3696
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 171 (VA=0.3844)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep171/300 BS=128 TL=2.5478 TA=0.3971 VL=2.6792 VA=0.3844
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep172/300 BS=128 TL=2.5409 TA=0.3979 VL=2.6478 VA=0.3789
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep173/300 BS=128 TL=2.5648 TA=0.3990 VL=2.6864 VA=0.3756
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep174/300 BS=128 TL=2.5328 TA=0.3967 VL=2.6836 VA=0.3751
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 175 (VA=0.3876)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep175/300 BS=128 TL=2.5431 TA=0.4040 VL=2.6563 VA=0.3876
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep176/300 BS=128 TL=2.5294 TA=0.3963 VL=2.6558 VA=0.3822
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep177/300 BS=128 TL=2.5563 TA=0.4000 VL=2.7471 VA=0.3680
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep178/300 BS=128 TL=2.5705 TA=0.3960 VL=2.7252 VA=0.3685
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep179/300 BS=128 TL=2.5411 TA=0.3982 VL=2.6748 VA=0.3816
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep180/300 BS=128 TL=2.5185 TA=0.4010 VL=2.7250 VA=0.3663
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep181/300 BS=128 TL=2.5238 TA=0.4031 VL=2.6716 VA=0.3866
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep182/300 BS=128 TL=2.5100 TA=0.4041 VL=2.6662 VA=0.3871
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep183/300 BS=128 TL=2.5459 TA=0.4059 VL=2.6697 VA=0.3866
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep184/300 BS=128 TL=2.5173 TA=0.4064 VL=2.6646 VA=0.3833
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 185 (VA=0.3958)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep185/300 BS=128 TL=2.5349 TA=0.4059 VL=2.6276 VA=0.3958
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep186/300 BS=128 TL=2.4993 TA=0.4103 VL=2.7041 VA=0.3893
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep187/300 BS=128 TL=2.5035 TA=0.4108 VL=2.6644 VA=0.3838
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 188 (VA=0.3969)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep188/300 BS=128 TL=2.4916 TA=0.4144 VL=2.5871 VA=0.3969
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep189/300 BS=128 TL=2.5044 TA=0.4041 VL=2.6524 VA=0.3887
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep190/300 BS=128 TL=2.4853 TA=0.4109 VL=2.6167 VA=0.3937
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep191/300 BS=128 TL=2.5005 TA=0.4066 VL=2.6229 VA=0.3948
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep192/300 BS=128 TL=2.4876 TA=0.4082 VL=2.6253 VA=0.3937
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep193/300 BS=128 TL=2.4718 TA=0.4113 VL=2.6675 VA=0.3805
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep194/300 BS=128 TL=2.4902 TA=0.4116 VL=2.6361 VA=0.3931
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 195 (VA=0.4024)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep195/300 BS=128 TL=2.4969 TA=0.4134 VL=2.5867 VA=0.4024
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep196/300 BS=128 TL=2.4843 TA=0.4154 VL=2.6421 VA=0.3975
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep197/300 BS=128 TL=2.4790 TA=0.4075 VL=2.6117 VA=0.3986
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep198/300 BS=128 TL=2.4721 TA=0.4141 VL=2.5869 VA=0.3953
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep199/300 BS=128 TL=2.4598 TA=0.4146 VL=2.6650 VA=0.3849
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 200 (VA=0.4051)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep200/300 BS=128 TL=2.4628 TA=0.4165 VL=2.6270 VA=0.4051
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep201/300 BS=128 TL=2.4649 TA=0.4134 VL=2.6111 VA=0.3942
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 202 (VA=0.4057)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep202/300 BS=128 TL=2.4416 TA=0.4172 VL=2.5937 VA=0.4057
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep203/300 BS=128 TL=2.4424 TA=0.4237 VL=2.5883 VA=0.4008
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 204 (VA=0.4128)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep204/300 BS=128 TL=2.4392 TA=0.4176 VL=2.5950 VA=0.4128
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep205/300 BS=128 TL=2.4563 TA=0.4179 VL=2.5789 VA=0.4024
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep206/300 BS=128 TL=2.4313 TA=0.4165 VL=2.5821 VA=0.4084
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep207/300 BS=128 TL=2.4482 TA=0.4189 VL=2.5780 VA=0.3964
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep208/300 BS=128 TL=2.4346 TA=0.4231 VL=2.5829 VA=0.4035
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep209/300 BS=128 TL=2.4383 TA=0.4187 VL=2.5812 VA=0.3964
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep210/300 BS=128 TL=2.4200 TA=0.4228 VL=2.5797 VA=0.4046
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep211/300 BS=128 TL=2.4275 TA=0.4216 VL=2.5740 VA=0.4084
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep212/300 BS=128 TL=2.3897 TA=0.4253 VL=2.5938 VA=0.3953
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 213 (VA=0.4139)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep213/300 BS=128 TL=2.3982 TA=0.4239 VL=2.5346 VA=0.4139
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep214/300 BS=128 TL=2.4119 TA=0.4252 VL=2.5859 VA=0.3986
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep215/300 BS=128 TL=2.4166 TA=0.4223 VL=2.5957 VA=0.3964
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep216/300 BS=128 TL=2.4061 TA=0.4262 VL=2.5474 VA=0.3948
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 217 (VA=0.4172)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep217/300 BS=128 TL=2.3842 TA=0.4338 VL=2.5530 VA=0.4172
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep218/300 BS=128 TL=2.3740 TA=0.4308 VL=2.5387 VA=0.4090
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep219/300 BS=128 TL=2.4072 TA=0.4276 VL=2.5015 VA=0.4128
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep220/300 BS=128 TL=2.3799 TA=0.4303 VL=2.5785 VA=0.3953
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep221/300 BS=128 TL=2.3992 TA=0.4328 VL=2.6131 VA=0.4051
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep222/300 BS=128 TL=2.3860 TA=0.4343 VL=2.5388 VA=0.4161
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep223/300 BS=128 TL=2.3900 TA=0.4267 VL=2.5304 VA=0.4090
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 224 (VA=0.4199)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep224/300 BS=128 TL=2.4012 TA=0.4288 VL=2.5873 VA=0.4199
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep225/300 BS=128 TL=2.3920 TA=0.4310 VL=2.5527 VA=0.4057
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep226/300 BS=128 TL=2.3746 TA=0.4353 VL=2.5880 VA=0.4030
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep227/300 BS=128 TL=2.3626 TA=0.4390 VL=2.5385 VA=0.4166
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep228/300 BS=128 TL=2.3891 TA=0.4331 VL=2.5909 VA=0.4046
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep229/300 BS=128 TL=2.3628 TA=0.4390 VL=2.5306 VA=0.4183
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep230/300 BS=128 TL=2.3582 TA=0.4324 VL=2.5255 VA=0.4046
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 231 (VA=0.4226)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep231/300 BS=128 TL=2.3299 TA=0.4370 VL=2.4814 VA=0.4226
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep232/300 BS=128 TL=2.3421 TA=0.4402 VL=2.5621 VA=0.4139
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep233/300 BS=128 TL=2.3530 TA=0.4411 VL=2.5960 VA=0.3975
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep234/300 BS=128 TL=2.3581 TA=0.4323 VL=2.5734 VA=0.4144
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep235/300 BS=128 TL=2.3470 TA=0.4350 VL=2.5480 VA=0.4024
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep236/300 BS=128 TL=2.3423 TA=0.4413 VL=2.5505 VA=0.4030
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 237 (VA=0.4259)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep237/300 BS=128 TL=2.3350 TA=0.4478 VL=2.4324 VA=0.4259
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep238/300 BS=128 TL=2.3064 TA=0.4421 VL=2.5381 VA=0.4024
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep239/300 BS=128 TL=2.3300 TA=0.4462 VL=2.5092 VA=0.4161
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep240/300 BS=128 TL=2.3353 TA=0.4413 VL=2.4859 VA=0.4090
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep241/300 BS=128 TL=2.2978 TA=0.4472 VL=2.5420 VA=0.4079
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep242/300 BS=128 TL=2.2945 TA=0.4488 VL=2.5266 VA=0.4172
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 243 (VA=0.4281)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep243/300 BS=128 TL=2.3160 TA=0.4469 VL=2.4514 VA=0.4281
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep244/300 BS=128 TL=2.3182 TA=0.4455 VL=2.4942 VA=0.4177
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 245 (VA=0.4314)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep245/300 BS=128 TL=2.3080 TA=0.4459 VL=2.4766 VA=0.4314
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep246/300 BS=128 TL=2.2967 TA=0.4485 VL=2.5236 VA=0.4122
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep247/300 BS=128 TL=2.2942 TA=0.4495 VL=2.5739 VA=0.4062
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep248/300 BS=128 TL=2.3079 TA=0.4448 VL=2.4882 VA=0.4281
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep249/300 BS=128 TL=2.2829 TA=0.4507 VL=2.5175 VA=0.4079
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep250/300 BS=128 TL=2.2916 TA=0.4556 VL=2.4769 VA=0.4106
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep251/300 BS=128 TL=2.2697 TA=0.4533 VL=2.4754 VA=0.4259
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 252 (VA=0.4347)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep252/300 BS=128 TL=2.2894 TA=0.4463 VL=2.4302 VA=0.4347
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep253/300 BS=128 TL=2.2875 TA=0.4474 VL=2.4831 VA=0.4254
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep254/300 BS=128 TL=2.2816 TA=0.4535 VL=2.4505 VA=0.4226
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep255/300 BS=128 TL=2.2870 TA=0.4492 VL=2.4856 VA=0.4122
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep256/300 BS=128 TL=2.2692 TA=0.4524 VL=2.5231 VA=0.4150
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep257/300 BS=128 TL=2.2787 TA=0.4532 VL=2.5237 VA=0.4062
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep258/300 BS=128 TL=2.2926 TA=0.4529 VL=2.5064 VA=0.4237
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep259/300 BS=128 TL=2.2452 TA=0.4596 VL=2.4707 VA=0.4221
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep260/300 BS=128 TL=2.2482 TA=0.4599 VL=2.4613 VA=0.4243
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep261/300 BS=128 TL=2.2224 TA=0.4667 VL=2.4625 VA=0.4226
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep262/300 BS=128 TL=2.2951 TA=0.4511 VL=2.5180 VA=0.4161
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep263/300 BS=128 TL=2.2592 TA=0.4585 VL=2.4544 VA=0.4221
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep264/300 BS=128 TL=2.2226 TA=0.4640 VL=2.4717 VA=0.4259
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 265 (VA=0.4494)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep265/300 BS=128 TL=2.2589 TA=0.4576 VL=2.4244 VA=0.4494
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep266/300 BS=128 TL=2.2207 TA=0.4627 VL=2.3864 VA=0.4221
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep267/300 BS=128 TL=2.2518 TA=0.4548 VL=2.5152 VA=0.4237
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep268/300 BS=128 TL=2.2345 TA=0.4670 VL=2.4507 VA=0.4259
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep269/300 BS=128 TL=2.2195 TA=0.4643 VL=2.4340 VA=0.4314
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep270/300 BS=128 TL=2.2379 TA=0.4621 VL=2.4433 VA=0.4248
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep271/300 BS=128 TL=2.2009 TA=0.4663 VL=2.4769 VA=0.4265
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep272/300 BS=128 TL=2.2406 TA=0.4656 VL=2.4363 VA=0.4358
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep273/300 BS=128 TL=2.2104 TA=0.4660 VL=2.4361 VA=0.4336
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep274/300 BS=128 TL=2.2147 TA=0.4682 VL=2.4416 VA=0.4319
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep275/300 BS=128 TL=2.2222 TA=0.4640 VL=2.3656 VA=0.4456
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep276/300 BS=128 TL=2.2021 TA=0.4667 VL=2.4240 VA=0.4401
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep277/300 BS=128 TL=2.2048 TA=0.4656 VL=2.4234 VA=0.4379
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep278/300 BS=128 TL=2.2087 TA=0.4667 VL=2.4283 VA=0.4221
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep279/300 BS=128 TL=2.2060 TA=0.4688 VL=2.4242 VA=0.4336
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep280/300 BS=128 TL=2.2036 TA=0.4633 VL=2.4228 VA=0.4379
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep281/300 BS=128 TL=2.2162 TA=0.4658 VL=2.4449 VA=0.4265
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep282/300 BS=128 TL=2.1989 TA=0.4704 VL=2.4171 VA=0.4396
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep283/300 BS=128 TL=2.1727 TA=0.4787 VL=2.4128 VA=0.4374
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep284/300 BS=128 TL=2.1899 TA=0.4675 VL=2.4159 VA=0.4352
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep285/300 BS=128 TL=2.1803 TA=0.4746 VL=2.3779 VA=0.4461
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep286/300 BS=128 TL=2.1740 TA=0.4742 VL=2.3904 VA=0.4276
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep287/300 BS=128 TL=2.1934 TA=0.4716 VL=2.4357 VA=0.4336
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep288/300 BS=128 TL=2.1887 TA=0.4752 VL=2.3877 VA=0.4451
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep289/300 BS=128 TL=2.1601 TA=0.4768 VL=2.3744 VA=0.4434
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 290 (VA=0.4505)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep290/300 BS=128 TL=2.1869 TA=0.4701 VL=2.3600 VA=0.4505
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep291/300 BS=128 TL=2.1698 TA=0.4764 VL=2.4094 VA=0.4451
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep292/300 BS=128 TL=2.1598 TA=0.4789 VL=2.4604 VA=0.4210
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep293/300 BS=128 TL=2.2043 TA=0.4741 VL=2.3513 VA=0.4429
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep294/300 BS=128 TL=2.1426 TA=0.4749 VL=2.3935 VA=0.4347
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep295/300 BS=128 TL=2.1586 TA=0.4783 VL=2.3251 VA=0.4423
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep296/300 BS=128 TL=2.1397 TA=0.4737 VL=2.3727 VA=0.4396
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep297/300 BS=128 TL=2.1572 TA=0.4782 VL=2.3532 VA=0.4494
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep298/300 BS=128 TL=2.1374 TA=0.4807 VL=2.3759 VA=0.4385
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_aug at epoch 299 (VA=0.4516)
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep299/300 BS=128 TL=2.1368 TA=0.4824 VL=2.3575 VA=0.4516
+[resnet-18_bs128_lr0.001_ep300_scratch_aug] Ep300/300 BS=128 TL=2.1488 TA=0.4755 VL=2.4067 VA=0.4369
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 1 (VA=0.1586)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep1/300 BS=128 TL=4.2894 TA=0.1187 VL=4.1311 VA=0.1586
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 2 (VA=0.1657)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep2/300 BS=128 TL=4.0747 TA=0.1564 VL=4.0347 VA=0.1657
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep3/300 BS=128 TL=3.9932 TA=0.1632 VL=3.9662 VA=0.1646
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 4 (VA=0.1766)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep4/300 BS=128 TL=3.9331 TA=0.1625 VL=3.9035 VA=0.1766
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 5 (VA=0.2121)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep5/300 BS=128 TL=3.8717 TA=0.1766 VL=3.8466 VA=0.2121
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 6 (VA=0.2182)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep6/300 BS=128 TL=3.8243 TA=0.1969 VL=3.7978 VA=0.2182
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 7 (VA=0.2280)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep7/300 BS=128 TL=3.7672 TA=0.2122 VL=3.7453 VA=0.2280
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 8 (VA=0.2378)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep8/300 BS=128 TL=3.7281 TA=0.2268 VL=3.7114 VA=0.2378
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 9 (VA=0.2526)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep9/300 BS=128 TL=3.6826 TA=0.2325 VL=3.6742 VA=0.2526
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 10 (VA=0.2586)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep10/300 BS=128 TL=3.6426 TA=0.2396 VL=3.6276 VA=0.2586
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep11/300 BS=128 TL=3.6086 TA=0.2451 VL=3.6006 VA=0.2460
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep12/300 BS=128 TL=3.5646 TA=0.2593 VL=3.5682 VA=0.2482
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 13 (VA=0.2723)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep13/300 BS=128 TL=3.5322 TA=0.2608 VL=3.5296 VA=0.2723
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep14/300 BS=128 TL=3.4940 TA=0.2656 VL=3.4996 VA=0.2674
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep15/300 BS=128 TL=3.4470 TA=0.2770 VL=3.4621 VA=0.2717
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 16 (VA=0.2821)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep16/300 BS=128 TL=3.4254 TA=0.2764 VL=3.4351 VA=0.2821
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 17 (VA=0.2827)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep17/300 BS=128 TL=3.3867 TA=0.2824 VL=3.4046 VA=0.2827
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 18 (VA=0.2914)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep18/300 BS=128 TL=3.3574 TA=0.2830 VL=3.3719 VA=0.2914
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep19/300 BS=128 TL=3.3348 TA=0.2872 VL=3.3476 VA=0.2794
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep20/300 BS=128 TL=3.2984 TA=0.2954 VL=3.3150 VA=0.2903
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 21 (VA=0.2963)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep21/300 BS=128 TL=3.2741 TA=0.2921 VL=3.2965 VA=0.2963
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 22 (VA=0.3013)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep22/300 BS=128 TL=3.2468 TA=0.3003 VL=3.2704 VA=0.3013
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 23 (VA=0.3133)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep23/300 BS=128 TL=3.2174 TA=0.3061 VL=3.2484 VA=0.3133
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 24 (VA=0.3138)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep24/300 BS=128 TL=3.1959 TA=0.3107 VL=3.2203 VA=0.3138
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 25 (VA=0.3171)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep25/300 BS=128 TL=3.1754 TA=0.3147 VL=3.2045 VA=0.3171
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 26 (VA=0.3193)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep26/300 BS=128 TL=3.1579 TA=0.3202 VL=3.1862 VA=0.3193
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 27 (VA=0.3231)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep27/300 BS=128 TL=3.1368 TA=0.3226 VL=3.1624 VA=0.3231
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 28 (VA=0.3341)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep28/300 BS=128 TL=3.1069 TA=0.3262 VL=3.1447 VA=0.3341
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 29 (VA=0.3357)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep29/300 BS=128 TL=3.0823 TA=0.3319 VL=3.1201 VA=0.3357
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 30 (VA=0.3384)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep30/300 BS=128 TL=3.0563 TA=0.3344 VL=3.1075 VA=0.3384
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 31 (VA=0.3428)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep31/300 BS=128 TL=3.0399 TA=0.3393 VL=3.0951 VA=0.3428
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep32/300 BS=128 TL=3.0206 TA=0.3404 VL=3.0742 VA=0.3417
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 33 (VA=0.3477)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep33/300 BS=128 TL=3.0038 TA=0.3450 VL=3.0561 VA=0.3477
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep34/300 BS=128 TL=2.9840 TA=0.3438 VL=3.0459 VA=0.3395
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep35/300 BS=128 TL=2.9752 TA=0.3449 VL=3.0339 VA=0.3472
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 36 (VA=0.3516)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep36/300 BS=128 TL=2.9567 TA=0.3493 VL=3.0155 VA=0.3516
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 37 (VA=0.3532)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep37/300 BS=128 TL=2.9389 TA=0.3537 VL=2.9999 VA=0.3532
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 38 (VA=0.3587)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep38/300 BS=128 TL=2.9049 TA=0.3552 VL=2.9845 VA=0.3587
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 39 (VA=0.3598)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep39/300 BS=128 TL=2.8879 TA=0.3590 VL=2.9712 VA=0.3598
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 40 (VA=0.3641)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep40/300 BS=128 TL=2.8889 TA=0.3614 VL=2.9568 VA=0.3641
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep41/300 BS=128 TL=2.8604 TA=0.3657 VL=2.9524 VA=0.3641
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 42 (VA=0.3663)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep42/300 BS=128 TL=2.8416 TA=0.3642 VL=2.9312 VA=0.3663
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep43/300 BS=128 TL=2.8281 TA=0.3681 VL=2.9143 VA=0.3658
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep44/300 BS=128 TL=2.8177 TA=0.3702 VL=2.9043 VA=0.3652
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep45/300 BS=128 TL=2.7956 TA=0.3769 VL=2.8954 VA=0.3658
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 46 (VA=0.3707)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep46/300 BS=128 TL=2.7852 TA=0.3762 VL=2.8811 VA=0.3707
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 47 (VA=0.3745)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep47/300 BS=128 TL=2.7605 TA=0.3798 VL=2.8651 VA=0.3745
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 48 (VA=0.3800)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep48/300 BS=128 TL=2.7454 TA=0.3807 VL=2.8610 VA=0.3800
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep49/300 BS=128 TL=2.7385 TA=0.3840 VL=2.8465 VA=0.3762
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep50/300 BS=128 TL=2.7135 TA=0.3915 VL=2.8390 VA=0.3729
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 51 (VA=0.3833)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep51/300 BS=128 TL=2.6946 TA=0.3906 VL=2.8272 VA=0.3833
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 52 (VA=0.3871)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep52/300 BS=128 TL=2.6886 TA=0.3938 VL=2.8146 VA=0.3871
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 53 (VA=0.3882)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep53/300 BS=128 TL=2.6758 TA=0.3952 VL=2.7930 VA=0.3882
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 54 (VA=0.3975)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep54/300 BS=128 TL=2.6484 TA=0.3981 VL=2.7845 VA=0.3975
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep55/300 BS=128 TL=2.6472 TA=0.4026 VL=2.7804 VA=0.3855
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep56/300 BS=128 TL=2.6321 TA=0.4033 VL=2.7610 VA=0.3958
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep57/300 BS=128 TL=2.6214 TA=0.4086 VL=2.7635 VA=0.3920
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep58/300 BS=128 TL=2.6045 TA=0.4066 VL=2.7492 VA=0.3915
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 59 (VA=0.4046)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep59/300 BS=128 TL=2.5911 TA=0.4096 VL=2.7271 VA=0.4046
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep60/300 BS=128 TL=2.5755 TA=0.4142 VL=2.7168 VA=0.4030
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep61/300 BS=128 TL=2.5506 TA=0.4193 VL=2.7052 VA=0.4008
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep62/300 BS=128 TL=2.5526 TA=0.4200 VL=2.6974 VA=0.4019
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 63 (VA=0.4090)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep63/300 BS=128 TL=2.5226 TA=0.4223 VL=2.6828 VA=0.4090
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep64/300 BS=128 TL=2.5251 TA=0.4213 VL=2.6824 VA=0.4073
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep65/300 BS=128 TL=2.5083 TA=0.4284 VL=2.6747 VA=0.4068
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 66 (VA=0.4128)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep66/300 BS=128 TL=2.4928 TA=0.4295 VL=2.6571 VA=0.4128
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep67/300 BS=128 TL=2.4848 TA=0.4350 VL=2.6562 VA=0.4062
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 68 (VA=0.4139)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep68/300 BS=128 TL=2.4658 TA=0.4347 VL=2.6410 VA=0.4139
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep69/300 BS=128 TL=2.4461 TA=0.4388 VL=2.6253 VA=0.4122
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 70 (VA=0.4155)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep70/300 BS=128 TL=2.4315 TA=0.4407 VL=2.6184 VA=0.4155
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 71 (VA=0.4177)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep71/300 BS=128 TL=2.4253 TA=0.4368 VL=2.6163 VA=0.4177
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 72 (VA=0.4281)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep72/300 BS=128 TL=2.4085 TA=0.4461 VL=2.5986 VA=0.4281
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep73/300 BS=128 TL=2.3903 TA=0.4481 VL=2.5888 VA=0.4188
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep74/300 BS=128 TL=2.3861 TA=0.4525 VL=2.5841 VA=0.4199
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep75/300 BS=128 TL=2.3840 TA=0.4532 VL=2.6041 VA=0.4095
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep76/300 BS=128 TL=2.3565 TA=0.4589 VL=2.5601 VA=0.4259
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep77/300 BS=128 TL=2.3492 TA=0.4574 VL=2.5625 VA=0.4204
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 78 (VA=0.4347)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep78/300 BS=128 TL=2.3385 TA=0.4597 VL=2.5366 VA=0.4347
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep79/300 BS=128 TL=2.3280 TA=0.4597 VL=2.5334 VA=0.4314
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep80/300 BS=128 TL=2.3201 TA=0.4621 VL=2.5279 VA=0.4292
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep81/300 BS=128 TL=2.3052 TA=0.4656 VL=2.5257 VA=0.4303
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 82 (VA=0.4363)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep82/300 BS=128 TL=2.2877 TA=0.4690 VL=2.5183 VA=0.4363
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep83/300 BS=128 TL=2.2827 TA=0.4729 VL=2.5191 VA=0.4341
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 84 (VA=0.4401)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep84/300 BS=128 TL=2.2626 TA=0.4701 VL=2.4855 VA=0.4401
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep85/300 BS=128 TL=2.2474 TA=0.4790 VL=2.4844 VA=0.4379
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 86 (VA=0.4451)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep86/300 BS=128 TL=2.2459 TA=0.4792 VL=2.4741 VA=0.4451
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep87/300 BS=128 TL=2.2317 TA=0.4793 VL=2.4792 VA=0.4319
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 88 (VA=0.4467)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep88/300 BS=128 TL=2.2288 TA=0.4843 VL=2.4751 VA=0.4467
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep89/300 BS=128 TL=2.2160 TA=0.4848 VL=2.4577 VA=0.4434
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 90 (VA=0.4511)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep90/300 BS=128 TL=2.2008 TA=0.4854 VL=2.4367 VA=0.4511
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 91 (VA=0.4538)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep91/300 BS=128 TL=2.1849 TA=0.4900 VL=2.4325 VA=0.4538
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 92 (VA=0.4554)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep92/300 BS=128 TL=2.1647 TA=0.4954 VL=2.4251 VA=0.4554
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep93/300 BS=128 TL=2.1767 TA=0.4916 VL=2.4308 VA=0.4456
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep94/300 BS=128 TL=2.1676 TA=0.4949 VL=2.4411 VA=0.4429
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 95 (VA=0.4560)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep95/300 BS=128 TL=2.1442 TA=0.4998 VL=2.4218 VA=0.4560
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 96 (VA=0.4604)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep96/300 BS=128 TL=2.1250 TA=0.5029 VL=2.3994 VA=0.4604
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep97/300 BS=128 TL=2.1219 TA=0.5033 VL=2.4017 VA=0.4533
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep98/300 BS=128 TL=2.1096 TA=0.5073 VL=2.4511 VA=0.4429
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 99 (VA=0.4625)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep99/300 BS=128 TL=2.0905 TA=0.5111 VL=2.3756 VA=0.4625
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep100/300 BS=128 TL=2.0854 TA=0.5109 VL=2.3875 VA=0.4609
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep101/300 BS=128 TL=2.0748 TA=0.5158 VL=2.3925 VA=0.4587
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep102/300 BS=128 TL=2.0662 TA=0.5146 VL=2.3861 VA=0.4593
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 103 (VA=0.4631)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep103/300 BS=128 TL=2.0721 TA=0.5193 VL=2.3624 VA=0.4631
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 104 (VA=0.4746)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep104/300 BS=128 TL=2.0587 TA=0.5198 VL=2.3384 VA=0.4746
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep105/300 BS=128 TL=2.0251 TA=0.5236 VL=2.3758 VA=0.4587
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep106/300 BS=128 TL=2.0292 TA=0.5245 VL=2.3429 VA=0.4675
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep107/300 BS=128 TL=2.0206 TA=0.5273 VL=2.3355 VA=0.4669
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep108/300 BS=128 TL=1.9930 TA=0.5312 VL=2.3345 VA=0.4724
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep109/300 BS=128 TL=1.9990 TA=0.5280 VL=2.3196 VA=0.4729
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep110/300 BS=128 TL=1.9928 TA=0.5333 VL=2.3462 VA=0.4631
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 111 (VA=0.4800)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep111/300 BS=128 TL=1.9829 TA=0.5306 VL=2.3044 VA=0.4800
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep112/300 BS=128 TL=1.9672 TA=0.5392 VL=2.3356 VA=0.4768
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep113/300 BS=128 TL=1.9518 TA=0.5383 VL=2.3186 VA=0.4697
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 114 (VA=0.4811)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep114/300 BS=128 TL=1.9551 TA=0.5357 VL=2.2858 VA=0.4811
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep115/300 BS=128 TL=1.9381 TA=0.5438 VL=2.3361 VA=0.4647
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep116/300 BS=128 TL=1.9315 TA=0.5453 VL=2.2970 VA=0.4806
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 117 (VA=0.4839)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep117/300 BS=128 TL=1.9220 TA=0.5491 VL=2.2781 VA=0.4839
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 118 (VA=0.4882)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep118/300 BS=128 TL=1.9181 TA=0.5457 VL=2.2736 VA=0.4882
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep119/300 BS=128 TL=1.9024 TA=0.5554 VL=2.2679 VA=0.4779
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep120/300 BS=128 TL=1.8870 TA=0.5558 VL=2.2640 VA=0.4882
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep121/300 BS=128 TL=1.8814 TA=0.5556 VL=2.2676 VA=0.4795
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep122/300 BS=128 TL=1.8756 TA=0.5561 VL=2.2697 VA=0.4817
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep123/300 BS=128 TL=1.8654 TA=0.5582 VL=2.2677 VA=0.4833
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep124/300 BS=128 TL=1.8567 TA=0.5631 VL=2.2413 VA=0.4839
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep125/300 BS=128 TL=1.8405 TA=0.5638 VL=2.2646 VA=0.4795
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep126/300 BS=128 TL=1.8442 TA=0.5684 VL=2.2359 VA=0.4839
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep127/300 BS=128 TL=1.8457 TA=0.5640 VL=2.2140 VA=0.4877
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep128/300 BS=128 TL=1.8114 TA=0.5683 VL=2.2278 VA=0.4817
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep129/300 BS=128 TL=1.8087 TA=0.5721 VL=2.2336 VA=0.4882
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep130/300 BS=128 TL=1.7944 TA=0.5725 VL=2.2170 VA=0.4850
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep131/300 BS=128 TL=1.7846 TA=0.5728 VL=2.2410 VA=0.4790
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep132/300 BS=128 TL=1.7790 TA=0.5761 VL=2.2148 VA=0.4855
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep133/300 BS=128 TL=1.7640 TA=0.5803 VL=2.2321 VA=0.4790
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep134/300 BS=128 TL=1.7679 TA=0.5829 VL=2.2066 VA=0.4844
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep135/300 BS=128 TL=1.7616 TA=0.5806 VL=2.2043 VA=0.4872
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep136/300 BS=128 TL=1.7548 TA=0.5839 VL=2.1971 VA=0.4855
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 137 (VA=0.4915)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep137/300 BS=128 TL=1.7457 TA=0.5854 VL=2.2027 VA=0.4915
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 138 (VA=0.4921)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep138/300 BS=128 TL=1.7277 TA=0.5884 VL=2.1908 VA=0.4921
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 139 (VA=0.4926)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep139/300 BS=128 TL=1.7190 TA=0.5893 VL=2.1918 VA=0.4926
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep140/300 BS=128 TL=1.7105 TA=0.5870 VL=2.1871 VA=0.4893
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep141/300 BS=128 TL=1.7120 TA=0.5902 VL=2.1774 VA=0.4915
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep142/300 BS=128 TL=1.6875 TA=0.5984 VL=2.1781 VA=0.4893
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep143/300 BS=128 TL=1.7027 TA=0.5966 VL=2.1629 VA=0.4893
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep144/300 BS=128 TL=1.6901 TA=0.6004 VL=2.1690 VA=0.4893
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 145 (VA=0.4954)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep145/300 BS=128 TL=1.6928 TA=0.6000 VL=2.1861 VA=0.4954
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep146/300 BS=128 TL=1.6794 TA=0.6060 VL=2.1559 VA=0.4921
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep147/300 BS=128 TL=1.6556 TA=0.6044 VL=2.1511 VA=0.4915
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 148 (VA=0.5008)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep148/300 BS=128 TL=1.6501 TA=0.6070 VL=2.1605 VA=0.5008
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep149/300 BS=128 TL=1.6386 TA=0.6101 VL=2.1794 VA=0.4970
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep150/300 BS=128 TL=1.6230 TA=0.6078 VL=2.1593 VA=0.4932
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep151/300 BS=128 TL=1.6303 TA=0.6122 VL=2.1630 VA=0.4997
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep152/300 BS=128 TL=1.6086 TA=0.6193 VL=2.1424 VA=0.4954
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 153 (VA=0.5046)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep153/300 BS=128 TL=1.6013 TA=0.6160 VL=2.1371 VA=0.5046
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep154/300 BS=128 TL=1.6032 TA=0.6186 VL=2.1452 VA=0.5008
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep155/300 BS=128 TL=1.5882 TA=0.6176 VL=2.1664 VA=0.4888
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep156/300 BS=128 TL=1.5838 TA=0.6237 VL=2.1243 VA=0.4986
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep157/300 BS=128 TL=1.5795 TA=0.6287 VL=2.1352 VA=0.4981
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep158/300 BS=128 TL=1.5677 TA=0.6280 VL=2.1117 VA=0.4970
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep159/300 BS=128 TL=1.5686 TA=0.6280 VL=2.1304 VA=0.5036
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep160/300 BS=128 TL=1.5553 TA=0.6297 VL=2.0990 VA=0.5030
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 161 (VA=0.5074)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep161/300 BS=128 TL=1.5475 TA=0.6327 VL=2.1340 VA=0.5074
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep162/300 BS=128 TL=1.5386 TA=0.6298 VL=2.1212 VA=0.5036
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep163/300 BS=128 TL=1.5289 TA=0.6390 VL=2.1064 VA=0.5057
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep164/300 BS=128 TL=1.5125 TA=0.6392 VL=2.1176 VA=0.5057
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 165 (VA=0.5090)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep165/300 BS=128 TL=1.5116 TA=0.6433 VL=2.0953 VA=0.5090
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep166/300 BS=128 TL=1.4978 TA=0.6429 VL=2.0967 VA=0.5068
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep167/300 BS=128 TL=1.4993 TA=0.6435 VL=2.0913 VA=0.5074
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep168/300 BS=128 TL=1.4968 TA=0.6466 VL=2.1183 VA=0.5036
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep169/300 BS=128 TL=1.4882 TA=0.6461 VL=2.1136 VA=0.4975
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep170/300 BS=128 TL=1.4851 TA=0.6461 VL=2.0976 VA=0.5046
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep171/300 BS=128 TL=1.4679 TA=0.6518 VL=2.1241 VA=0.5014
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep172/300 BS=128 TL=1.4644 TA=0.6537 VL=2.0959 VA=0.5019
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 173 (VA=0.5150)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep173/300 BS=128 TL=1.4515 TA=0.6614 VL=2.0732 VA=0.5150
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep174/300 BS=128 TL=1.4387 TA=0.6547 VL=2.0914 VA=0.5068
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep175/300 BS=128 TL=1.4317 TA=0.6600 VL=2.0613 VA=0.5123
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep176/300 BS=128 TL=1.4331 TA=0.6633 VL=2.0795 VA=0.5123
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 177 (VA=0.5167)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep177/300 BS=128 TL=1.4169 TA=0.6634 VL=2.0576 VA=0.5167
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep178/300 BS=128 TL=1.4073 TA=0.6705 VL=2.0883 VA=0.5057
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep179/300 BS=128 TL=1.4064 TA=0.6685 VL=2.0748 VA=0.5118
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep180/300 BS=128 TL=1.3924 TA=0.6704 VL=2.0757 VA=0.5068
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep181/300 BS=128 TL=1.3991 TA=0.6719 VL=2.0803 VA=0.5118
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep182/300 BS=128 TL=1.3850 TA=0.6701 VL=2.0619 VA=0.5139
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep183/300 BS=128 TL=1.3836 TA=0.6763 VL=2.0466 VA=0.5167
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep184/300 BS=128 TL=1.3696 TA=0.6768 VL=2.1271 VA=0.5019
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 185 (VA=0.5221)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep185/300 BS=128 TL=1.3625 TA=0.6815 VL=2.0452 VA=0.5221
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep186/300 BS=128 TL=1.3457 TA=0.6815 VL=2.0298 VA=0.5178
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep187/300 BS=128 TL=1.3389 TA=0.6884 VL=2.0559 VA=0.5189
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep188/300 BS=128 TL=1.3293 TA=0.6842 VL=2.0544 VA=0.5172
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep189/300 BS=128 TL=1.3405 TA=0.6872 VL=2.0401 VA=0.5178
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 190 (VA=0.5276)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep190/300 BS=128 TL=1.3171 TA=0.6891 VL=2.0340 VA=0.5276
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep191/300 BS=128 TL=1.3095 TA=0.7024 VL=2.0214 VA=0.5200
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep192/300 BS=128 TL=1.3075 TA=0.6968 VL=2.0234 VA=0.5221
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep193/300 BS=128 TL=1.2948 TA=0.7013 VL=2.0451 VA=0.5205
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep194/300 BS=128 TL=1.2872 TA=0.7003 VL=2.0265 VA=0.5156
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep195/300 BS=128 TL=1.2814 TA=0.7028 VL=2.0156 VA=0.5221
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep196/300 BS=128 TL=1.2652 TA=0.7042 VL=2.0291 VA=0.5243
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep197/300 BS=128 TL=1.2707 TA=0.7068 VL=2.0495 VA=0.5216
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 198 (VA=0.5293)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep198/300 BS=128 TL=1.2576 TA=0.7055 VL=2.0216 VA=0.5293
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep199/300 BS=128 TL=1.2552 TA=0.7092 VL=2.0352 VA=0.5210
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep200/300 BS=128 TL=1.2556 TA=0.7076 VL=2.0183 VA=0.5282
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 201 (VA=0.5320)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep201/300 BS=128 TL=1.2349 TA=0.7166 VL=2.0013 VA=0.5320
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep202/300 BS=128 TL=1.2251 TA=0.7162 VL=2.0055 VA=0.5265
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep203/300 BS=128 TL=1.2285 TA=0.7215 VL=2.0223 VA=0.5232
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 204 (VA=0.5336)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep204/300 BS=128 TL=1.2239 TA=0.7215 VL=2.0033 VA=0.5336
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep205/300 BS=128 TL=1.2087 TA=0.7184 VL=2.0148 VA=0.5232
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep206/300 BS=128 TL=1.1973 TA=0.7241 VL=2.0330 VA=0.5249
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep207/300 BS=128 TL=1.1943 TA=0.7243 VL=2.0724 VA=0.5232
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep208/300 BS=128 TL=1.1855 TA=0.7262 VL=2.0380 VA=0.5221
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep209/300 BS=128 TL=1.1755 TA=0.7319 VL=2.0245 VA=0.5221
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep210/300 BS=128 TL=1.1842 TA=0.7311 VL=2.0069 VA=0.5227
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep211/300 BS=128 TL=1.1681 TA=0.7286 VL=1.9972 VA=0.5314
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 212 (VA=0.5353)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep212/300 BS=128 TL=1.1432 TA=0.7349 VL=2.0041 VA=0.5353
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep213/300 BS=128 TL=1.1474 TA=0.7392 VL=1.9890 VA=0.5331
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 214 (VA=0.5375)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep214/300 BS=128 TL=1.1337 TA=0.7431 VL=2.0129 VA=0.5375
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep215/300 BS=128 TL=1.1238 TA=0.7401 VL=2.0284 VA=0.5282
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep216/300 BS=128 TL=1.1192 TA=0.7460 VL=2.0005 VA=0.5276
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 217 (VA=0.5385)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep217/300 BS=128 TL=1.1132 TA=0.7505 VL=1.9975 VA=0.5385
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep218/300 BS=128 TL=1.1204 TA=0.7494 VL=2.0088 VA=0.5298
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep219/300 BS=128 TL=1.1029 TA=0.7522 VL=1.9844 VA=0.5380
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep220/300 BS=128 TL=1.0913 TA=0.7508 VL=1.9755 VA=0.5358
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep221/300 BS=128 TL=1.0921 TA=0.7524 VL=2.0133 VA=0.5320
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep222/300 BS=128 TL=1.0937 TA=0.7558 VL=2.0292 VA=0.5298
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep223/300 BS=128 TL=1.0739 TA=0.7554 VL=2.0513 VA=0.5200
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep224/300 BS=128 TL=1.0750 TA=0.7614 VL=1.9872 VA=0.5331
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep225/300 BS=128 TL=1.0664 TA=0.7646 VL=1.9761 VA=0.5342
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep226/300 BS=128 TL=1.0446 TA=0.7679 VL=1.9820 VA=0.5380
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep227/300 BS=128 TL=1.0539 TA=0.7691 VL=1.9864 VA=0.5314
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep228/300 BS=128 TL=1.0327 TA=0.7681 VL=2.0060 VA=0.5320
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep229/300 BS=128 TL=1.0268 TA=0.7742 VL=2.0038 VA=0.5353
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 230 (VA=0.5391)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep230/300 BS=128 TL=1.0278 TA=0.7766 VL=1.9912 VA=0.5391
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 231 (VA=0.5396)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep231/300 BS=128 TL=1.0241 TA=0.7739 VL=1.9826 VA=0.5396
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep232/300 BS=128 TL=1.0089 TA=0.7779 VL=1.9832 VA=0.5391
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 233 (VA=0.5413)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep233/300 BS=128 TL=1.0032 TA=0.7809 VL=1.9882 VA=0.5413
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 234 (VA=0.5418)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep234/300 BS=128 TL=0.9930 TA=0.7858 VL=1.9909 VA=0.5418
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep235/300 BS=128 TL=0.9920 TA=0.7869 VL=1.9822 VA=0.5391
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep236/300 BS=128 TL=0.9964 TA=0.7847 VL=2.0007 VA=0.5358
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep237/300 BS=128 TL=0.9779 TA=0.7854 VL=1.9740 VA=0.5391
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 238 (VA=0.5435)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep238/300 BS=128 TL=0.9789 TA=0.7885 VL=1.9726 VA=0.5435
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep239/300 BS=128 TL=0.9537 TA=0.7930 VL=2.0421 VA=0.5265
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep240/300 BS=128 TL=0.9585 TA=0.7929 VL=2.0103 VA=0.5385
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep241/300 BS=128 TL=0.9403 TA=0.8038 VL=1.9638 VA=0.5375
+Saved best model for resnet-18_bs128_lr0.001_ep300_scratch_noaug at epoch 242 (VA=0.5500)
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep242/300 BS=128 TL=0.9394 TA=0.7992 VL=1.9649 VA=0.5500
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep243/300 BS=128 TL=0.9233 TA=0.8016 VL=1.9844 VA=0.5484
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep244/300 BS=128 TL=0.9314 TA=0.7982 VL=1.9878 VA=0.5418
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep245/300 BS=128 TL=0.9249 TA=0.8049 VL=1.9999 VA=0.5358
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep246/300 BS=128 TL=0.9106 TA=0.8085 VL=1.9585 VA=0.5446
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep247/300 BS=128 TL=0.9130 TA=0.8068 VL=2.0031 VA=0.5407
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep248/300 BS=128 TL=0.9124 TA=0.8103 VL=1.9684 VA=0.5413
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep249/300 BS=128 TL=0.8944 TA=0.8086 VL=1.9676 VA=0.5424
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep250/300 BS=128 TL=0.8766 TA=0.8190 VL=1.9908 VA=0.5369
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep251/300 BS=128 TL=0.8814 TA=0.8189 VL=1.9910 VA=0.5473
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep252/300 BS=128 TL=0.8718 TA=0.8176 VL=1.9686 VA=0.5402
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep253/300 BS=128 TL=0.8609 TA=0.8220 VL=2.0017 VA=0.5413
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep254/300 BS=128 TL=0.8597 TA=0.8205 VL=1.9607 VA=0.5364
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep255/300 BS=128 TL=0.8523 TA=0.8217 VL=1.9892 VA=0.5407
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep256/300 BS=128 TL=0.8606 TA=0.8249 VL=1.9892 VA=0.5396
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep257/300 BS=128 TL=0.8500 TA=0.8282 VL=1.9775 VA=0.5467
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep258/300 BS=128 TL=0.8257 TA=0.8309 VL=1.9707 VA=0.5451
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep259/300 BS=128 TL=0.8208 TA=0.8351 VL=1.9613 VA=0.5462
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep260/300 BS=128 TL=0.8162 TA=0.8317 VL=1.9871 VA=0.5396
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep261/300 BS=128 TL=0.8164 TA=0.8376 VL=1.9597 VA=0.5402
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep262/300 BS=128 TL=0.8170 TA=0.8334 VL=1.9943 VA=0.5446
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep263/300 BS=128 TL=0.7954 TA=0.8399 VL=2.0021 VA=0.5457
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep264/300 BS=128 TL=0.7879 TA=0.8411 VL=1.9787 VA=0.5424
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep265/300 BS=128 TL=0.7810 TA=0.8442 VL=1.9946 VA=0.5440
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep266/300 BS=128 TL=0.7784 TA=0.8474 VL=2.0154 VA=0.5429
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep267/300 BS=128 TL=0.7590 TA=0.8481 VL=2.0048 VA=0.5462
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep268/300 BS=128 TL=0.7671 TA=0.8446 VL=1.9974 VA=0.5418
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep269/300 BS=128 TL=0.7838 TA=0.8496 VL=1.9755 VA=0.5451
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep270/300 BS=128 TL=0.7653 TA=0.8487 VL=1.9792 VA=0.5402
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep271/300 BS=128 TL=0.7516 TA=0.8461 VL=1.9868 VA=0.5446
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep272/300 BS=128 TL=0.7367 TA=0.8574 VL=2.0037 VA=0.5391
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep273/300 BS=128 TL=0.7276 TA=0.8618 VL=1.9984 VA=0.5435
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep274/300 BS=128 TL=0.7222 TA=0.8615 VL=2.0027 VA=0.5473
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep275/300 BS=128 TL=0.7085 TA=0.8645 VL=2.0076 VA=0.5462
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep276/300 BS=128 TL=0.7214 TA=0.8615 VL=2.0141 VA=0.5457
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep277/300 BS=128 TL=0.7039 TA=0.8660 VL=1.9902 VA=0.5424
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep278/300 BS=128 TL=0.7021 TA=0.8671 VL=1.9911 VA=0.5446
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep279/300 BS=128 TL=0.6903 TA=0.8679 VL=2.0132 VA=0.5413
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep280/300 BS=128 TL=0.6845 TA=0.8707 VL=1.9827 VA=0.5484
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep281/300 BS=128 TL=0.6764 TA=0.8761 VL=2.0024 VA=0.5418
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep282/300 BS=128 TL=0.6754 TA=0.8761 VL=2.0305 VA=0.5385
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep283/300 BS=128 TL=0.6749 TA=0.8751 VL=2.0496 VA=0.5396
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep284/300 BS=128 TL=0.6753 TA=0.8760 VL=2.0092 VA=0.5418
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep285/300 BS=128 TL=0.6718 TA=0.8731 VL=1.9845 VA=0.5446
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep286/300 BS=128 TL=0.6521 TA=0.8826 VL=1.9865 VA=0.5467
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep287/300 BS=128 TL=0.6465 TA=0.8817 VL=2.0100 VA=0.5396
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep288/300 BS=128 TL=0.6518 TA=0.8827 VL=2.0756 VA=0.5369
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep289/300 BS=128 TL=0.6458 TA=0.8789 VL=2.0033 VA=0.5418
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep290/300 BS=128 TL=0.6256 TA=0.8894 VL=1.9933 VA=0.5500
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep291/300 BS=128 TL=0.6207 TA=0.8886 VL=2.0279 VA=0.5429
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep292/300 BS=128 TL=0.6325 TA=0.8811 VL=2.0047 VA=0.5500
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep293/300 BS=128 TL=0.6106 TA=0.8902 VL=2.0003 VA=0.5369
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep294/300 BS=128 TL=0.6136 TA=0.8925 VL=1.9923 VA=0.5440
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep295/300 BS=128 TL=0.5929 TA=0.8971 VL=1.9878 VA=0.5489
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep296/300 BS=128 TL=0.6051 TA=0.8962 VL=2.0333 VA=0.5358
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep297/300 BS=128 TL=0.5958 TA=0.8958 VL=2.0167 VA=0.5358
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep298/300 BS=128 TL=0.5835 TA=0.8997 VL=2.0043 VA=0.5418
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep299/300 BS=128 TL=0.5853 TA=0.9012 VL=2.0538 VA=0.5385
+[resnet-18_bs128_lr0.001_ep300_scratch_noaug] Ep300/300 BS=128 TL=0.5952 TA=0.8962 VL=2.0207 VA=0.5424
+Saved plot: plot/aug-scratch/resnet-18_bs128_lr0.001_ep300_scratch_aug.png
+Saved plot: plot/aug-scratch/resnet-18_bs128_lr0.001_ep300_scratch_noaug.png
+Saved plot: plot/aug-scratch/all_loss.png
+Saved plot: plot/aug-scratch/all_acc.png

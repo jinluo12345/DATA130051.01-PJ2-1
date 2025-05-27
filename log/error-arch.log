@@ -1,0 +1,15 @@
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Some weights of ConvNextForImageClassification were not initialized from the model checkpoint at facebook/convnext-tiny-224 and are newly initialized because the shapes did not match:
+- classifier.weight: found shape torch.Size([1000, 768]) in the checkpoint and torch.Size([102, 768]) in the model instantiated
+- classifier.bias: found shape torch.Size([1000]) in the checkpoint and torch.Size([102]) in the model instantiated
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Some weights of ResNetForImageClassification were not initialized from the model checkpoint at microsoft/resnet-18 and are newly initialized because the shapes did not match:
+- classifier.1.bias: found shape torch.Size([1000]) in the checkpoint and torch.Size([102]) in the model instantiated
+- classifier.1.weight: found shape torch.Size([1000, 512]) in the checkpoint and torch.Size([102, 512]) in the model instantiated
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Some weights of ResNetForImageClassification were not initialized from the model checkpoint at microsoft/resnet-101 and are newly initialized because the shapes did not match:
+- classifier.1.weight: found shape torch.Size([1000, 2048]) in the checkpoint and torch.Size([102, 2048]) in the model instantiated
+- classifier.1.bias: found shape torch.Size([1000]) in the checkpoint and torch.Size([102]) in the model instantiated
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
