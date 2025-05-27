@@ -1,4 +1,4 @@
-## Abstract
+
 ## Abstract
 This report details the approach used to fine-tune three convolutional neural networks—Microsoft ResNet-18, Microsoft ResNet-101, and ConvNeXt—pretrained on ImageNet, for image classification on the Caltech-101 dataset. We leverage the Hugging Face transformers APIs to load and preprocess data, split the dataset into 80 % training and 20 % validation, and replace each model’s final classification head with a new 101-way output layer. Pretrained weights initialize all layers except the new head, which is trained from scratch; the backbone layers are fine-tuned using a smaller learning rate. Our best model, ConvNeXt-Base-224, achieved a final validation accuracy of **97.1 %**.
 
@@ -6,7 +6,7 @@ The full training and evaluation code is available on GitHub:
 [caltech101-finetune repository](https://github.com/jinluo12345/DATA130051.01-PJ2-1)
 
 The pretrained model weights can be downloaded from Google Drive:  
-[ConvNeXt-Base-224 weights](https://drive.google.com/drive/folders/your-drive-folder-id)
+[ConvNeXt-Base-224 weights](https://drive.google.com/drive/folders/1Vf8daBp855dEcveelM7qRBrggMueS6uo?usp=sharing)
 
 
 ## 1. Model Architectures
